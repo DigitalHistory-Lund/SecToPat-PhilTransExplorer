@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this site",
+    "section": "",
+    "text": "The Philosophical Transactions of the Royal Society is the longest-running scientific journal in the world. Its first volume appeared in 1665, and its back catalogue offers a remarkable window onto more than two centuries of European natural philosophy and early science: experiments, astronomical observations, letters from correspondents, and reports from the Society’s meetings. The articles indexed by this site span 1665–1886 — 8,545 items across 25 broad topical labels.\nAs a part of the Secrets to Patent project, we have crawled the publicly-available metadata for these articles from royalsocietypublishing.org and assembled it into a single SQLite catalogue. This site uses pre-computed aggregates of that catalogue to make topic distributions explorable.\nThe current page set is a prototype focused on the Experiment topic over time. Author productivity, page-length analysis, and a cross-filter dashboard are planned next."
+  },
+  {
+    "objectID": "about.html#what-is-and-isnt-published",
+    "href": "about.html#what-is-and-isnt-published",
+    "title": "About this site",
+    "section": "What is and isn’t published",
+    "text": "What is and isn’t published\nThis site publishes:\n\nAggregate counts (articles per year, per topic, per topic × year).\nPer-article bibliographic metadata for items in the focus view: title, DOI, year, topic, and author names — together with a link to the original article on royalsocietypublishing.org.\n\nThis site does not publish:\n\nThe raw SQLite metadata file.\nAny internal paths or URLs"
+  },
+  {
+    "objectID": "about.html#a-note-on-author-names",
+    "href": "about.html#a-note-on-author-names",
+    "title": "About this site",
+    "section": "A note on author names",
+    "text": "A note on author names\nAuthor counts are based on the surface form of the name as stored in the source metadata. No disambiguation is applied in this prototype, so the same person under two spellings (“Newton, Isaac” vs. “Sir Isaac Newton”) appears as two distinct authors. Roughly 19 % of articles have no listed author in the source."
+  },
+  {
+    "objectID": "about.html#tooling",
+    "href": "about.html#tooling",
+    "title": "About this site",
+    "section": "Tooling",
+    "text": "Tooling\nThe crawl, database build, derivative pipeline, and Quarto site were assembled by Mathias Johansson using Python, SQLite, Quarto, Plotly, GitHub Pages, and Claude."
+  },
+  {
+    "objectID": "about.html#license",
+    "href": "about.html#license",
+    "title": "About this site",
+    "section": "License",
+    "text": "License\n\n\n\nCC BY-NC 4.0\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About this site",
+    "section": "Contact",
+    "text": "Contact\nFor questions or feedback, contact Mathias Johansson at MathiasJohansson@kultur.lu.se."
+  },
+  {
+    "objectID": "topics.html",
+    "href": "topics.html",
+    "title": "Topics",
+    "section": "",
+    "text": "(a)\n\n\n\n\n\n\n                            \n                                            \n\n\n(b)\n\n\n\n\n\nFigure 1\n\n\n\n\nThe Royal Society used a handful of broad labels — Article and Letter dominate, while Experiment sits in the top five with 455 entries."
+  },
+  {
+    "objectID": "topics.html#how-often-does-each-topic-appear",
+    "href": "topics.html#how-often-does-each-topic-appear",
+    "title": "Topics",
+    "section": "",
+    "text": "(a)\n\n\n\n\n\n\n                            \n                                            \n\n\n(b)\n\n\n\n\n\nFigure 1\n\n\n\n\nThe Royal Society used a handful of broad labels — Article and Letter dominate, while Experiment sits in the top five with 455 entries."
+  },
+  {
+    "objectID": "topics.html#topics-over-time",
+    "href": "topics.html#topics-over-time",
+    "title": "Topics",
+    "section": "Topics over time",
+    "text": "Topics over time\nLines stack to the total per year. Click a topic in the legend to isolate it.\n\n\n\n\n                            \n                                            \n\n\nFigure 2"
+  },
+  {
+    "objectID": "topics.html#experiment-over-time",
+    "href": "topics.html#experiment-over-time",
+    "title": "Topics",
+    "section": "Experiment over time",
+    "text": "Experiment over time\n\n\n\n\n\n\n455 articles tagged Experiment between 1666 and 1886. Peak year: 1709 (11 articles).\n\n\n\n\nArticles per year\n\n\n\n\n                            \n                                            \n\n\nFigure 3\n\n\n\n\n\n\nShare of all articles\nYearly publication volume changes a lot across two centuries; this view normalizes Experiment counts against the total in each year.\n\n\n\n\n                            \n                                            \n\n\nFigure 4"
+  },
+  {
+    "objectID": "topics.html#every-experiment-article",
+    "href": "topics.html#every-experiment-article",
+    "title": "Topics",
+    "section": "Every Experiment article",
+    "text": "Every Experiment article\nSort or search this table. Click a title to open the article on royalsocietypublishing.org.\n\n\n\n\nTable 1\n\n\n\n\n\n  \n    \n      \n    \n        \n        \n        \n        \n        \n        \n        \n        \n    \n    \n   \n    \n      \n  \n        \n    \n    \n  \n        \n    \n    \n  \n        \n    \n      \n  \n        \n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n        \n    \n\n\n        Loading ITables v2.7.3 from the internet...\n        (need help?)"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Philosophical Transactions Explorer",
+    "section": "",
+    "text": "This site explores topic distributions in the Philosophical Transactions of the Royal Society across 1665–1886 — 8,545 articles, 25 topics.\nThe current prototype focuses on topic distributions over time, with the Experiment topic as the worked example.\n\n\n\n\n\n\nWhat’s published\n\n\n\nPre-computed aggregates (counts by year, by topic) and bibliographic metadata for individual articles (title, DOI, year, link to the publisher). The raw SQLite metadata file and the scraper’s internal URLs are not published.\n\n\n\n\n\n\n\n\nPlanned next: author productivity, page-length analysis, and a cross-filter dashboard."
+  }
+]
