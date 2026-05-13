@@ -1,8 +1,7 @@
 _site/
 .quarto/
+_freeze/
 .venv/
 __pycache__/
 *.pyc
-
-/.quarto/
 .example/

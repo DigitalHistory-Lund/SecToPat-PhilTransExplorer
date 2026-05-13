@@ -1,0 +1,146 @@
+---
+title: "Length"
+subtitle: "How long are articles, and how has that changed?"
+---
+
+```{python}
+#| label: setup
+from pathlib import Path
+
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+
+DERIV = Path("data/derivatives")
+length_dist = pd.read_csv(DERIV / "length_distribution.csv")
+length_by_topic = pd.read_csv(DERIV / "length_by_topic.csv")
+length_per_year = pd.read_csv(DERIV / "length_per_year.csv")
+topic_totals = pd.read_csv(DERIV / "topic_totals.csv")
+
+ACCENT = "#2ca02c"
+
+PAGE_BIN_ORDER = ["1", "2", "3", "4", "5", "6–10", "11–20", "21–50", "51–100", "101+"]
+length_dist["pages_bin"] = pd.Categorical(length_dist["pages_bin"], categories=PAGE_BIN_ORDER, ordered=True)
+length_by_topic["pages_bin"] = pd.Categorical(length_by_topic["pages_bin"], categories=PAGE_BIN_ORDER, ordered=True)
+
+total_with_pages = int(length_dist["count"].sum())
+excluded = 8545 - total_with_pages
+```
+
+::: {.callout-note appearance="simple"}
+Page length is computed as `lastpage − firstpage + 1` for the
+**`{python} f"{total_with_pages:,}"`** articles whose pagination is numeric.
+**`{python} excluded`** articles (5.4%) — usually short front-matter with
+Roman-numeral pagination such as *i, ii, iii* — are excluded from this view.
+:::
+
+## Distribution of article lengths
+
+```{python}
+#| label: fig-length-hist
+fig = go.Figure(
+    go.Bar(
+        x=length_dist["pages_bin"].astype(str),
+        y=length_dist["count"],
+        marker_color=ACCENT,
+        text=length_dist["count"],
+        textposition="outside",
+        hovertemplate="%{x} pages: %{y:,} articles<extra></extra>",
+    )
+)
+fig.update_layout(
+    height=420,
+    margin=dict(l=20, r=20, t=20, b=40),
+    xaxis_title="Pages",
+    yaxis_title="Articles",
+    plot_bgcolor="white",
+)
+fig.update_xaxes(type="category", categoryorder="array", categoryarray=PAGE_BIN_ORDER)
+fig.update_yaxes(showgrid=True, gridcolor="#eee")
+fig
+```
+
+Short pieces dominate — over half of articles run to five pages or fewer.
+
+## Length composition by topic
+
+For each of the top ten topics, the share of articles in each length bin.
+
+```{python}
+#| label: fig-length-by-topic
+top10 = (
+    length_by_topic.groupby("topic", as_index=False)["count"].sum()
+    .sort_values("count", ascending=False)["topic"].tolist()
+)
+order_df = length_by_topic.copy()
+order_df["topic"] = pd.Categorical(order_df["topic"], categories=top10, ordered=True)
+order_df = order_df.sort_values(["topic", "pages_bin"])
+order_df["share"] = order_df.groupby("topic", observed=True)["count"].transform(lambda s: s / s.sum())
+
+fig = px.bar(
+    order_df,
+    x="topic",
+    y="share",
+    color="pages_bin",
+    category_orders={"topic": top10, "pages_bin": PAGE_BIN_ORDER},
+    color_discrete_sequence=px.colors.sequential.Greens[2:],
+    hover_data={"count": True, "share": ":.1%"},
+)
+fig.update_layout(
+    height=460,
+    margin=dict(l=20, r=20, t=10, b=40),
+    xaxis_title=None,
+    yaxis_title="Share of articles",
+    legend_title_text="Pages",
+    plot_bgcolor="white",
+    barmode="stack",
+)
+fig.update_yaxes(tickformat=".0%", showgrid=True, gridcolor="#eee")
+fig
+```
+
+*Letter* and *Errata* skew very short; *Article* and *Astronomical Observation*
+are more bimodal, with a long tail of multi-dozen-page reports.
+
+## Median length over time
+
+```{python}
+#| label: fig-length-over-time
+lpy = length_per_year.copy()
+lpy["median_rolling5"] = lpy["median_pages"].rolling(window=5, center=True, min_periods=1).mean()
+
+fig = go.Figure()
+fig.add_trace(
+    go.Scatter(
+        x=lpy["year"],
+        y=lpy["median_pages"],
+        mode="markers",
+        marker=dict(size=4, color=ACCENT, opacity=0.45),
+        name="Yearly median",
+        hovertemplate="%{x}: median %{y:.0f} pages<extra></extra>",
+    )
+)
+fig.add_trace(
+    go.Scatter(
+        x=lpy["year"],
+        y=lpy["median_rolling5"],
+        mode="lines",
+        line=dict(color=ACCENT, width=2.5),
+        name="5-year rolling mean of medians",
+    )
+)
+fig.update_layout(
+    height=420,
+    margin=dict(l=20, r=20, t=10, b=40),
+    xaxis_title="Year",
+    yaxis_title="Median pages",
+    plot_bgcolor="white",
+    legend=dict(orientation="h", yanchor="bottom", y=1.02, xanchor="right", x=1),
+)
+fig.update_xaxes(showgrid=True, gridcolor="#eee")
+fig.update_yaxes(showgrid=True, gridcolor="#eee")
+fig
+```
+
+Typical article length grows substantially across the 18th and 19th centuries
+— a few pages in the earliest years, more like a dozen in the late 1800s.

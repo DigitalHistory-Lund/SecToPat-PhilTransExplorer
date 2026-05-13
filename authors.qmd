@@ -1,0 +1,155 @@
+---
+title: "Authors"
+subtitle: "Who wrote for the Royal Society, and when"
+---
+
+```{python}
+#| label: setup
+from pathlib import Path
+
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+
+DERIV = Path("data/derivatives")
+prod = pd.read_csv(DERIV / "author_productivity.csv")
+top_years = pd.read_csv(DERIV / "author_year_counts_top50.csv")
+collab = pd.read_csv(DERIV / "collab_size_distribution.csv")
+
+ACCENT = "#1f77b4"
+MUTED = "#a8b0bd"
+
+n_authors = len(prod)
+n_articles_with_an_author = int(prod["n_articles"].sum())
+```
+
+::: {.callout-important appearance="simple"}
+**Names are surface forms.** Author counts group by the exact name string in
+the source metadata. Two spellings of the same person (e.g. *Newton, Isaac*
+and *Sir Isaac Newton*) are counted separately. **1,643 articles (19%)** have
+no listed author.
+:::
+
+The catalogue records **`{python} n_authors`** distinct author names across
+**`{python} f"{n_articles_with_an_author:,}"`** author-article links.
+
+## The most prolific authors
+
+```{python}
+#| label: fig-top-authors
+top = prod.head(50).sort_values("n_articles")
+fig = go.Figure(
+    go.Bar(
+        x=top["n_articles"],
+        y=top["author_name"],
+        orientation="h",
+        marker_color=ACCENT,
+        hovertemplate="<b>%{y}</b><br>%{x} articles<extra></extra>",
+    )
+)
+fig.update_layout(
+    height=900,
+    margin=dict(l=20, r=20, t=10, b=40),
+    xaxis_title="Articles",
+    yaxis_title=None,
+    plot_bgcolor="white",
+)
+fig.update_xaxes(showgrid=True, gridcolor="#eee")
+fig
+```
+
+## Career span vs. publication count
+
+Each dot is an author. Hover for the name. The horizontal axis is the number
+of years between their first and last article in the catalogue (career
+*span*, not active years); the vertical axis is their total article count.
+
+```{python}
+#| label: fig-span-vs-count
+scatter_df = prod.dropna(subset=["span_years"]).copy()
+fig = px.scatter(
+    scatter_df,
+    x="span_years",
+    y="n_articles",
+    hover_name="author_name",
+    hover_data={"first_year": True, "last_year": True, "n_topics": True, "span_years": False},
+    opacity=0.6,
+)
+fig.update_traces(marker=dict(size=7, color=ACCENT, line=dict(width=0)))
+fig.update_layout(
+    height=520,
+    margin=dict(l=20, r=20, t=10, b=40),
+    xaxis_title="Career span (years)",
+    yaxis_title="Articles",
+    plot_bgcolor="white",
+)
+fig.update_xaxes(showgrid=True, gridcolor="#eee")
+fig.update_yaxes(showgrid=True, gridcolor="#eee")
+fig
+```
+
+## Timelines of the 30 most prolific authors
+
+One row per author; one marker per year in which they published. Marker size
+encodes how many articles in that year.
+
+```{python}
+#| label: fig-author-timelines
+top30 = prod.head(30)["author_name"].tolist()
+tl = top_years[top_years["author_name"].isin(top30)].copy()
+tl["author_name"] = pd.Categorical(tl["author_name"], categories=list(reversed(top30)), ordered=True)
+tl = tl.sort_values(["author_name", "year"])
+fig = go.Figure(
+    go.Scatter(
+        x=tl["year"],
+        y=tl["author_name"],
+        mode="markers",
+        marker=dict(
+            size=4 + tl["count"] * 2.5,
+            color=ACCENT,
+            opacity=0.75,
+            line=dict(width=0),
+        ),
+        hovertemplate="<b>%{y}</b><br>%{x}: %{customdata[0]} article(s)<extra></extra>",
+        customdata=tl[["count"]].values,
+    )
+)
+fig.update_layout(
+    height=720,
+    margin=dict(l=20, r=20, t=10, b=40),
+    xaxis_title="Year",
+    yaxis_title=None,
+    plot_bgcolor="white",
+)
+fig.update_xaxes(showgrid=True, gridcolor="#eee")
+fig
+```
+
+## How many authors per article?
+
+```{python}
+#| label: fig-collab
+fig = go.Figure(
+    go.Bar(
+        x=collab["n_authors"].astype(str),
+        y=collab["n_articles"],
+        marker_color=ACCENT,
+        text=collab["n_articles"],
+        textposition="outside",
+        hovertemplate="%{x} authors → %{y:,} articles<extra></extra>",
+    )
+)
+fig.update_layout(
+    height=400,
+    margin=dict(l=20, r=20, t=20, b=40),
+    xaxis_title="Authors per article",
+    yaxis_title="Articles",
+    plot_bgcolor="white",
+)
+fig.update_xaxes(type="category")
+fig.update_yaxes(showgrid=True, gridcolor="#eee")
+fig
+```
+
+Single-author work dominates this period, with co-authored pieces remaining
+unusual until the late 19th century.

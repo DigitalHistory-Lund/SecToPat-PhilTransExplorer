@@ -1,0 +1,165 @@
+---
+title: "Dashboard"
+subtitle: "Cross-filter topics, authors, and time"
+---
+
+```{ojs}
+//| echo: false
+topicYear = FileAttachment("data/derivatives/topic_year_counts.csv").csv({typed: true})
+authorYear = FileAttachment("data/derivatives/author_year_counts_top50.csv").csv({typed: true})
+articlesYear = FileAttachment("data/derivatives/articles_per_year.csv").csv({typed: true})
+topicTotals = FileAttachment("data/derivatives/topic_totals.csv").csv({typed: true})
+authorTotals = FileAttachment("data/derivatives/author_productivity.csv").csv({typed: true})
+```
+
+```{ojs}
+//| echo: false
+allTopics = [...new Set(topicYear.map(d => d.topic))].sort()
+topAuthorNames = authorTotals.slice(0, 50).map(d => d.author_name)
+yearExtent = d3.extent(topicYear, d => d.year)
+```
+
+::: {.column-screen-inset-right}
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+
+### Filters
+
+```{ojs}
+//| echo: false
+viewof yearFrom = Inputs.range(yearExtent, {value: yearExtent[0], step: 1, label: "From year"})
+viewof yearTo = Inputs.range(yearExtent, {value: yearExtent[1], step: 1, label: "To year"})
+viewof selectedTopics = Inputs.select(allTopics, {
+  multiple: 10,
+  value: allTopics,
+  label: "Topics"
+})
+viewof selectedAuthors = Inputs.select(["(all top-50)", ...topAuthorNames], {
+  value: "(all top-50)",
+  label: "Author"
+})
+```
+
+```{ojs}
+//| echo: false
+filterYearRange = ({start: Math.min(yearFrom, yearTo), end: Math.max(yearFrom, yearTo)})
+topicFiltered = topicYear.filter(d =>
+  d.year >= filterYearRange.start &&
+  d.year <= filterYearRange.end &&
+  selectedTopics.includes(d.topic)
+)
+authorFiltered = authorYear.filter(d =>
+  d.year >= filterYearRange.start &&
+  d.year <= filterYearRange.end &&
+  (selectedAuthors === "(all top-50)" || d.author_name === selectedAuthors)
+)
+filteredCount = d3.sum(topicFiltered, d => d.count)
+```
+
+::: {.callout-note appearance="simple"}
+**${filteredCount.toLocaleString()}** articles match the current filter.
+:::
+
+:::
+
+::: {.g-col-12 .g-col-md-8}
+
+### Articles per year — within the filter
+
+```{ojs}
+//| echo: false
+byYear = Array.from(
+  d3.rollup(topicFiltered, v => d3.sum(v, d => d.count), d => d.year),
+  ([year, count]) => ({year, count})
+).sort((a, b) => a.year - b.year)
+
+Plot.plot({
+  height: 280,
+  marginLeft: 50,
+  x: {label: "Year", tickFormat: d => d.toString()},
+  y: {label: "Articles", grid: true},
+  marks: [
+    Plot.areaY(byYear, {x: "year", y: "count", fill: "#1f77b4", fillOpacity: 0.25}),
+    Plot.lineY(byYear, {x: "year", y: "count", stroke: "#1f77b4", strokeWidth: 1.6}),
+    Plot.ruleY([0])
+  ]
+})
+```
+
+:::
+
+:::
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-6}
+
+### Topics within the filter
+
+```{ojs}
+//| echo: false
+byTopic = Array.from(
+  d3.rollup(topicFiltered, v => d3.sum(v, d => d.count), d => d.topic),
+  ([topic, count]) => ({topic, count})
+).sort((a, b) => b.count - a.count)
+
+Plot.plot({
+  height: 360,
+  marginLeft: 180,
+  x: {label: "Articles", grid: true},
+  y: {label: null, domain: byTopic.map(d => d.topic)},
+  marks: [
+    Plot.barX(byTopic, {y: "topic", x: "count", fill: "#1f77b4"}),
+    Plot.text(byTopic, {y: "topic", x: "count", text: d => d.count.toLocaleString(), dx: 4, textAnchor: "start"}),
+    Plot.ruleX([0])
+  ]
+})
+```
+
+:::
+
+::: {.g-col-12 .g-col-md-6}
+
+### Top-50 authors within the filter
+
+If you've picked one author, only that author's bar shows.
+
+```{ojs}
+//| echo: false
+byAuthor = Array.from(
+  d3.rollup(authorFiltered, v => d3.sum(v, d => d.count), d => d.author_name),
+  ([author, count]) => ({author, count})
+).filter(d => d.count > 0)
+  .sort((a, b) => b.count - a.count)
+  .slice(0, 25)
+
+Plot.plot({
+  height: 360,
+  marginLeft: 180,
+  x: {label: "Articles", grid: true},
+  y: {label: null, domain: byAuthor.map(d => d.author)},
+  marks: [
+    Plot.barX(byAuthor, {y: "author", x: "count", fill: "#1f77b4"}),
+    Plot.text(byAuthor, {y: "author", x: "count", text: d => d.count.toLocaleString(), dx: 4, textAnchor: "start"}),
+    Plot.ruleX([0])
+  ]
+})
+```
+
+:::
+
+:::
+
+:::
+
+::: {.callout-note collapse="true" title="What's filterable, what isn't"}
+- **Year**, **Topic**, and **Author** filters compose. Counts in the year and
+  topic panels respect *year + topic*; the author panel respects *year +
+  author* (it isn't constrained by topic, because per-topic author counts
+  aren't pre-computed in this prototype).
+- Author filtering only knows about the 50 most-published authors.
+- Move to the [Browse page](browse.qmd) for free-text search across every
+  article.
+:::

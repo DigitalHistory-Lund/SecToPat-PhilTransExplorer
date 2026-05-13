@@ -1,0 +1,69 @@
+---
+title: "Browse"
+subtitle: "Every article in the catalogue, sortable and searchable"
+---
+
+```{python}
+#| label: setup
+import html
+import json
+from pathlib import Path
+
+import pandas as pd
+from itables import show as itables_show
+import itables.options as itables_opt
+
+itables_opt.classes = "display nowrap compact"
+itables_opt.maxBytes = 0
+
+DERIV = Path("data/derivatives")
+records = json.loads((DERIV / "articles.json").read_text())
+df = pd.DataFrame.from_records(records)
+```
+
+::: {.callout-tip appearance="simple"}
+Use the search box (top right of the table) to filter by any text — title,
+author, topic, year. Click column headers to sort. Click a title to open the
+article on royalsocietypublishing.org.
+:::
+
+```{python}
+#| label: tbl-browse
+def linkify(title, url, doi):
+    label = html.escape(title or "(untitled)")
+    href = None
+    if isinstance(url, str) and url:
+        href = url
+    elif isinstance(doi, str) and doi:
+        href = f"https://doi.org/{doi}"
+    if href:
+        return f'<a href="{html.escape(href)}" target="_blank" rel="noopener">{label}</a>'
+    return label
+
+def join_authors(authors):
+    if not authors:
+        return ""
+    return "; ".join(authors)
+
+table = pd.DataFrame(
+    {
+        "Year": df["year"],
+        "Topic": df["topic"],
+        "Title": [linkify(t, u, d) for t, u, d in zip(df["title"], df["canonical_url"], df["doi"])],
+        "Authors": [join_authors(a) for a in df["authors"]],
+        "Pages": df["n_pages"],
+        "DOI": df["doi"],
+    }
+)
+table = table.sort_values(["Year", "Title"], na_position="last").reset_index(drop=True)
+
+itables_show(
+    table,
+    lengthMenu=[25, 50, 100, 250],
+    paging=True,
+    columnDefs=[
+        {"targets": 0, "width": "70px"},
+        {"targets": 4, "width": "70px"},
+    ],
+)
+```

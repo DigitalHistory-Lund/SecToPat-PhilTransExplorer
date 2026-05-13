@@ -2,7 +2,7 @@
 title: About this site
 ---
 
-The *Philosophical Transactions of the Royal Society* is the longest-running
+The [*Philosophical Transactions of the Royal Society*](https://royalsocietypublishing.org/rstl) is the longest-running
 scientific journal in the world. Its first volume appeared in 1665, and its
 back catalogue offers a remarkable window onto more than two centuries of
 European natural philosophy and early science: experiments, astronomical
@@ -16,9 +16,8 @@ royalsocietypublishing.org and assembled it into a single SQLite catalogue.
 This site uses pre-computed aggregates of that catalogue to make topic
 distributions explorable.
 
-The current page set is a **prototype** focused on the *Experiment* topic
-over time. Author productivity, page-length analysis, and a cross-filter
-dashboard are planned next.
+The site offers five views: **topics**, **authors**, **article length**, a
+cross-filter **dashboard**, and a sortable per-article **browse** table.
 
 ## What is and isn't published
 
@@ -42,11 +41,11 @@ same person under two spellings ("Newton, Isaac" vs. "Sir Isaac Newton")
 appears as two distinct authors. Roughly 19 % of articles have no listed
 author in the source.
 
-## Tooling
+## Team
 
-The crawl, database build, derivative pipeline, and Quarto site were
-assembled by Mathias Johansson using Python, SQLite, Quarto, Plotly,
-GitHub Pages, and Claude.
+Natacha Klein Käfer is the principal investigator. The crawl, database build,
+derivative pipeline, and Quarto site were assembled by Mathias Johansson
+using Python, SQLite, Quarto, Plotly, GitHub Pages, and Claude.
 
 ## Citation
 

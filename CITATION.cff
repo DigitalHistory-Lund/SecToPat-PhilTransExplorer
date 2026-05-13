@@ -1,14 +1,20 @@
 cff-version: 1.2.0
 type: software
-title: "Hagströmer Library Catalogue"
-message: "If you use this software, please cite it using these metadata."
-url: "https://github.com/DigitalHistory-Lund/SecToPat-HagstromerCatalogue"
+title: "Philosophical Transactions Explorer"
+message: "If you use this site or its derivative data, please cite it using these metadata."
+url: "https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer"
 version: 0.1.0
 date-released: "2026-05-13"
 license: CC-BY-NC-4.0
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20162091
+    description: Zenodo deposit
 authors:
   - family-names: Johansson
     given-names: Mathias
     email: MathiasJohansson@kultur.lu.se
+    orcid: https://orcid.org/0000-0002-3338-0551
   - family-names: Klein Käfer
     given-names: Natacha
+    orcid: https://orcid.org/0000-0002-6766-9943

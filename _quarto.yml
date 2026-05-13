@@ -4,21 +4,53 @@ project:
   pre-render: .venv/bin/python scripts/build_derivatives.py
   resources:
     - data/derivatives/
+    - robots.txt
 
 website:
   title: "Philosophical Transactions Explorer"
   description: "Topic distributions in the Philosophical Transactions of the Royal Society, 1665–1886."
+  site-url: https://digitalhistory-lund.github.io/SecToPat-PhilTransExplorer/
+  repo-url: https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer
+  repo-branch: main
+  repo-actions: [issue]
+  search:
+    location: navbar
+    type: textbox
   navbar:
     logo: assets/SecToPat-logo.png
     logo-href: https://secretstopatents.org/
     left:
       - href: index.qmd
-        text: Overview
+        text: Home
       - href: topics.qmd
         text: Topics
+      - href: authors.qmd
+        text: Authors
+      - href: length.qmd
+        text: Length
+      - href: dashboard.qmd
+        text: Dashboard
+      - href: browse.qmd
+        text: Browse
     right:
       - href: about.qmd
         text: About this site
+      - icon: github
+        href: https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer
+        aria-label: Source on GitHub
+  page-footer:
+    border: true
+    left: |
+      © 2026 Mathias Johansson · part of [_Secrets to Patent_](https://secretstopatents.org/)
+    center:
+      - icon: github
+        href: https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer
+        aria-label: Source on GitHub
+      - icon: bug
+        href: https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer/issues
+        aria-label: Report an issue
+    right: |
+      [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc/4.0/) Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/)
 
 format:
   html:

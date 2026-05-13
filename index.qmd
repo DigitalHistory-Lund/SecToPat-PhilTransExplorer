@@ -2,20 +2,29 @@
 title: "Philosophical Transactions Explorer"
 ---
 
-This site explores topic distributions in the *Philosophical Transactions of
-the Royal Society* across 1665–1886 — 8,545 articles, 25 topics.
+This site explores **8,545 articles** from the [*Philosophical Transactions of
+the Royal Society*](https://royalsocietypublishing.org/rstl) across **1665–1886** — counts by topic, author, and
+article length, plus how each of those changes over time.
 
-The current prototype focuses on **[topic distributions over
-time](topics.qmd)**, with the **Experiment** topic as the worked example.
+## Where to start
+
+- **[Topics](topics.qmd)** — distribution of the 25 topical labels, with the
+  *Experiment* topic as a worked example.
+- **[Authors](authors.qmd)** — the most prolific contributors, their career
+  spans, and collaboration patterns.
+- **[Length](length.qmd)** — how page counts are distributed and how typical
+  article length has changed over two centuries.
+- **[Dashboard](dashboard.qmd)** — combine filters across year, topic, and
+  author with live-updating charts.
+- **[Browse](browse.qmd)** — every article, sortable and searchable, with
+  links out to royalsocietypublishing.org.
 
 ::: {.callout-note}
 ## What's published
 
-Pre-computed aggregates (counts by year, by topic) and bibliographic metadata
-for individual articles (title, DOI, year, link to the publisher). The raw
-SQLite metadata file and the scraper's internal URLs are not published.
-:::
-
-::: {.callout-tip appearance="simple"}
-Planned next: author productivity, page-length analysis, and a cross-filter dashboard.
+Pre-computed aggregates (counts by year, by topic, by author, by page length)
+and bibliographic metadata for every article (title, DOI, year, topic, author
+names, link to the publisher). The raw SQLite metadata file and the
+scraper's internal URLs are not published. See [About](about.qmd) for the
+full statement.
 :::
