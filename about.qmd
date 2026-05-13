@@ -1,0 +1,62 @@
+---
+title: About this site
+---
+
+The *Philosophical Transactions of the Royal Society* is the longest-running
+scientific journal in the world. Its first volume appeared in 1665, and its
+back catalogue offers a remarkable window onto more than two centuries of
+European natural philosophy and early science: experiments, astronomical
+observations, letters from correspondents, and reports from the Society's
+meetings. The articles indexed by this site span 1665–1886 — 8,545 items
+across 25 broad topical labels.
+
+As a part of the [_Secrets to Patent_](https://secretstopatents.org/) project,
+we have crawled the publicly-available metadata for these articles from
+royalsocietypublishing.org and assembled it into a single SQLite catalogue.
+This site uses pre-computed aggregates of that catalogue to make topic
+distributions explorable.
+
+The current page set is a **prototype** focused on the *Experiment* topic
+over time. Author productivity, page-length analysis, and a cross-filter
+dashboard are planned next.
+
+## What is and isn't published
+
+This site publishes:
+
+- Aggregate counts (articles per year, per topic, per topic × year).
+- Per-article bibliographic metadata for items in the focus view: title,
+  DOI, year, topic, and author names — together with a link to the original
+  article on royalsocietypublishing.org.
+
+This site does **not** publish:
+
+- The raw SQLite metadata file.
+- Any internal paths or URLs
+
+## A note on author names
+
+Author counts are based on the surface form of the name as stored in the
+source metadata. No disambiguation is applied in this prototype, so the
+same person under two spellings ("Newton, Isaac" vs. "Sir Isaac Newton")
+appears as two distinct authors. Roughly 19 % of articles have no listed
+author in the source.
+
+## Tooling
+
+The crawl, database build, derivative pipeline, and Quarto site were
+assembled by Mathias Johansson using Python, SQLite, Quarto, Plotly,
+GitHub Pages, and Claude.
+
+## License
+
+[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+
+This work is licensed under a
+[Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/)
+(CC BY-NC 4.0).
+
+## Contact
+
+For questions or feedback, contact Mathias Johansson at
+[MathiasJohansson@kultur.lu.se](mailto:MathiasJohansson@kultur.lu.se).

@@ -1,0 +1,21 @@
+---
+title: "Philosophical Transactions Explorer"
+---
+
+This site explores topic distributions in the *Philosophical Transactions of
+the Royal Society* across 1665–1886 — 8,545 articles, 25 topics.
+
+The current prototype focuses on **[topic distributions over
+time](topics.qmd)**, with the **Experiment** topic as the worked example.
+
+::: {.callout-note}
+## What's published
+
+Pre-computed aggregates (counts by year, by topic) and bibliographic metadata
+for individual articles (title, DOI, year, link to the publisher). The raw
+SQLite metadata file and the scraper's internal URLs are not published.
+:::
+
+::: {.callout-tip appearance="simple"}
+Planned next: author productivity, page-length analysis, and a cross-filter dashboard.
+:::

@@ -1,0 +1,33 @@
+project:
+  type: website
+  output-dir: _site
+  pre-render: .venv/bin/python scripts/build_derivatives.py
+  resources:
+    - data/derivatives/
+
+website:
+  title: "Philosophical Transactions Explorer"
+  description: "Topic distributions in the Philosophical Transactions of the Royal Society, 1665–1886."
+  navbar:
+    logo: assets/SecToPat-logo.png
+    logo-href: https://secretstopatents.org/
+    left:
+      - href: index.qmd
+        text: Overview
+      - href: topics.qmd
+        text: Topics
+    right:
+      - href: about.qmd
+        text: About this site
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    code-tools: false
+    code-fold: true
+
+execute:
+  freeze: auto
+  echo: false
+  warning: false

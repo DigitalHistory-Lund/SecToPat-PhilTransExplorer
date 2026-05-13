@@ -1,6 +1,3 @@
-[submodule "SecToPat-PhilTransCopy"]
-	path = SecToPat-PhilTransCopy
-	url = https://github.com/DigitalHistory-Lund/SecToPat-PhilTransCopy.git
 [submodule "corpus"]
 	path = corpus
 	url = https://github.com/DigitalHistory-Lund/SecToPat-PhilTransCopy.git
