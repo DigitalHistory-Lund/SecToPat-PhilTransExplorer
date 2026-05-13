@@ -1,1 +1,8 @@
-Sitemap: https://DigitalHistory-Lund.github.io/SecToPat-PhilTransExplorer/sitemap.xml
+User-agent: archive.org_bot
+Allow: /
+
+User-agent: ia_archiver
+Allow: /
+
+User-agent: *
+Disallow: /

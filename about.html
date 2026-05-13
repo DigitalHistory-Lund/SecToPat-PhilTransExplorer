@@ -39,20 +39,19 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/quarto-html/quarto-syntax-highlighting-ea385d0e468b0dd5ea5bf0780b1290d9.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-41e0ff560f2b951fdd800b8836ec4c58.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
-  "type": "overlay",
+  "type": "textbox",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
     "/",
     "s"
   ],
-  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -93,17 +92,38 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
     <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Overview</span></a>
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
     <a class="nav-link" href="./topics.html"> 
 <span class="menu-text">Topics</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./authors.html"> 
+<span class="menu-text">Authors</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./length.html"> 
+<span class="menu-text">Length</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./dashboard.html"> 
+<span class="menu-text">Dashboard</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="./browse.html"> 
+<span class="menu-text">Browse</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link active" href="./about.html" aria-current="page"> 
 <span class="menu-text">About this site</span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer"> <i class="bi bi-github" role="img" aria-label="Source on GitHub">
+</i> 
+<span class="menu-text"></span></a>
   </li>  
 </ul>
           </div> <!-- /navcollapse -->
@@ -123,11 +143,12 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#what-is-and-isnt-published" id="toc-what-is-and-isnt-published" class="nav-link active" data-scroll-target="#what-is-and-isnt-published">What is and isn’t published</a></li>
   <li><a href="#a-note-on-author-names" id="toc-a-note-on-author-names" class="nav-link" data-scroll-target="#a-note-on-author-names">A note on author names</a></li>
-  <li><a href="#tooling" id="toc-tooling" class="nav-link" data-scroll-target="#tooling">Tooling</a></li>
+  <li><a href="#team" id="toc-team" class="nav-link" data-scroll-target="#team">Team</a></li>
+  <li><a href="#citation" id="toc-citation" class="nav-link" data-scroll-target="#citation">Citation</a></li>
   <li><a href="#license" id="toc-license" class="nav-link" data-scroll-target="#license">License</a></li>
   <li><a href="#contact" id="toc-contact" class="nav-link" data-scroll-target="#contact">Contact</a></li>
   </ul>
-</nav>
+<div class="toc-actions"><ul><li><a href="https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -151,9 +172,9 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>The <em>Philosophical Transactions of the Royal Society</em> is the longest-running scientific journal in the world. Its first volume appeared in 1665, and its back catalogue offers a remarkable window onto more than two centuries of European natural philosophy and early science: experiments, astronomical observations, letters from correspondents, and reports from the Society’s meetings. The articles indexed by this site span 1665–1886 — 8,545 items across 25 broad topical labels.</p>
+<p>The <a href="https://royalsocietypublishing.org/rstl"><em>Philosophical Transactions of the Royal Society</em></a> is the longest-running scientific journal in the world. Its first volume appeared in 1665, and its back catalogue offers a remarkable window onto more than two centuries of European natural philosophy and early science: experiments, astronomical observations, letters from correspondents, and reports from the Society’s meetings. The articles indexed by this site span 1665–1886 — 8,545 items across 25 broad topical labels.</p>
 <p>As a part of the <a href="https://secretstopatents.org/"><em>Secrets to Patent</em></a> project, we have crawled the publicly-available metadata for these articles from royalsocietypublishing.org and assembled it into a single SQLite catalogue. This site uses pre-computed aggregates of that catalogue to make topic distributions explorable.</p>
-<p>The current page set is a <strong>prototype</strong> focused on the <em>Experiment</em> topic over time. Author productivity, page-length analysis, and a cross-filter dashboard are planned next.</p>
+<p>The site offers five views: <strong>topics</strong>, <strong>authors</strong>, <strong>article length</strong>, a cross-filter <strong>dashboard</strong>, and a sortable per-article <strong>browse</strong> table.</p>
 <section id="what-is-and-isnt-published" class="level2">
 <h2 class="anchored" data-anchor-id="what-is-and-isnt-published">What is and isn’t published</h2>
 <p>This site publishes:</p>
@@ -171,9 +192,19 @@ ul.task-list li input[type="checkbox"] {
 <h2 class="anchored" data-anchor-id="a-note-on-author-names">A note on author names</h2>
 <p>Author counts are based on the surface form of the name as stored in the source metadata. No disambiguation is applied in this prototype, so the same person under two spellings (“Newton, Isaac” vs.&nbsp;“Sir Isaac Newton”) appears as two distinct authors. Roughly 19 % of articles have no listed author in the source.</p>
 </section>
-<section id="tooling" class="level2">
-<h2 class="anchored" data-anchor-id="tooling">Tooling</h2>
-<p>The crawl, database build, derivative pipeline, and Quarto site were assembled by Mathias Johansson using Python, SQLite, Quarto, Plotly, GitHub Pages, and Claude.</p>
+<section id="team" class="level2">
+<h2 class="anchored" data-anchor-id="team">Team</h2>
+<p>Natacha Klein Käfer is the principal investigator. The crawl, database build, derivative pipeline, and Quarto site were assembled by Mathias Johansson using Python, SQLite, Quarto, Plotly, GitHub Pages, and Claude.</p>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><a href="https://doi.org/10.5281/zenodo.20162091"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.20162091.svg" class="img-fluid figure-img"></a></p>
+<figcaption>DOI</figcaption>
+</figure>
+</div>
+<p>If you use this site or its derivative data in your work, please cite the Zenodo deposit: <a href="https://doi.org/10.5281/zenodo.20162091">10.5281/zenodo.20162091</a>.</p>
 </section>
 <section id="license" class="level2">
 <h2 class="anchored" data-anchor-id="license">License</h2>
@@ -265,7 +296,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/DigitalHistory-Lund\.github\.io\/SecToPat-PhilTransExplorer\/");
+        var filterRegex = new RegExp("https:\/\/digitalhistory-lund\.github\.io\/SecToPat-PhilTransExplorer\/");
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }
@@ -593,6 +624,32 @@ ul.task-list li input[type="checkbox"] {
   });
   </script>
 </div> <!-- /content -->
+<footer class="footer">
+  <div class="nav-footer">
+    <div class="nav-footer-left">
+<p>© 2026 Mathias Johansson · part of <a href="https://secretstopatents.org/"><em>Secrets to Patent</em></a></p>
+</div>   
+    <div class="nav-footer-center">
+      <ul class="footer-items list-unstyled">
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer">
+      <i class="bi bi-github" role="img" aria-label="Source on GitHub">
+</i> 
+    </a>
+  </li>  
+    <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer/issues">
+      <i class="bi bi-bug" role="img" aria-label="Report an issue">
+</i> 
+    </a>
+  </li>  
+</ul>
+    <div class="toc-actions d-sm-block d-md-none"><ul><li><a href="https://github.com/DigitalHistory-Lund/SecToPat-PhilTransExplorer/issues/new" class="toc-action"><i class="bi bi-github"></i>Report an issue</a></li></ul></div></div>
+    <div class="nav-footer-right">
+<p><a href="https://creativecommons.org/licenses/by-nc/4.0/"><img src="https://licensebuttons.net/l/by-nc/4.0/80x15.png" class="img-fluid" alt="CC BY-NC 4.0"></a> Licensed under <a href="https://creativecommons.org/licenses/by-nc/4.0/">CC BY-NC 4.0</a></p>
+</div>
+  </div>
+</footer>
 
 
 

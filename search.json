@@ -1,45 +1,80 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About this site",
+    "objectID": "authors.html",
+    "href": "authors.html",
+    "title": "Authors",
     "section": "",
-    "text": "The Philosophical Transactions of the Royal Society is the longest-running scientific journal in the world. Its first volume appeared in 1665, and its back catalogue offers a remarkable window onto more than two centuries of European natural philosophy and early science: experiments, astronomical observations, letters from correspondents, and reports from the Society’s meetings. The articles indexed by this site span 1665–1886 — 8,545 items across 25 broad topical labels.\nAs a part of the Secrets to Patent project, we have crawled the publicly-available metadata for these articles from royalsocietypublishing.org and assembled it into a single SQLite catalogue. This site uses pre-computed aggregates of that catalogue to make topic distributions explorable.\nThe current page set is a prototype focused on the Experiment topic over time. Author productivity, page-length analysis, and a cross-filter dashboard are planned next."
+    "text": "Names are surface forms. Author counts group by the exact name string in the source metadata. Two spellings of the same person (e.g. Newton, Isaac and Sir Isaac Newton) are counted separately. 1,643 articles (19%) have no listed author.\nThe catalogue records 2679 distinct author names across 7,638 author-article links."
   },
   {
-    "objectID": "about.html#what-is-and-isnt-published",
-    "href": "about.html#what-is-and-isnt-published",
-    "title": "About this site",
-    "section": "What is and isn’t published",
-    "text": "What is and isn’t published\nThis site publishes:\n\nAggregate counts (articles per year, per topic, per topic × year).\nPer-article bibliographic metadata for items in the focus view: title, DOI, year, topic, and author names — together with a link to the original article on royalsocietypublishing.org.\n\nThis site does not publish:\n\nThe raw SQLite metadata file.\nAny internal paths or URLs"
+    "objectID": "authors.html#the-most-prolific-authors",
+    "href": "authors.html#the-most-prolific-authors",
+    "title": "Authors",
+    "section": "The most prolific authors",
+    "text": "The most prolific authors\n\n\n\n\n\n\n\n        \n        \n        \n\n\n(a)\n\n\n\n\n\n\n                            \n                                            \n\n\n(b)\n\n\n\n\n\nFigure 1"
   },
   {
-    "objectID": "about.html#a-note-on-author-names",
-    "href": "about.html#a-note-on-author-names",
-    "title": "About this site",
-    "section": "A note on author names",
-    "text": "A note on author names\nAuthor counts are based on the surface form of the name as stored in the source metadata. No disambiguation is applied in this prototype, so the same person under two spellings (“Newton, Isaac” vs. “Sir Isaac Newton”) appears as two distinct authors. Roughly 19 % of articles have no listed author in the source."
+    "objectID": "authors.html#career-span-vs.-publication-count",
+    "href": "authors.html#career-span-vs.-publication-count",
+    "title": "Authors",
+    "section": "Career span vs. publication count",
+    "text": "Career span vs. publication count\nEach dot is an author. Hover for the name. The horizontal axis is the number of years between their first and last article in the catalogue (career span, not active years); the vertical axis is their total article count.\n\n\n\n\n                            \n                                            \n\n\nFigure 2"
   },
   {
-    "objectID": "about.html#tooling",
-    "href": "about.html#tooling",
-    "title": "About this site",
-    "section": "Tooling",
-    "text": "Tooling\nThe crawl, database build, derivative pipeline, and Quarto site were assembled by Mathias Johansson using Python, SQLite, Quarto, Plotly, GitHub Pages, and Claude."
+    "objectID": "authors.html#timelines-of-the-30-most-prolific-authors",
+    "href": "authors.html#timelines-of-the-30-most-prolific-authors",
+    "title": "Authors",
+    "section": "Timelines of the 30 most prolific authors",
+    "text": "Timelines of the 30 most prolific authors\nOne row per author; one marker per year in which they published. Marker size encodes how many articles in that year.\n\n\n\n\n                            \n                                            \n\n\nFigure 3"
   },
   {
-    "objectID": "about.html#license",
-    "href": "about.html#license",
-    "title": "About this site",
-    "section": "License",
-    "text": "License\n\n\n\nCC BY-NC 4.0\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)."
+    "objectID": "authors.html#how-many-authors-per-article",
+    "href": "authors.html#how-many-authors-per-article",
+    "title": "Authors",
+    "section": "How many authors per article?",
+    "text": "How many authors per article?\n\n\n\n\n                            \n                                            \n\n\nFigure 4\n\n\n\n\nSingle-author work dominates this period, with co-authored pieces remaining unusual until the late 19th century."
   },
   {
-    "objectID": "about.html#contact",
-    "href": "about.html#contact",
-    "title": "About this site",
-    "section": "Contact",
-    "text": "Contact\nFor questions or feedback, contact Mathias Johansson at MathiasJohansson@kultur.lu.se."
+    "objectID": "length.html",
+    "href": "length.html",
+    "title": "Length",
+    "section": "",
+    "text": "Page length is computed as lastpage − firstpage + 1 for the 8,081 articles whose pagination is numeric. 464 articles (5.4%) — usually short front-matter with Roman-numeral pagination such as i, ii, iii — are excluded from this view."
+  },
+  {
+    "objectID": "length.html#distribution-of-article-lengths",
+    "href": "length.html#distribution-of-article-lengths",
+    "title": "Length",
+    "section": "Distribution of article lengths",
+    "text": "Distribution of article lengths\n\n\n\n\n\n\n\n        \n        \n        \n\n\n(a)\n\n\n\n\n\n\n                            \n                                            \n\n\n(b)\n\n\n\n\n\nFigure 1\n\n\n\n\nShort pieces dominate — over half of articles run to five pages or fewer."
+  },
+  {
+    "objectID": "length.html#length-composition-by-topic",
+    "href": "length.html#length-composition-by-topic",
+    "title": "Length",
+    "section": "Length composition by topic",
+    "text": "Length composition by topic\nFor each of the top ten topics, the share of articles in each length bin.\n\n\n\n\n                            \n                                            \n\n\nFigure 2\n\n\n\n\nLetter and Errata skew very short; Article and Astronomical Observation are more bimodal, with a long tail of multi-dozen-page reports."
+  },
+  {
+    "objectID": "length.html#median-length-over-time",
+    "href": "length.html#median-length-over-time",
+    "title": "Length",
+    "section": "Median length over time",
+    "text": "Median length over time\n\n\n\n\n                            \n                                            \n\n\nFigure 3\n\n\n\n\nTypical article length grows substantially across the 18th and 19th centuries — a few pages in the earliest years, more like a dozen in the late 1800s."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Philosophical Transactions Explorer",
+    "section": "",
+    "text": "This site explores 8,545 articles from the Philosophical Transactions of the Royal Society across 1665–1886 — counts by topic, author, and article length, plus how each of those changes over time."
+  },
+  {
+    "objectID": "index.html#where-to-start",
+    "href": "index.html#where-to-start",
+    "title": "Philosophical Transactions Explorer",
+    "section": "Where to start",
+    "text": "Where to start\n\nTopics — distribution of the 25 topical labels, with the Experiment topic as a worked example.\nAuthors — the most prolific contributors, their career spans, and collaboration patterns.\nLength — how page counts are distributed and how typical article length has changed over two centuries.\nDashboard — combine filters across year, topic, and author with live-updating charts.\nBrowse — every article, sortable and searchable, with links out to royalsocietypublishing.org.\n\n\n\n\n\n\n\nWhat’s published\n\n\n\nPre-computed aggregates (counts by year, by topic, by author, by page length) and bibliographic metadata for every article (title, DOI, year, topic, author names, link to the publisher). The raw SQLite metadata file and the scraper’s internal URLs are not published. See About for the full statement."
   },
   {
     "objectID": "topics.html",
@@ -77,10 +112,66 @@
     "text": "Every Experiment article\nSort or search this table. Click a title to open the article on royalsocietypublishing.org.\n\n\n\n\nTable 1\n\n\n\n\n\n  \n    \n      \n    \n        \n        \n        \n        \n        \n        \n        \n        \n    \n    \n   \n    \n      \n  \n        \n    \n    \n  \n        \n    \n    \n  \n        \n    \n      \n  \n        \n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n        \n    \n\n\n        Loading ITables v2.7.3 from the internet...\n        (need help?)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Philosophical Transactions Explorer",
+    "objectID": "dashboard.html",
+    "href": "dashboard.html",
+    "title": "Dashboard",
     "section": "",
-    "text": "This site explores topic distributions in the Philosophical Transactions of the Royal Society across 1665–1886 — 8,545 articles, 25 topics.\nThe current prototype focuses on topic distributions over time, with the Experiment topic as the worked example.\n\n\n\n\n\n\nWhat’s published\n\n\n\nPre-computed aggregates (counts by year, by topic) and bibliographic metadata for individual articles (title, DOI, year, link to the publisher). The raw SQLite metadata file and the scraper’s internal URLs are not published.\n\n\n\n\n\n\n\n\nPlanned next: author productivity, page-length analysis, and a cross-filter dashboard."
+    "text": "Code\ntopicYear = FileAttachment(\"data/derivatives/topic_year_counts.csv\").csv({typed: true})\nauthorYear = FileAttachment(\"data/derivatives/author_year_counts_top50.csv\").csv({typed: true})\narticlesYear = FileAttachment(\"data/derivatives/articles_per_year.csv\").csv({typed: true})\ntopicTotals = FileAttachment(\"data/derivatives/topic_totals.csv\").csv({typed: true})\nauthorTotals = FileAttachment(\"data/derivatives/author_productivity.csv\").csv({typed: true})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode\nallTopics = [...new Set(topicYear.map(d =&gt; d.topic))].sort()\ntopAuthorNames = authorTotals.slice(0, 50).map(d =&gt; d.author_name)\nyearExtent = d3.extent(topicYear, d =&gt; d.year)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nFilters\n\n\nCode\nviewof yearFrom = Inputs.range(yearExtent, {value: yearExtent[0], step: 1, label: \"From year\"})\nviewof yearTo = Inputs.range(yearExtent, {value: yearExtent[1], step: 1, label: \"To year\"})\nviewof selectedTopics = Inputs.select(allTopics, {\n  multiple: 10,\n  value: allTopics,\n  label: \"Topics\"\n})\nviewof selectedAuthors = Inputs.select([\"(all top-50)\", ...topAuthorNames], {\n  value: \"(all top-50)\",\n  label: \"Author\"\n})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCode\nfilterYearRange = ({start: Math.min(yearFrom, yearTo), end: Math.max(yearFrom, yearTo)})\ntopicFiltered = topicYear.filter(d =&gt;\n  d.year &gt;= filterYearRange.start &&\n  d.year &lt;= filterYearRange.end &&\n  selectedTopics.includes(d.topic)\n)\nauthorFiltered = authorYear.filter(d =&gt;\n  d.year &gt;= filterYearRange.start &&\n  d.year &lt;= filterYearRange.end &&\n  (selectedAuthors === \"(all top-50)\" || d.author_name === selectedAuthors)\n)\nfilteredCount = d3.sum(topicFiltered, d =&gt; d.count)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n articles match the current filter.\n\n\n\n\n\nArticles per year — within the filter\n\n\nCode\nbyYear = Array.from(\n  d3.rollup(topicFiltered, v =&gt; d3.sum(v, d =&gt; d.count), d =&gt; d.year),\n  ([year, count]) =&gt; ({year, count})\n).sort((a, b) =&gt; a.year - b.year)\n\nPlot.plot({\n  height: 280,\n  marginLeft: 50,\n  x: {label: \"Year\", tickFormat: d =&gt; d.toString()},\n  y: {label: \"Articles\", grid: true},\n  marks: [\n    Plot.areaY(byYear, {x: \"year\", y: \"count\", fill: \"#1f77b4\", fillOpacity: 0.25}),\n    Plot.lineY(byYear, {x: \"year\", y: \"count\", stroke: \"#1f77b4\", strokeWidth: 1.6}),\n    Plot.ruleY([0])\n  ]\n})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTopics within the filter\n\n\nCode\nbyTopic = Array.from(\n  d3.rollup(topicFiltered, v =&gt; d3.sum(v, d =&gt; d.count), d =&gt; d.topic),\n  ([topic, count]) =&gt; ({topic, count})\n).sort((a, b) =&gt; b.count - a.count)\n\nPlot.plot({\n  height: 360,\n  marginLeft: 180,\n  x: {label: \"Articles\", grid: true},\n  y: {label: null, domain: byTopic.map(d =&gt; d.topic)},\n  marks: [\n    Plot.barX(byTopic, {y: \"topic\", x: \"count\", fill: \"#1f77b4\"}),\n    Plot.text(byTopic, {y: \"topic\", x: \"count\", text: d =&gt; d.count.toLocaleString(), dx: 4, textAnchor: \"start\"}),\n    Plot.ruleX([0])\n  ]\n})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTop-50 authors within the filter\nIf you’ve picked one author, only that author’s bar shows.\n\n\nCode\nbyAuthor = Array.from(\n  d3.rollup(authorFiltered, v =&gt; d3.sum(v, d =&gt; d.count), d =&gt; d.author_name),\n  ([author, count]) =&gt; ({author, count})\n).filter(d =&gt; d.count &gt; 0)\n  .sort((a, b) =&gt; b.count - a.count)\n  .slice(0, 25)\n\nPlot.plot({\n  height: 360,\n  marginLeft: 180,\n  x: {label: \"Articles\", grid: true},\n  y: {label: null, domain: byAuthor.map(d =&gt; d.author)},\n  marks: [\n    Plot.barX(byAuthor, {y: \"author\", x: \"count\", fill: \"#1f77b4\"}),\n    Plot.text(byAuthor, {y: \"author\", x: \"count\", text: d =&gt; d.count.toLocaleString(), dx: 4, textAnchor: \"start\"}),\n    Plot.ruleX([0])\n  ]\n})\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat’s filterable, what isn’t\n\n\n\n\n\n\nYear, Topic, and Author filters compose. Counts in the year and topic panels respect year + topic; the author panel respects year + author (it isn’t constrained by topic, because per-topic author counts aren’t pre-computed in this prototype).\nAuthor filtering only knows about the 50 most-published authors.\nMove to the Browse page for free-text search across every article."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About this site",
+    "section": "",
+    "text": "The Philosophical Transactions of the Royal Society is the longest-running scientific journal in the world. Its first volume appeared in 1665, and its back catalogue offers a remarkable window onto more than two centuries of European natural philosophy and early science: experiments, astronomical observations, letters from correspondents, and reports from the Society’s meetings. The articles indexed by this site span 1665–1886 — 8,545 items across 25 broad topical labels.\nAs a part of the Secrets to Patent project, we have crawled the publicly-available metadata for these articles from royalsocietypublishing.org and assembled it into a single SQLite catalogue. This site uses pre-computed aggregates of that catalogue to make topic distributions explorable.\nThe site offers five views: topics, authors, article length, a cross-filter dashboard, and a sortable per-article browse table."
+  },
+  {
+    "objectID": "about.html#what-is-and-isnt-published",
+    "href": "about.html#what-is-and-isnt-published",
+    "title": "About this site",
+    "section": "What is and isn’t published",
+    "text": "What is and isn’t published\nThis site publishes:\n\nAggregate counts (articles per year, per topic, per topic × year).\nPer-article bibliographic metadata for items in the focus view: title, DOI, year, topic, and author names — together with a link to the original article on royalsocietypublishing.org.\n\nThis site does not publish:\n\nThe raw SQLite metadata file.\nAny internal paths or URLs"
+  },
+  {
+    "objectID": "about.html#a-note-on-author-names",
+    "href": "about.html#a-note-on-author-names",
+    "title": "About this site",
+    "section": "A note on author names",
+    "text": "A note on author names\nAuthor counts are based on the surface form of the name as stored in the source metadata. No disambiguation is applied in this prototype, so the same person under two spellings (“Newton, Isaac” vs. “Sir Isaac Newton”) appears as two distinct authors. Roughly 19 % of articles have no listed author in the source."
+  },
+  {
+    "objectID": "about.html#team",
+    "href": "about.html#team",
+    "title": "About this site",
+    "section": "Team",
+    "text": "Team\nNatacha Klein Käfer is the principal investigator. The crawl, database build, derivative pipeline, and Quarto site were assembled by Mathias Johansson using Python, SQLite, Quarto, Plotly, GitHub Pages, and Claude."
+  },
+  {
+    "objectID": "about.html#citation",
+    "href": "about.html#citation",
+    "title": "About this site",
+    "section": "Citation",
+    "text": "Citation\n\n\n\nDOI\n\n\nIf you use this site or its derivative data in your work, please cite the Zenodo deposit: 10.5281/zenodo.20162091."
+  },
+  {
+    "objectID": "about.html#license",
+    "href": "about.html#license",
+    "title": "About this site",
+    "section": "License",
+    "text": "License\n\n\n\nCC BY-NC 4.0\n\n\nThis work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About this site",
+    "section": "Contact",
+    "text": "Contact\nFor questions or feedback, contact Mathias Johansson at MathiasJohansson@kultur.lu.se."
+  },
+  {
+    "objectID": "browse.html",
+    "href": "browse.html",
+    "title": "Browse",
+    "section": "",
+    "text": "Use the search box (top right of the table) to filter by any text — title, author, topic, year. Click column headers to sort. Click a title to open the article on royalsocietypublishing.org.\n\n\n\n\n\n\n\nTable 1\n\n\n\n\n\n  \n    \n      \n    \n        \n        \n        \n        \n        \n        \n        \n        \n    \n    \n   \n    \n      \n  \n        \n    \n    \n  \n        \n    \n    \n  \n        \n    \n      \n  \n        \n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n\n            \n                \n                \n            \n        \n    \n\n\n        Loading ITables v2.7.3 from the internet...\n        (need help?)"
   }
 ]

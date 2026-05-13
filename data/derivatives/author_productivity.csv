@@ -1,0 +1,2680 @@
+author_name,n_articles,first_year,last_year,n_topics,span_years
+"Home, Everard",108,1790,1838,6,49
+"Leeuwenhoek, Antoni Van",97,1673,1723,3,51
+"Halley, Edmond",72,1676,1761,7,86
+"Herschel, William",68,1780,1818,6,39
+"Watson, William",64,1741,1778,6,38
+"Desaguliers, John Theophilus",55,1716,1742,6,27
+"Cayley, Arthur",55,1852,1880,2,29
+"Hauksbee, Francis",49,1704,1713,2,10
+"Wallis, John",49,1666,1702,4,37
+"Owen, Richard",48,1832,1886,1,55
+"Davy, Humphry",46,1801,1829,7,29
+"Stack, Thomas",46,1730,1752,5,23
+"Sabine, Edward",45,1819,1877,5,59
+"Lister, Martin",44,1671,1701,3,31
+"Faraday, Michael",44,1821,1857,4,37
+"Derham, William",42,1698,1736,6,39
+"Parsons, James",42,1741,1768,3,28
+"Sloane, Hans",41,1691,1755,3,65
+"Wollaston, William Hyde",39,1797,1829,4,33
+"Mortimer, Cromwell",35,1730,1750,6,21
+"Short, James",35,1731,1769,3,39
+"Maskelyne, Nevil",35,1759,1879,5,121
+"Swinton, John",35,1753,1774,2,22
+"Brewster, David",31,1813,1860,2,48
+"Bevis, John",30,1737,1771,3,35
+"Baker, Henry",30,1740,1766,3,27
+"Miles, Henry",30,1741,1755,3,15
+"Thoresby, Ralph",29,1696,1723,3,28
+"Flamsteed, John",29,1670,1713,4,44
+"Airy, George Biddell",29,1826,1885,7,60
+"Davy, John",25,1812,1856,3,45
+"Boyle, Robert",24,1665,1693,4,29
+"Lubbock, John William",24,1830,1857,4,28
+"Barker, Thomas",23,1749,1800,4,52
+"Knight, Thomas Andrew",23,1795,1837,2,43
+"Hevelius, Johannes",23,1666,1686,3,21
+"Arderon, William",22,1744,1763,2,20
+"Ellis, John",22,1753,1771,3,19
+"Cavendish, Henry",21,1766,1809,6,44
+"Herschel, John Frederick William",21,1813,1864,4,52
+"Hunter, John",20,1766,1794,3,29
+"Tyndall, John",20,1853,1882,3,30
+"Newton, Isaac",20,1672,1753,2,82
+"Petiver, James",20,1697,1715,3,19
+"Pond, John",20,1806,1835,6,30
+"Jurin, James",20,1718,1745,7,28
+"Gray, Stephen",19,1696,1736,4,41
+"Hodgson, James",19,1704,1749,2,46
+"Rand, Isaac",19,1723,1740,3,18
+"Priestley, Joseph",19,1768,1791,4,24
+"Oldenburg, Henry",18,1665,1684,8,20
+"Cat, Claude Nicholas Le",18,1741,1767,2,27
+"Smeaton, John",18,1750,1789,6,40
+"Ward, John",18,1729,1755,3,27
+"Kater, Henry",17,1813,1840,5,28
+"Huxham, John",17,1723,1763,3,41
+"Parker, William Kitchen",17,1865,1885,3,21
+"Brodie, Benjamin Collins",17,1809,1877,3,69
+"Graham, George",17,1721,1749,3,29
+"Musgrave, William",17,1683,1713,2,31
+"Ivory, James",16,1809,1839,3,31
+"Whewell, William",16,1825,1850,2,26
+"Cowper, William",16,1694,1712,2,19
+"Cassini, Jean Dominique",16,1666,1698,3,33
+"Wilmer, John",16,1750,1765,2,16
+"Lhuyd, Edward",15,1694,1713,1,20
+"Zollman, Philip Henry",15,1731,1749,4,19
+"Carbone, Joanne Baptista",15,1724,1730,2,7
+"Borlase, William",15,1749,1772,3,24
+"Hatchett, Charles",15,1796,1817,3,22
+"Roscoe, Henry Enfield",14,1857,1877,3,21
+"Matthiessen, Augustus",14,1858,1869,1,12
+"Williamson, William Crawford",14,1849,1883,1,35
+"Weidler, Johann Friedrich",14,1729,1740,3,12
+"Tyson, Edward",14,1679,1704,2,26
+"Wilson, Benjamin",14,1753,1779,3,27
+"Barlow, Peter",14,1821,1834,4,14
+"Cavallo, Tiberius",14,1776,1791,7,16
+"Henry, William",14,1752,1824,3,73
+"Young, Thomas",14,1793,1826,3,34
+"Thomson, William",13,1673,1879,2,207
+"Franklin, Benjamin",13,1752,1774,6,23
+"Douglas, James",13,1706,1766,4,61
+"Molyneux, Thomas",13,1685,1715,2,31
+"Waring, Edward",13,1763,1791,2,29
+"Thompson, Benjamin",13,1781,1804,3,24
+"Christie, Samuel Hunter",13,1823,1836,5,14
+"Papin, Denis",12,1675,1713,3,39
+"Winthrop, John",12,1670,1774,3,105
+"Brande, William Thomas",12,1806,1820,4,15
+"Folkes, Martin",12,1717,1750,4,34
+"Beale, John",12,1666,1745,4,80
+"Graham, Thomas",12,1833,1866,2,34
+"Moivre, Abraham De",12,1697,1722,1,26
+"Daniell, John Frederic",12,1830,1844,2,15
+"Powell, Baden",12,1825,1848,2,24
+"Crookes, William",12,1863,1885,2,23
+"Maty, Matthew",12,1755,1768,3,14
+"Moray, Robert",12,1665,1679,1,15
+"Hooke, Robert",12,1665,1687,4,23
+"Philip, Alexander Philip Wilson",12,1815,1836,2,22
+"Hales, Stephen",12,1728,1755,2,28
+"Sprengwell, Conrad Joachim",12,1713,1733,5,21
+"Canton, John",12,1753,1769,5,17
+"Horsley, Samuel",11,1767,1777,6,11
+"Joule, James Prescott",11,1850,1878,1,29
+"Blagden, Charles",11,1775,1793,4,19
+"Nicholls, Frank",11,1728,1769,2,42
+"Matteucci, Carlo",11,1845,1861,1,17
+"Robertson, John",11,1750,1773,3,24
+"Barrington, Daines",11,1767,1774,1,8
+"Martyn, John",11,1665,1753,4,89
+"Warner, Joseph",11,1750,1759,3,10
+"Hamilton, William",11,1767,1795,1,29
+"Pringle, John",11,1750,1759,4,10
+"Foster, Henry",11,1826,1828,1,3
+"Vince, Samuel",11,1780,1799,3,20
+"Pigott, Edward",11,1781,1805,3,25
+"Dudley, Paul",11,1720,1727,2,8
+"Spottiswoode, William",11,1860,1881,1,22
+"Ferguson, James",11,1746,1767,3,22
+"Ray, John",11,1669,1707,5,39
+"Nairne, Edward",10,1771,1783,5,13
+"Bell, Charles",10,1821,1840,2,20
+"Barry, Martin",10,1838,1843,1,6
+"Jones, Henry Bence",10,1845,1853,2,9
+"Newport, George",10,1832,1854,2,23
+"Molyneux, William",10,1684,1697,3,14
+"Pearson, George",10,1791,1813,3,23
+"Trembley, Abraham",10,1744,1757,2,14
+"Mantell, Gideon Algernon",10,1825,1850,2,26
+"Slare, Frederick",10,1683,1717,3,35
+"Taylor, Brook",10,1712,1723,3,12
+"Peyssonel, Jean Andre",10,1752,1757,2,6
+"Strutt, John William",9,1870,1885,2,16
+"Collinson, Peter",9,1744,1767,1,24
+"Hellins, John",9,1780,1811,2,32
+"Rankine, William John Macquorn",9,1854,1871,1,18
+"Haughton, Samuel",9,1858,1878,1,21
+"Plot, Robert",9,1677,1698,4,22
+"Leeuwenhoek, Antoni van",9,1674,1711,1,38
+"Eames, John",9,1726,1741,3,16
+"Waller, Richard",9,1684,1716,3,33
+"Brinkley, John",9,1807,1826,3,20
+"Lockyer, Joseph Norman",9,1869,1881,3,13
+"Dunn, Samuel",9,1761,1771,3,11
+"Percival, Thomas",9,1752,1780,3,29
+"Costa, Emanuel Mendes Da",9,1747,1766,2,20
+"Middleton, Christopher",9,1726,1742,3,17
+"Yonge, James",9,1702,1713,2,12
+"Scheuchzer, Johann Jakob",9,1705,1731,5,27
+"Mason, Charles",9,1738,1771,3,34
+"Wollaston, Francis",9,1769,1793,2,25
+"Neumann, Caspar",8,1725,1734,2,10
+"Tennant, Smithson",8,1791,1814,1,24
+"Heberden, William",8,1750,1826,3,77
+"Heberden, Thomas",8,1752,1771,4,20
+"Colepresse, Samuel",8,1667,1669,4,3
+"Price, Richard",8,1764,1786,2,23
+"Blair, Patrick",8,1710,1721,2,12
+"Cooke, Benjamin",8,1738,1750,2,13
+"Harris, William Snow",8,1827,1842,2,16
+"Stukeley, William",8,1719,1753,3,35
+"Stuart, Alexander",8,1702,1738,4,37
+"Ranby, John",8,1724,1731,1,8
+"Clayton, John",8,1693,1739,3,47
+"Fitzgerald, Keane",8,1757,1771,3,15
+"Bartram, John",8,1740,1763,3,24
+"Vater, Abraham",8,1720,1738,2,19
+"Simpson, Thomas",8,1748,1757,2,10
+"Hofmann, August Wilhelm Von",8,1850,1860,1,11
+"Pigott, Nathaniel",8,1767,1786,3,20
+"Catesby, Mark",8,1731,1748,1,18
+"Landen, John",8,1753,1785,2,33
+"Klein, Jacobus Theodorus",8,1730,1748,2,19
+"Nixon, John",8,1750,1761,1,12
+"Frankland, Edward",8,1852,1866,2,15
+"Edwards, George",8,1753,1771,3,19
+"Nollet, Jean Antoine",8,1738,1761,3,24
+"Carpenter, William Benjamin",8,1850,1883,1,34
+"Bradley, James",8,1724,1761,2,38
+"Knight, Thomas",8,1741,1817,2,77
+"King, Edmond",8,1666,1693,2,28
+"Rue, Warren De La",8,1860,1883,4,24
+"Smithson, James",8,1791,1818,3,28
+"Ritchie, William",8,1825,1833,2,9
+"Merrett, Christopher",8,1667,1697,3,31
+"Hadley, John",8,1723,1764,3,42
+"Dale, Samuel",8,1693,1736,2,44
+"Gore, George",8,1858,1874,1,17
+"Revillas, Didacus De",7,1733,1743,2,11
+"Henly, William",7,1772,1778,4,7
+"Clarke, Jacob Augustus Lockhart",7,1851,1868,1,18
+"Brown, Edward",7,1669,1674,2,6
+"Ellicott, John",7,1736,1752,3,17
+"Cunningham, James",7,1699,1704,3,6
+"Paderni, Camillo",7,1740,1757,1,18
+"Chenevix, Richard",7,1801,1805,2,5
+"Geoffroy, Claude Joseph",7,1699,1752,3,54
+"Ingenhousz, John",7,1775,1782,3,8
+"Miller, Joseph",7,1743,1749,2,7
+"Darwin, George Howard",7,1877,1882,2,6
+"Huxley, Thomas Henry",7,1849,1879,2,31
+"Southwell, Robert",7,1683,1746,3,64
+"South, James",7,1824,1833,2,10
+"Carlisle, Anthony",7,1800,1814,3,15
+"Barker, ",7,1755,1782,3,28
+"Wargentin, Pehr Wilhelm",7,1761,1769,2,9
+"Babbage, Charles",7,1815,1826,2,12
+"Pepys, William Hasledine",7,1807,1843,1,37
+"Hutton, Charles",7,1776,1821,2,46
+"Lee, Robert",7,1829,1849,1,21
+"Kamel, Georg Joseph",7,1699,1708,2,10
+"Woodhouse, Robert",7,1801,1827,1,27
+"Stokes, George Gabriel",7,1848,1879,2,32
+"Forster, Johann Reinhold",7,1767,1781,2,15
+"Fordyce, George",7,1776,1794,3,19
+"Breynius, Johannes Philippus",7,1705,1741,2,37
+"Stenhouse, John",7,1848,1862,1,15
+"Gunther, Albert Charles Lewis Gotthilf",7,1871,1879,1,9
+"Jones, Thomas Wharton",7,1837,1868,1,32
+"Brownrigg, William",7,1748,1774,3,27
+"Pryme, Abraham De La",7,1700,1703,1,4
+"Wallis, ",7,1666,1697,3,32
+"Craig, John",7,1697,1712,2,16
+"Manfredi, Eustachio",6,1667,1737,2,71
+"Reynolds, Osborne",6,1876,1886,2,11
+"Hopkinson, John",6,1876,1886,1,11
+"Abel, Frederick Augustus",6,1866,1880,2,15
+"King, Edward",6,1767,1779,2,13
+"Hopkins, William",6,1839,1862,2,24
+"Hornsby, Thomas",6,1763,1773,3,11
+"Forbes, James David",6,1836,1846,1,11
+"Messier, Charles",6,1764,1771,1,8
+"Boole, George",6,1844,1864,1,21
+"Michell, John",6,1759,1784,2,26
+"Luc, Jean Andre De",6,1773,1791,2,19
+"Robinson, Tancred",6,1684,1716,2,33
+"Oliver, William",6,1693,1755,2,63
+"Morgan, William",6,1785,1800,2,16
+"Hudson, William",6,1761,1771,2,11
+"Huggins, William",6,1864,1880,2,17
+"Miller, Philip",6,1728,1757,2,30
+"Kirwan, Richard",6,1781,1786,2,6
+"Rutty, William",6,1693,1730,3,38
+"Huygens, Christian",6,1669,1675,3,7
+"Grove, William Robert",6,1843,1852,3,10
+"Daubeny, Charles Giles Bridle",6,1830,1845,2,16
+"Pemberton, Henry",6,1722,1772,3,51
+"Pound, James",6,1716,1723,2,8
+"Buissiere, Paul",6,1694,1710,2,17
+"Johnston, James Finlay Weir",6,1839,1840,1,2
+"Gilbert, Davies",6,1826,1831,1,6
+"Andrews, Thomas",6,1844,1876,2,33
+"Grew, Nehemiah",6,1673,1711,2,39
+"Pratt, John Henry",6,1855,1871,1,17
+"MacLaurin, Colin",6,1718,1743,2,26
+"Farquharson, James",6,1829,1842,2,14
+"Amyand, Claude",6,1732,1746,1,15
+"Murdoch, Patrick",6,1752,1768,2,17
+"Cheselden, William",6,1712,1746,1,35
+"Mountaine, William",6,1753,1766,2,14
+"Fairbairn, William",6,1850,1864,3,15
+"Gregory, David",6,1694,1704,2,11
+"Kirkman, Thomas Penyngton",6,1856,1862,1,7
+"Maxwell, James Clerk",6,1860,1879,2,20
+"Morton, Charles",5,1752,1769,3,18
+"Baker, David-erskine",5,1745,1753,2,9
+"Burrow, James",5,1750,1757,2,8
+"Fahrenheit, Daniel Gabriel",5,1724,1724,2,1
+"Parsons, William",5,1840,1868,4,29
+"Browne, John",5,1722,1734,2,13
+"Fuller, John",5,1738,1741,3,4
+"Shuckburgh, George Augustus William",5,1777,1798,2,22
+"Wilson, Alexander",5,1769,1783,3,15
+"Hunter, William",5,1743,1781,3,39
+"Pennant, Thomas",5,1755,1781,2,27
+"Colebrooke, Josiah",5,1759,1765,2,7
+"Prestwich, Joseph",5,1860,1879,1,20
+"Maseres, Francis",5,1777,1780,2,4
+"Gladstone, John Hall",5,1855,1870,1,16
+"Hartley, Walter Noel",5,1879,1885,1,7
+"Mead, Richard",5,1703,1742,2,40
+"Smith, Edward",5,1696,1861,2,166
+"Goldingham, John",5,1808,1823,4,16
+"Stewart, Balfour",5,1861,1870,3,10
+"Miller, John Fletcher",5,1849,1851,2,3
+"Darwin, Erasmus",5,1757,1788,3,32
+"Smith, Thomas",5,1683,1818,1,136
+"Rennell, James",5,1781,1815,2,35
+"Abney, William De Wiveleslie",5,1880,1886,3,7
+"Richardson, Richard",5,1697,1741,1,45
+"Cole, William",5,1676,1687,2,12
+"Robinson, Thomas Romney",5,1862,1880,2,19
+"Gilbert, Joseph Henry",5,1859,1883,2,25
+"Wright, Edward",5,1750,1757,2,8
+"Gale, Roger",5,1718,1745,2,28
+"Fairfax, Nathaniel",5,1667,1668,2,2
+"Garden, George",5,1677,1700,1,24
+"Petty, William",5,1684,1693,3,10
+"Triewald, Martin",5,1729,1742,2,14
+"Atwood, George",5,1781,1798,1,18
+"Pickering, Roger",5,1743,1750,2,8
+"Farr, Samuel",5,1775,1779,1,5
+"Marcet, Alexander John Gaspard",5,1807,1822,2,16
+"Tomes, Charles Sissmore",5,1875,1878,1,4
+"Chambers, Charles",5,1755,1876,3,122
+"Pococke, Richard",5,1748,1761,2,14
+"Dodson, James",5,1752,1757,3,6
+"Thorpe, Thomas Edward",5,1870,1883,1,14
+"Hewson, William",5,1768,1773,2,6
+"Woulfe, Peter",5,1767,1779,3,13
+"Wheatstone, Charles",5,1833,1852,3,20
+"Needham, John Turberville",5,1743,1769,1,27
+"Eaton, A. E.",5,1879,1879,1,1
+"Lawes, John Bennet",5,1859,1883,2,25
+"Beale, Lionel Smith",5,1856,1865,1,10
+"Leigh, Charles",5,1684,1738,2,55
+"Russell, William Henry Leighton",5,1855,1863,1,9
+"Banks, Joseph",5,1783,1807,3,25
+"Beccaria, Giovanni Battista",5,1759,1771,3,13
+"Layard, Daniel Peter",5,1745,1768,2,24
+"Baster, Job",5,1739,1761,2,23
+"Brakenridge, William",5,1735,1759,1,25
+"Flower, William Henry",5,1862,1879,1,18
+"Fothergill, John",5,1744,1776,2,33
+"Watson, Richard",5,1771,1786,3,16
+"Moseley, Henry Nottidge",5,1874,1878,3,5
+"Wedgwood, Josiah",5,1782,1790,3,9
+"Lane, Timothy",5,1767,1805,3,39
+"Evans, Frederick John Owen",5,1860,1872,2,13
+"Evelyn, John",5,1668,1702,3,35
+"Wheler, Granville",5,1733,1745,3,13
+"Mounsey, James",5,1748,1764,2,17
+"Wall, J",5,1744,1757,1,14
+"Brocklesby, Richard",5,1747,1755,2,9
+"Bergman, Torbern Olof",5,1759,1764,1,6
+"Bonnet, Charles",5,1743,1755,3,13
+"Eyles-Stiles, Francis Haskins",5,1759,1765,2,7
+"Lisle, Joseph Nicholas De",5,1729,1753,3,25
+"Chamberlayne, John",4,1712,1722,3,11
+"Aubert, Alexander",4,1769,1784,3,16
+"Tomes, John",4,1849,1856,2,8
+"Bennet, Abraham",4,1787,1792,3,6
+"Romanes, George John",4,1876,1881,2,6
+"Forster, Richard",4,1757,1761,2,5
+"Mallet, Robert",4,1861,1875,3,15
+"Strange, John",4,1769,1775,2,7
+"Barlow, William",4,1740,1750,1,11
+"Lynn, George",4,1726,1741,3,16
+"Crell, Lorenz Florenz Friedrich Von",4,1771,1799,2,29
+"Gassiot, John Peter",4,1840,1859,3,20
+"Ramsay, William",4,1884,1886,1,3
+"Costard, George",4,1745,1753,2,9
+"Holland, Samuel",4,1768,1774,3,7
+"Glazebrook, Richard Tetley",4,1879,1883,3,5
+"Strachan, ",4,1702,1702,1,1
+"Smith, Edgar A.",4,1879,1879,1,1
+"Fownes, George",4,1844,1847,1,4
+"Wright, Thomas",4,1668,1774,2,107
+"Hooker, Joseph Dalton",4,1854,1879,1,26
+"Langwith, Benjamin",4,1721,1727,3,7
+"Milner, Isaac",4,1778,1789,2,12
+"Pulteney, Richard",4,1757,1772,2,16
+"Chevalier, Joanne",4,1753,1757,2,5
+"Everett, Joseph David",4,1866,1868,2,3
+"Allen, William",4,1807,1829,1,23
+"Pollock, Jonathan Frederick",4,1854,1868,1,15
+"Mitten, William",4,1879,1879,1,1
+"Marsden, William",4,1781,1792,2,12
+"Monro, Donald",4,1767,1772,4,6
+"Young, Sydney",4,1884,1886,1,3
+"Porter, James",4,1755,1761,3,7
+"Colson, John",4,1707,1738,1,32
+"Dixon, Jeremiah",4,1768,1769,2,2
+"Neville, Francis",4,1713,1713,1,1
+"Marsham, Robert",4,1759,1797,1,39
+"Cockburn, William",4,1699,1732,1,34
+"Dobbs, Arthur",4,1722,1750,2,29
+"Preston, Charles",4,1696,1697,1,2
+"Winkler, Johann Heinrich",4,1745,1753,2,9
+"Barrel, Edmund",4,1717,1728,2,12
+"Talbot, William Henry Fox",4,1836,1837,1,2
+"Russell, Patrick",4,1768,1804,2,37
+"Schlosser, Jan Albert",4,1755,1766,2,12
+"Schuster, Arthur",4,1876,1884,2,9
+"Donkin, William Fishburn",4,1854,1860,2,7
+"Bernard, Edward",4,1684,1694,3,11
+"Dollond, Peter",4,1765,1779,2,15
+"Dollond, John",4,1753,1757,2,5
+"Muller, Hugo",4,1860,1883,2,24
+"Chevalier, John",4,1753,1757,2,5
+"Scheuchzer, John Gaspar",4,1728,1729,2,2
+"Glaisher, James",4,1847,1850,1,4
+"Bliss, Nathaniel",4,1761,1764,3,4
+"Hicks, William Mitchinson",4,1880,1885,1,6
+"Gersten, Christian Ludwig",4,1735,1747,3,13
+"Barlow, William Henry",4,1837,1857,1,21
+"Prout, William",4,1818,1827,2,10
+"Clairaut, Alexis Claude",4,1737,1753,2,17
+"Poleno, Johanne",4,1726,1730,2,5
+"Schorlemmer, Carl",4,1872,1883,1,12
+"Brooke, Charles",4,1847,1852,1,6
+"Beddoes, Thomas",4,1787,1792,2,6
+"Rucker, Arthur William",4,1876,1886,1,11
+"Knight, Gowin",4,1745,1750,3,6
+"Belchier, John",4,1732,1738,1,7
+"Dunthorne, Richard",4,1747,1761,1,15
+"Freke, John",4,1740,1750,3,11
+"Robertson, Abraham",4,1795,1816,2,22
+"Mudge, William",4,1795,1803,1,9
+"Spry, Edward",4,1755,1767,2,13
+"Roy, William",4,1777,1790,1,14
+"Jones, William",4,1729,1773,3,45
+"Moseley, Henry",4,1838,1851,1,14
+"Delaval, Edward Hussey",4,1761,1769,1,9
+"Wales, William",4,1771,1781,3,11
+"Volta, Alessandro",4,1782,1800,2,19
+"Machin, John",4,1718,1741,2,24
+"Cantwell, Andrew",4,1737,1761,1,25
+"Smith, William",4,1750,1771,3,22
+"Rutty, John",4,1739,1759,2,21
+"Sibbald, Robert",4,1696,1706,1,11
+"Johnson, James Rawlins",4,1817,1825,1,9
+"Stedman, John",4,1752,1777,2,26
+"Bugge, Thomas",4,1779,1794,2,16
+"Beckett, William",4,1718,1724,1,7
+"Witsen, Nicolaus",4,1691,1698,1,8
+"Willughby, Francis",4,1666,1671,3,6
+"Bullialdus, Ismael",4,1667,1684,2,18
+"Hulke, John Whitaker",4,1866,1882,1,17
+"Gompertz, Benjamin",4,1806,1862,2,57
+"Bowerbank, James Scott",4,1842,1862,1,21
+"Bournon, Jacques Louis",4,1801,1804,1,4
+"Stirling, James",4,1719,1763,2,45
+"Garcin, Laurent",4,1730,1749,2,20
+"Williams, Charles Greville Hanson",4,1857,1860,1,4
+"Ulloa, Antonio De",4,1749,1779,3,31
+"Lining, John",4,1743,1753,2,11
+"Brouncker, William",4,1668,1673,3,6
+"Robartes, Francis",4,1692,1712,2,21
+"Merrifield, Charles Watkins",4,1859,1868,1,10
+"Walker, Richard",4,1788,1801,2,14
+"Perry, Stephen Joseph",4,1870,1873,2,4
+"Sharp, Samuel",3,1753,1753,2,1
+"Lubbock, John",3,1859,1879,1,21
+"Granville, Augustus Bozzi",3,1818,1825,2,8
+"Whidbey, Joseph",3,1803,1823,2,21
+"Logan, James",3,1736,1736,1,1
+"Cook, James",3,1767,1776,3,10
+"Collins, John",3,1669,1684,3,16
+"Locke, John",3,1697,1755,3,59
+"Debus, Heinrich",3,1858,1882,2,25
+"Gray, John Edward",3,1833,1848,1,16
+"Mitchell, John",3,1744,1759,2,16
+"Davy, Edmund",3,1817,1831,1,15
+"Haygarth, John",3,1774,1778,2,5
+"Saumarez, Henry De",3,1725,1729,1,5
+"Nettleton, Thomas",3,1722,1725,2,4
+"Richardson, William",3,1768,1808,3,41
+"Beaumont, John",3,1676,1685,2,10
+"White, Charles",3,1759,1769,1,11
+"Willoughby, Francis",3,1670,1670,2,1
+"Lower, Richard",3,1666,1668,2,3
+"Munn, C. A. Mac",3,1885,1886,1,2
+"Gray, Edward Whitaker",3,1788,1796,1,9
+"Bevan, Benjamin",3,1823,1829,3,7
+"Tate, Thomas",3,1859,1862,2,4
+"Schmeisser, Johann Gottfried",3,1792,1794,1,3
+"Farr, William",3,1768,1880,2,113
+"Conyers, John",3,1676,1678,1,3
+"Abernethy, John",3,1793,1798,1,6
+"Lind, James",3,1769,1775,3,7
+"Rennie, George",3,1818,1831,3,14
+"Sylvester, James Joseph",3,1853,1866,1,14
+"Alchorne, Stanesby",3,1771,1779,2,9
+"Whytt, Robert",3,1755,1757,2,3
+"Mazeas, Guillaume",3,1752,1755,1,4
+"Milles, Jeremiah",3,1757,1759,2,3
+"Dalby, Isaac",3,1791,1797,1,7
+"Adams, Archibald",3,1707,1710,1,4
+"Coxe, Daniel",3,1674,1674,1,1
+"Read, John",3,1791,1794,2,4
+"Hadley, George",3,1735,1742,2,8
+"Halley, Edmund",3,1697,1717,1,21
+"Lister, Joseph",3,1858,1858,1,1
+"Bergius, Peter Jonas",3,1768,1773,2,6
+"Hale, Richard",3,1701,1720,1,20
+"Schroeter, John Jerome",3,1792,1795,2,4
+"Raper, Matthew",3,1759,1764,3,6
+"Raspe, Rudolf Eric",3,1769,1771,2,3
+"Hall, Marshall",3,1832,1833,1,2
+"Stone, Edmund",3,1740,1743,2,4
+"Musschenbroeck, Pieter Van",3,1732,1734,2,3
+"Euler, Leonhard",3,1747,1772,1,26
+"Williams, John Lloyd",3,1793,1793,1,1
+"Gooch, Benjamin",3,1769,1775,2,7
+"Steigertahl, Johann Georg",3,1721,1738,2,18
+"Fontana, Felice",3,1779,1780,2,2
+"Davall, Peter",3,1728,1763,2,36
+"Glaisher, James Whitbread Lee",3,1870,1881,1,12
+"Sanders, Alfred",3,1878,1886,1,9
+"Reinold, Arnold William",3,1881,1886,1,6
+"Hartley, David",3,1738,1740,1,3
+"Seppings, Robert",3,1814,1820,1,7
+"Wilson, Patrick",3,1780,1782,3,3
+"Williams, Perrot",3,1723,1723,2,1
+"Goodricke, John",3,1783,1786,2,4
+"Groombridge, Stephen",3,1810,1820,2,11
+"Beighton, Henry",3,1731,1741,1,11
+"Harris, Joseph",3,1728,1740,3,13
+"Harris, John",3,1696,1719,3,24
+"Hargreave, Charles James",3,1841,1850,1,10
+"Dalton, John",3,1826,1837,1,12
+"Lewis, William",3,1753,1757,2,5
+"Mayer, Christian",3,1764,1768,2,5
+"Miller, William Allen",3,1844,1864,1,21
+"Blake, Francis",3,1752,1759,1,8
+"Auzout, Monsieur",3,1665,1665,2,1
+"Gabry, Peter",3,1752,1763,2,12
+"Jackson, William",3,1669,1750,3,82
+"Brander, Gustavus",3,1753,1755,2,3
+"Ewing, James Alfred",3,1877,1886,1,10
+"Butler, Arthur Gardiner",3,1879,1879,1,1
+"Wanley, Humfrey",3,1705,1707,1,3
+"Boze, Claude Gros De",3,1745,1753,3,9
+"Lyttelton, Charles",3,1748,1757,2,10
+"Sidgwick, Eleanor Mildred",3,1883,1884,2,2
+"Bowman, William",3,1840,1842,2,3
+"Siemens, Charles William",3,1866,1880,1,15
+"Mahon, Charles",3,1778,1787,3,10
+"Lysons, Daniel",3,1761,1769,1,9
+"Silvestre, Pierre",3,1700,1701,2,2
+"Ure, Andrew",3,1818,1834,2,17
+"Hugens, ",3,1675,1676,1,2
+"Scoresby, William",3,1819,1824,3,6
+Barker,3,1761,1780,2,20
+"Roxburgh, William",3,1778,1791,2,14
+"Howard, Luke",3,1822,1846,2,25
+"Howard, John",3,1764,1771,2,8
+"Simon, James",3,1745,1753,1,9
+"Barker, Robert",3,1736,1775,3,40
+"Templer, John",3,1671,1673,2,3
+"Ross, James Clark",3,1826,1854,2,29
+"Nourse, Edward",3,1730,1742,2,13
+"Withering, William",3,1773,1790,2,18
+"Moulin, Allen",3,1687,1693,2,7
+"James, Henry",3,1856,1873,1,18
+"Morris, Michael",3,1764,1773,2,10
+"More, Samuel",3,1759,1787,2,29
+"Burnett, William",3,1709,1823,2,115
+"Keir, James",3,1776,1790,1,15
+"Russell, Alexander",3,1759,1761,1,3
+"Papin, M.",3,1675,1676,1,2
+"Brougham, Henry Peter",3,1796,1850,2,55
+"Kidd, John",3,1814,1825,1,12
+"Waller, Augustus Volney",3,1847,1850,2,4
+"Baily, Francis",3,1811,1837,3,27
+"Balfour, Isaac Bayley",3,1879,1879,3,1
+"Browning, John",3,1747,1753,2,7
+"Wolfe, ",3,1761,1768,2,8
+"Pardies, P",3,1672,1753,2,82
+"Wollaston, Francis John Hyde",3,1790,1820,2,31
+"Macdonald, John Denis",3,1855,1855,1,1
+"Brydone, Patrick",3,1757,1787,1,31
+"Duncan, Peter Martin",3,1867,1872,1,6
+"Buckton, George Bowdler",3,1856,1859,1,4
+"Jones, Charles Handfield",3,1846,1853,1,8
+"Walmesley, Charles",3,1755,1761,2,7
+"Bulkeley, Richard",3,1693,1693,1,1
+"Mackenzie, George",3,1675,1723,1,49
+"Johnstone, James",3,1757,1771,3,15
+"Kirch, Christfried",3,1723,1741,2,19
+"Parry, William Edward",3,1826,1826,1,1
+"Johnson, Maurice",3,1739,1750,1,12
+"Bunsen, Robert Wilhelm",3,1857,1863,2,7
+"Mackenzie, Murdock",3,1752,1764,1,13
+"Jessop, ",3,1674,1675,1,2
+"Fallows, Fearon",3,1822,1830,3,9
+"Brown, Sam.",3,1701,1702,1,2
+"Tomlinson, Herbert",3,1883,1886,2,4
+"Poupart, François",3,1697,1708,1,12
+"Celsius, Andreas",3,1736,1737,2,2
+"Newton, Edward",3,1869,1879,1,11
+"Watson, Henry",3,1769,1777,2,9
+"Geoffroy, Etienne Francois",3,1698,1701,2,4
+"Hirst, William",3,1753,1769,2,17
+"Neve, Timothy",3,1737,1741,3,5
+"Donati, Vitaliano",3,1752,1755,2,4
+"Anderson, James",3,1785,1819,3,35
+"Watson, Robert",3,1750,1755,1,6
+"Wells, William Charles",3,1795,1811,2,17
+"Children, John George",3,1809,1822,2,14
+"Plucker, Julius",3,1858,1865,1,8
+"Newland, Charles",3,1772,1772,2,1
+"Doddridge, P.",3,1747,1750,1,4
+"Birch, Thomas",3,1748,1753,1,6
+"Thorpe, John",3,1705,1771,2,67
+"Watt, James",3,1784,1784,2,1
+"Six, James",3,1782,1788,2,7
+"Clarke, Alexander Ross",3,1858,1873,2,16
+"Thomson, Thomas",3,1808,1827,1,20
+"Thomson, Joseph John",3,1882,1885,1,4
+"Luloss, Johan",3,1761,1766,2,6
+"Clarke, John",3,1739,1798,2,60
+"Wurtzelbaur, J. Ph.",3,1686,1691,1,6
+"Herschel, Caroline",3,1787,1796,2,10
+"Atwell, Joseph",3,1732,1742,3,11
+"Hook, ",3,1668,1675,2,8
+"Fox, Robert Were",3,1830,1835,2,6
+"Ehret, Georg Dionysius",3,1763,1767,1,5
+"Horner, Leonard",3,1836,1858,1,23
+"Hope, John",3,1765,1785,1,21
+"Wasse, Joseph",3,1724,1736,1,13
+"Latham, Ebenezar",3,1738,1742,1,5
+"Schunck, Henry Edward",3,1851,1855,1,5
+"Nicholson, William",3,1787,1789,3,3
+"Malpighi, Marcello",3,1667,1671,2,5
+"Townley, Richard",3,1667,1699,2,33
+"Auzout, Adrian",3,1665,1667,2,3
+"Hollman, Samuel Christian",3,1739,1759,2,21
+"Fracassati, Carlo",3,1667,1667,2,1
+"Wright, William",3,1777,1781,2,5
+"Gibbes, George Smith",2,1794,1795,1,2
+"Fothergill, Anthony",2,1776,1779,1,4
+"Fisher, George",2,1820,1833,2,14
+"Foster, Michael",2,1876,1882,2,7
+"Flinders, Matthew",2,1805,1806,2,2
+"Gosse, Philip Henry",2,1856,1857,1,2
+"Gorsuch, William",2,1771,1782,2,12
+"Giles, Mr.",2,1697,1697,1,1
+"Gostling, William",2,1741,1742,1,2
+"Floyer, John",2,1699,1702,1,4
+"Flamstedio, Johanne",2,1672,1675,1,4
+"Gilpin, George",2,1794,1806,2,13
+"Rumker, Charles",2,1821,1829,1,9
+"Frobenius, Joannes Sigismundus Augustus",2,1730,1733,1,4
+"Forsyth, Andrew Russell",2,1882,1883,1,2
+"Forbes, George",2,1757,1882,2,126
+"Ferner, Benedict",2,1761,1769,1,9
+"Gioeni, Count De",2,1782,1782,1,1
+"Godfrey-Hanckewitz, Ambrose",2,1733,1734,1,2
+"Goddard, Jonathan",2,1678,1678,1,1
+"Rose, Alexander",2,1766,1771,2,6
+"Salmon, George",2,1858,1860,1,3
+"Sampson, Henry",2,1678,1695,1,18
+"Glenie, James",2,1776,1777,1,2
+"Gale, Benjamin",2,1765,1765,2,1
+"Robins, Benjamin",2,1727,1749,1,23
+"Robertson, James",2,1771,1806,2,36
+"Gaubil, Antoine",2,1750,1753,1,4
+"Frewen, ",2,1761,1761,1,1
+"Roget, Peter Mark",2,1815,1825,1,11
+"Gordon, J. E. H",2,1877,1879,1,3
+"Ronayne, Thomas",2,1772,1774,2,3
+"Miers, Edward J.",2,1879,1879,1,1
+"Gordon, Patrick",2,1699,1701,2,3
+"Gordon, Robert",2,1687,1700,2,14
+"Flamsteedio, Joanne",2,1683,1684,1,2
+"Howard, Charles",2,1674,1678,1,5
+"Grandi, Guido",2,1709,1723,2,15
+"Newbold, Thomas John",2,1837,1845,1,9
+"Lalande, Joseph Jerome Le Francois De",2,1761,1761,2,1
+"Lambton, William",2,1818,1823,1,6
+"Niven, Charles",2,1880,1881,1,2
+"Landerbeck, Nicolao",2,1783,1784,1,2
+"Lankester, Edwin Ray",2,1875,1879,1,5
+"Latham, John",2,1771,1779,2,9
+"Lax, William",2,1799,1809,2,11
+"Lee, Stephen",2,1793,1815,2,23
+"Noble, Andrew",2,1875,1880,1,6
+"Leibniz, Gottfried Wilhelm Von",2,1675,1699,2,25
+"Lennox, Charles",2,1736,1743,2,8
+"Lewis, Richard",2,1731,1733,1,3
+"Lewis, W. Bevan",2,1880,1882,1,3
+"Mylius, ",2,1752,1752,1,1
+"Myddelton, Starkey",2,1745,1747,2,3
+"Lightfoot, John",2,1785,1786,1,2
+"Lacaille, Nicolas Louis De",2,1759,1761,1,3
+"Norwood, Richard",2,1667,1668,2,2
+"Lister, Joseph Jackson",2,1830,1834,1,5
+"King, William",2,1685,1708,1,24
+"Jurin, Jacobo",2,1718,1746,1,29
+"Justamond, John Obadiah",2,1766,1767,2,2
+"Kamel, George Joseph",2,1704,1705,1,2
+"Kane, Robert John",2,1840,1842,1,3
+"Palmer, Henry Robinson",2,1831,1834,1,4
+"Keill, John",2,1708,1708,1,1
+"Kersseboom, William",2,1743,1753,1,11
+"Kinnersley, Ebenezer",2,1763,1773,1,11
+"Kopp, Hermann",2,1860,1865,1,6
+"Osler, Edward",2,1826,1832,1,7
+"Kirkby, M. Christ",2,1673,1673,1,1
+"Kirke, Thomas",2,1694,1694,2,1
+"Kirkshaw, Samuel",2,1741,1773,1,33
+"Klingenstierna, Samuel",2,1731,1759,1,29
+"Knowlton, Tho",2,1746,1746,1,1
+"Knox, George",2,1822,1823,2,2
+"Linus, Franc.",2,1675,1676,1,2
+"Lloyd, George",2,1778,1782,1,5
+"Parker, George",2,1750,1761,2,12
+"Mariotte, Edme",2,1668,1670,2,3
+"Morgan, Campbell Greig De",2,1853,1858,1,6
+"Mallet, Frederick",2,1766,1766,2,1
+"More, Robert",2,1750,1750,1,1
+"Montagu, Edward Wortley",2,1766,1767,1,2
+"Marcet, William",2,1854,1857,1,4
+"Montagu, Edward",2,1667,1674,2,8
+"Montagny, Joseph De",2,1741,1742,1,2
+"Marshall, John",2,1850,1864,1,15
+"Morland, Samuel",2,1672,1703,1,32
+"Martin, Martin",2,1697,1707,1,11
+"Martin, William",2,1765,1767,2,3
+"Maud, John",2,1736,1738,2,3
+"Milner, John",2,1733,1737,1,5
+"Mendoza y Rios, Joseph",2,1797,1801,1,5
+"Mercator, Nicolas",2,1666,1670,2,5
+"Miller, ",2,1768,1827,2,60
+"Maitland, William",2,1733,1738,1,6
+"Maclear, Thomas",2,1839,1840,1,2
+"Lloyd, John",2,1781,1783,1,3
+"Moulton, John Fletcher",2,1879,1880,1,2
+"Lloyd, John Augustus",2,1830,1831,1,2
+"Murphy, Robert",2,1837,1837,1,1
+"Loewy, Benjamin",2,1869,1870,2,2
+"Munckley, Nicholas",2,1757,1759,1,3
+"Mudge, John",2,1749,1777,2,29
+"Ludlam, ",2,1775,1780,2,6
+"Ludlam, W.",2,1765,1771,2,7
+"Luffkin, Thomas",2,1699,1699,1,1
+"Macdonald, John",2,1796,1798,1,3
+"Lukens, John",2,1769,1771,2,3
+"Lyell, Charles",2,1835,1858,2,24
+"Lyster, Martin",2,1684,1684,1,1
+"Moslyn, Roger",2,1677,1677,1,1
+"Macalister, Alexander",2,1868,1872,1,5
+"Macartney, James",2,1810,1811,1,2
+"Macbride, David",2,1774,1778,1,5
+"Jones, Thomas",2,1736,1826,2,91
+"Jones, Hugh",2,1698,1699,2,2
+"Rittenhouse, David",2,1769,1771,2,3
+"Harcourt, Vernon A.",2,1866,1867,1,2
+"Ramsden, Mr.",2,1779,1783,1,5
+"Halley, ",2,1696,1697,1,2
+"Hamilton, Hugh",2,1763,1765,1,3
+"Hamilton, William Rowan",2,1834,1835,1,2
+"Hampe, Joannes Henricus",2,1738,1771,1,34
+"Rainey, George",2,1850,1857,1,8
+"Hancock, Albany",2,1852,1858,1,7
+"Hart, Cheney",2,1753,1755,1,3
+"Haller, Albrecht Von",2,1744,1750,1,7
+"Hartmann, Philip Jacob",2,1698,1699,1,2
+"Pullein, Samuel",2,1759,1759,1,1
+"Harvey, George",2,1824,1824,2,1
+"Prinsep, James",2,1828,1828,2,1
+"Prevost, Pierre",2,1798,1802,1,5
+"Hearn, George Whitehead",2,1846,1847,1,2
+"Heer, Oswald",2,1862,1869,1,8
+"Hallerstein, Augustin",2,1750,1752,1,3
+"Haighton, John",2,1795,1797,1,3
+"Henderson, Thomas",2,1827,1833,2,7
+"Gregory, James",2,1669,1675,1,7
+"Rigg, Robert",2,1838,1838,2,1
+"Gray, Henry",2,1850,1852,1,3
+"Greaves, John",2,1685,1699,1,15
+"Green, John",2,1739,1750,1,12
+"Greenhill, Thomas",2,1705,1705,1,1
+"Greenwood, Isaac",2,1728,1731,2,4
+"Gregor, William",2,1805,1809,2,5
+"Gregory, William",2,1738,1741,2,4
+"Reaumur, Rene-antoine Ferchault De",2,1748,1750,2,3
+"Greville, Charles Francis",2,1798,1803,1,6
+"Gronovius, John Frid",2,1742,1742,2,1
+"Gulliver, George",2,1879,1879,2,1
+"Gulston, Edward",2,1763,1763,1,1
+"Reed, Edward James",2,1868,1871,1,4
+"Guthrie, Matthew",2,1778,1779,1,2
+"Redi, Francesco",2,1666,1672,2,7
+"Povey, Thomas",2,1693,1700,1,8
+"Henfrey, Arthur",2,1852,1859,1,8
+"Parsons, Laurence",2,1873,1880,2,8
+"Hugens, M.",2,1669,1672,2,4
+"Horsley, John",2,1723,1764,2,42
+"Pettigrew, James Bell",2,1864,1867,1,4
+"Houston, Robert",2,1723,1724,1,2
+"Houstoun, William",2,1731,1736,2,6
+"Howard, Henry",2,1671,1677,2,7
+"Howell, George",2,1746,1746,1,1
+"Hoxton, Walter",2,1731,1739,2,9
+"Perkins, Jacob",2,1820,1826,2,7
+"Horsburgh, James",2,1805,1830,2,26
+"Hulme, Nathaniel",2,1800,1801,1,2
+"Hunter, Christopher",2,1700,1744,1,45
+"Hutchins, Thomas",2,1775,1783,2,9
+"Pecquet, Jean",2,1667,1668,2,2
+"Pavy, Frederick William",2,1860,1863,1,4
+"Jenkin, Henry Charles Fleeming",2,1862,1877,2,16
+"Jenner, Edward",2,1788,1824,1,37
+"Horsfall, James",2,1768,1769,2,2
+"Phillips, Richard",2,1821,1839,1,19
+"Hennell, Henry",2,1826,1828,1,3
+"Hill, John",2,1746,1747,1,2
+"Hennessy, Henry",2,1851,1851,1,1
+"Porrett, Robert",2,1814,1815,2,2
+"Pope, Walter",2,1665,1666,2,2
+"Hevelius, ",2,1677,1677,1,1
+"Poleni, Marquis",2,1738,1741,2,4
+"Poleni, Johannis Marchionis",2,1731,1743,2,13
+"Hickes, George",2,1700,1705,1,6
+"Playfair, John",2,1778,1811,1,34
+"Pingré, ",2,1761,1764,2,4
+"Platt, Joshua",2,1757,1764,2,8
+"Hire, Messieurs De La",2,1684,1714,2,31
+"Hire, Philippe De La",2,1687,1697,2,11
+"Planta, Joseph",2,1777,1778,1,2
+"Pitt, Robert",2,1691,1694,1,4
+"Pitt, Christopher",2,1698,1698,1,1
+"Hodgkinson, Eaton",2,1840,1857,2,18
+"Fay, Charles Francois De Cisternay Du",2,1734,1738,1,5
+"Ferrier, David",2,1875,1884,2,10
+"Schotte, J. P.",2,1780,1783,2,4
+"Story-Maskelyne, Mervyn Herbert Nevil",2,1870,1871,1,2
+"Welsh, John",2,1853,1856,1,4
+"Stubbe, Henry",2,1667,1668,1,2
+"Binney, Edward William",2,1855,1865,1,11
+"Crabtrie, William",2,1711,1717,2,7
+"Strachey, John",2,1719,1725,2,7
+"Crawford, Adair",2,1781,1790,1,10
+"Crofton, Morgan William",2,1868,1870,1,3
+"Wedgwood, Thomas",2,1792,1792,1,1
+"Crombie, J. M.",2,1879,1879,1,1
+"Beurer, Johann Ambrosius",2,1743,1745,1,3
+"Croy, Emmanuel",2,1766,1766,2,1
+"White, Gilbert",2,1774,1775,1,2
+"Cyrillo, Nicola",2,1729,1733,1,5
+"Dale, ",2,1698,1699,2,2
+"Cotes, Roger",2,1714,1720,2,7
+"Black, Joseph",2,1775,1783,2,9
+"Dalrymple, Alexander",2,1767,1778,2,12
+"Boerhaave, Hermanni",2,1736,1736,1,1
+"Condamine, Charles Maria De La",2,1749,1755,2,7
+"Bones, James",2,1761,1761,1,1
+"Bond, John",2,1752,1753,2,2
+"Tabor, John",2,1717,1718,2,2
+"Cookson, ",2,1735,1735,1,1
+"Waterhouse, C. O.",2,1879,1879,1,1
+"Cooper, Astley",2,1800,1801,2,2
+"Corse, John",2,1799,1799,1,1
+"Sykes, William Henry",2,1835,1850,1,16
+"Swift, William",2,1778,1779,1,2
+"Cope, John Mordaunt",2,1735,1735,2,1
+"Swammerdam, ",2,1673,1675,1,3
+"Watney, Herbert",2,1876,1882,1,7
+"Webb, Philip Carteret",2,1752,1755,2,4
+"Berkeley, Miles Joseph",2,1879,1879,1,1
+"Wilkins, Charles",2,1798,1799,1,2
+"Smith, Archibald",2,1861,1865,1,5
+"Barlow, Peter William",2,1833,1834,2,2
+"Bauer, Franz",2,1820,1823,2,4
+"Wilson, James",2,1702,1798,1,97
+"Deidier, Antoine",2,1722,1722,2,1
+"Denis, Jean-baptiste",2,1667,1668,1,2
+"Smith, Sam.",2,1703,1705,2,3
+"Barr, ",2,1778,1780,1,3
+"Dereham, Thomas",2,1729,1735,1,7
+"Somerville, Mary",2,1826,1846,2,21
+"Witchell, George",2,1767,1772,1,6
+"Desmasters, ",2,1698,1698,2,1
+"Smith, Henry John Stephen",2,1861,1867,1,7
+"Barham, Henry",2,1718,1719,1,2
+"Dickie, George",2,1879,1879,1,1
+"Dicquemare, Jacques-Franҫois",2,1773,1775,1,3
+"De la Lande, ",2,1761,1761,2,1
+"Baxter, Henry Foster",2,1848,1852,1,5
+"Wilkins, William",2,1794,1794,1,1
+"Belcher, Edward",2,1832,1843,2,12
+"Steele, Joshua",2,1775,1775,1,1
+"Starr, John",2,1750,1750,1,1
+"Willemöes-Suhm, R. Von",2,1873,1876,1,4
+"Bell, William",2,1793,1793,1,1
+"Davies, Dr",2,1701,1701,1,1
+"Williams, Edward",2,1795,1797,1,3
+"Davies, Thomas Stephens",2,1835,1836,1,2
+"Bayes, Thomas",2,1763,1763,1,1
+"Williams, Stephen",2,1737,1740,2,4
+"Beechey, Frederick William",2,1848,1851,1,4
+"Williams, Thomas",2,1852,1858,1,7
+"Squire, Samuel",2,1748,1755,2,8
+"Beard, Richard",2,1726,1727,1,2
+"Sponio, Jacobo",2,1684,1684,1,1
+"Colwall, Daniel",2,1679,1679,1,1
+"Taylor, John",2,1747,1763,2,17
+"Warrick, Christopher",2,1744,1755,1,12
+"Trembley, ",2,1743,1755,2,13
+"Fauquier, William",2,1750,1757,2,8
+"Trobe, De La",2,1779,1781,1,3
+"Carteret, Philip",2,1771,1771,1,1
+"Casey, John",2,1871,1877,1,7
+"Bruni, Giuseppe Lorenzo",2,1745,1759,1,15
+"Bruhl, Johann Moritz",2,1784,1784,2,1
+"Cassini, Signor",2,1677,1677,2,1
+"Vogt, August Christoph Carl",2,1863,1864,1,2
+"Castagna, Marc-antonio",2,1672,1672,2,1
+"Castro-Sarmento, Jacob De",2,1730,1731,2,2
+"Brown, John",2,1685,1724,2,40
+"Caswell, John",2,1695,1699,2,5
+"Toynbee, Joseph",2,1841,1851,1,11
+"Broughton, J.",2,1869,1871,2,3
+"Brunton, Thomas Lauder",2,1877,1884,2,8
+"Turbervile, Dawbeney",2,1684,1685,1,2
+"Booth, James",2,1852,1854,1,3
+"Valvasor, Freiherr Von",2,1687,1687,1,1
+"Busk, George",2,1873,1879,1,7
+"Byrom, John",2,1748,1748,1,1
+"Burton, William",2,1736,1742,2,7
+"Burton, John",2,1747,1750,2,4
+"Cahours, Augustus",2,1857,1857,1,1
+"Caldcleugh, Alexander",2,1836,1836,1,1
+"Callender, George William",2,1869,1871,1,3
+"Turner, Edward",2,1829,1833,2,5
+"Calvert, Frederick Crace",2,1858,1859,1,2
+"Camper, Peter",2,1779,1786,2,8
+"Bunt, T. G.",2,1838,1867,1,30
+"Bunsen, Robert",2,1857,1857,1,1
+"Turner, William",2,1876,1878,1,3
+"Vieussens, Raymond",2,1698,1699,2,2
+"Walford, Benj.",2,1703,1705,2,3
+"Cay, ",2,1698,1722,2,25
+"Tonge, Ezerel",2,1670,1670,2,1
+"Clerk, John",2,1731,1738,2,8
+"Thomson, Wyville",2,1869,1874,1,6
+"Thompson, John Vaughan",2,1835,1835,1,1
+"Clarke, Robert",2,1697,1749,1,53
+"Clayton, Robert",2,1741,1743,1,3
+"Cleland, Archibald",2,1741,1741,1,1
+"Cleland, John",2,1862,1870,1,9
+"Clifford, William Kingdon",2,1874,1878,1,5
+"Brooke, Richard",2,1759,1759,1,1
+"Clift, William",2,1815,1823,2,9
+"Bower, Frederick Orpen",2,1884,1885,1,2
+"Ware, James",2,1801,1813,1,13
+"Cloizeaux, Alfred Louis Olivier Des",2,1868,1873,1,6
+"Bose, Georg Matthias",2,1749,1750,2,2
+"Boscovich, Roger Joseph",2,1759,1777,1,19
+"Bradley, Richard",2,1716,1716,2,1
+"Ciampini, John",2,1685,1701,1,17
+"Brady, Terence",2,1755,1759,1,5
+"Walsh, John",2,1773,1774,1,2
+"Brattle, Thomas",2,1704,1707,1,4
+"Childrey, Joseph",2,1669,1670,1,2
+"Brice, Alexander",2,1766,1766,1,1
+"Wallis, Johannes",2,1671,1672,2,2
+"Briggs, William",2,1683,1684,1,2
+"Timone, Emanuele",2,1720,1734,1,15
+"Chapman, William",2,1757,1757,1,1
+"Todd, Hugh",2,1684,1711,1,28
+"Todd, John T.",2,1816,1817,1,2
+"Walker, John",2,1757,1772,2,16
+"Chambers, F.",2,1873,1875,1,3
+"Tomlinson, Charles",2,1868,1871,1,4
+"Walker, Charles Vincent",2,1861,1862,2,2
+"Dillwyn, Lewis Weston",2,1823,1824,1,2
+"Butterfield, ",2,1678,1698,1,21
+"Banister, John",2,1693,1701,2,9
+"Sherman, Bezaleel",2,1709,1739,2,31
+"Allman, George James",2,1853,1875,1,23
+"Seba, Albertus",2,1729,1730,1,2
+"Durston, William",2,1669,1670,2,2
+"Douglass, James",2,1715,1716,1,2
+"Baber, E. Cresswell",2,1876,1881,1,6
+"Douglas, John",2,1727,1732,2,6
+"Ellis, Henry",2,1752,1757,1,6
+"Wood, John",2,1761,1870,2,110
+"de Visme, Stephen",2,1769,1771,1,3
+"Shipton, Johanne",2,1703,1732,2,30
+"Aston, Francis",2,1693,1693,2,1
+"Wray, Daniel",2,1750,1750,1,1
+"Yelloly, John",2,1829,1830,1,2
+"Earle, Henry",2,1821,1822,1,2
+"de Zulichem, Hugens",2,1670,1671,2,2
+"Short, Thomas",2,1741,1742,2,2
+"de Luc, Jean-André",2,1777,1792,2,16
+"Akenside, Mark",2,1757,1763,1,7
+"Ducarel, Andrew Coltee",2,1771,1773,1,3
+"Drake, Francis",2,1747,1748,2,2
+"Drummond, Thomas",2,1826,1830,1,5
+"Allamand, Johann Nicholaus Sebastian",2,1755,1755,1,1
+"Sibson, Francis",2,1846,1848,1,3
+"Austin, William",2,1788,1790,1,3
+"Esson, William",2,1866,1867,1,2
+"Edgworth, Richard Lovell",2,1783,1784,1,2
+"Sewell, William",2,1796,1809,2,14
+"Serra, Joseph Correa De",2,1796,1799,1,4
+"Allen, Benjamin",2,1697,1698,1,2
+"Wren, Christopher",2,1669,1669,1,1
+"Duppa, Baldwin Francis",2,1866,1866,1,1
+"Dove, John",2,1728,1732,2,5
+"Dupre, August",2,1869,1872,1,4
+"Badcock, R.",2,1746,1746,1,1
+"Adee, Swithin",2,1750,1755,1,6
+"Young, James",2,1729,1882,2,154
+"Dollond, George",2,1821,1834,1,14
+"Baillie, Matthew",2,1788,1789,2,2
+"Balfour, Francis Maitland",2,1876,1882,1,7
+"Slater, Henry H.",2,1879,1879,2,1
+"Schäfer, Edward Albert",2,1873,1878,1,6
+"Zanotti, Eustachio",2,1739,1741,1,3
+"Dod, Peirce",2,1728,1743,2,16
+"Farre, Arthur",2,1837,1843,1,7
+"Bagford, John",2,1707,1707,1,1
+"Ditton, Humphry",2,1703,1705,1,3
+"Elliot, Charles Morgan",2,1851,1852,1,2
+"Sheldrake, Timothy",2,1740,1742,2,3
+"Wollaston, Charlton",2,1761,1761,1,1
+"Eeles, Henry",2,1752,1755,1,4
+"Dobson, Matthew",2,1774,1781,1,8
+"Ward, John William",1,1750,1750,1,1
+"Oliver, Gulielmi",1,1723,1723,1,1
+"Wallace, David James",1,1700,1700,1,1
+"Ward, Harry Marshall",1,1883,1883,1,1
+"de Camillis, Johanne Francisco",1,1744,1744,1,1
+"Molyneux, Samuel",1,1708,1708,1,1
+"Packer, Philip",1,1666,1666,1,1
+"Wanley, Mr",1,1703,1703,1,1
+"Walker, James",1,1828,1828,1,1
+"Page, T. F.",1,1784,1784,1,1
+"Paget, James",1,1850,1850,1,1
+"d'Aragona, Nicolas-michael",1,1741,1741,1,1
+"Wardo, Joanne",1,1730,1730,1,1
+"de Gennes, ",1,1678,1678,1,1
+"Wardrop, James",1,1826,1826,1,1
+"Zolman, ",1,1730,1730,1,1
+"Paitoni, John Baptist",1,1765,1765,1,1
+"Palgrave, Francis",1,1840,1840,1,1
+"Oliver, Dr.",1,1693,1693,1,1
+"de Bourzes, Louis-Noël",1,1713,1713,1,1
+"Molyneaux, Mr.",1,1684,1684,1,1
+"Oram, Richard",1,1757,1757,1,1
+"P. S., ",1,1687,1687,1,1
+"da Rovato, Joseph",1,1787,1787,1,1
+"de Almeida, Theodoro",1,1757,1757,1,1
+"Moll, Gerard",1,1828,1828,1,1
+"Osburn, Mr.",1,1684,1684,1,1
+"Walpole, Horatio",1,1752,1752,1,1
+"Walpole, Horace",1,1752,1752,1,1
+"Osborne, John",1,1722,1722,1,1
+"de Barros, M",1,1753,1753,1,1
+"Wallot, Johann Wilhelm",1,1784,1784,1,1
+"Moll, Gerrit",1,1824,1824,1,1
+"Warburton, Ph.",1,1750,1750,1,1
+"Orme’s, Alexander",1,1741,1741,1,1
+"Outram, Benjamin",1,1796,1796,1,1
+d'Incarville,1,1753,1753,1,1
+"Molineaux, William",1,1686,1686,1,1
+"de Bercé, ",1,1672,1672,1,1
+"Orme, Cha.",1,1738,1738,1,1
+"Owen, George",1,1694,1694,1,1
+"Mohr, Johan Maurits",1,1771,1771,1,1
+"Molloy, ",1,1761,1761,1,1
+"Waller, Augustus Desire",1,1882,1882,1,1
+"Oxley, Edmond",1,1729,1729,1,1
+"P, R",1,1698,1698,1,1
+"Walther, Bernard",1,1687,1687,1,1
+"Mivart, St. George",1,1867,1867,1,1
+"Pallas, Peter Simon",1,1763,1763,1,1
+"Wainhouse, William",1,1773,1773,1,1
+"Mitchell, Andrew",1,1757,1757,1,1
+"Paschall, ",1,1693,1693,1,1
+"des-Moulins, Scipio",1,1707,1707,1,1
+"Pauli, Dan.",1,1671,1671,1,1
+"Paul, Robert",1,1750,1750,1,1
+"Veicht, Robert",1,1764,1764,1,1
+"Patouillar, ",1,1738,1738,1,1
+"Paterson, William",1,1786,1786,1,1
+"Venuti, Filippo",1,1759,1759,1,1
+"Verelst, Harry",1,1763,1763,1,1
+"Veay, ",1,1687,1687,1,1
+"Vernatti, Philiberto",1,1678,1678,1,1
+"Vernede, ",1,1755,1755,1,1
+"del Papa, Joseph",1,1701,1701,1,1
+"Vernon, Francis",1,1676,1676,1,1
+"de Zach, Francis",1,1785,1785,1,1
+"Verny, ",1,1666,1666,1,1
+"Parry, Caleb Hillier",1,1811,1811,1,1
+"Paulum Henricum Gerhardum, Moehring",1,1739,1739,1,1
+"du Gard, Samuel",1,1674,1674,1,1
+"Walker, Adam",1,1773,1773,1,1
+"Vaughan, Henry",1,1702,1702,1,1
+"Peirce, Jeremiah",1,1739,1739,1,1
+"Peirce, Dr.",1,1685,1685,1,1
+"Milbourne, William",1,1763,1763,1,1
+"van Nierop, Dirick Rembrantz",1,1674,1674,1,1
+"Pedini, Pasqual R.",1,1742,1742,1,1
+"van Leeuwenhoek, Antoni",1,1704,1704,1,1
+"Pearson, John",1,1805,1805,1,1
+"van Grovestins, Douwe Sirtema",1,1755,1755,1,1
+"Payman, William",1,1769,1769,1,1
+"Pears, Charles",1,1805,1805,1,1
+"Pearce, Zachary",1,1738,1738,1,1
+"Peacock, James.",1,1785,1785,1,1
+"Payne, Robert",1,1725,1725,1,1
+"Vautravers, M.",1,1755,1755,1,1
+"Payne, John",1,1741,1741,1,1
+"Milford, Matthew",1,1678,1678,1,1
+"Parkes, William",1,1868,1868,1,1
+"Verrall, G. H.",1,1879,1879,1,1
+"de Watteville, A.",1,1882,1882,1,1
+"Walford, B.",1,1693,1693,1,1
+"Waddell, John",1,1749,1749,1,1
+"de Graaf, Regnier",1,1669,1669,1,1
+"Wagner, J.",1,1721,1721,1,1
+"Milner, Thomas",1,1742,1742,1,1
+"de Gioeni, Conte",1,1782,1782,1,1
+"Pardies, Ignatius Gaston",1,1753,1753,1,1
+"Wagstaffe, William",1,1720,1720,1,1
+"Milner, Wm.",1,1749,1749,1,1
+"Vievar, A.",1,1739,1739,1,1
+"Parderni, Camillo",1,1753,1753,1,1
+"Paradise, William",1,1773,1773,1,1
+"Milward, Edward",1,1742,1742,1,1
+"Walker, ",1,1698,1698,1,1
+"Panton, Paul",1,1773,1773,1,1
+"Palmerston, Viscount",1,1740,1740,1,1
+"Palmer, Joseph",1,1752,1752,1,1
+"W, T",1,1761,1761,1,1
+"Parish, Woodbine",1,1834,1834,1,1
+"de Guattini, Michael Angelo",1,1678,1678,1,1
+"Vulliamy, Benjamin",1,1797,1797,1,1
+"de Sancto-Claro Scoto-Lothiano, Joanne",1,1673,1673,1,1
+"Vincent, Nathaniel",1,1685,1685,1,1
+"Parker, W. N.",1,1882,1882,1,1
+"de Revillas, Didacum",1,1742,1742,1,1
+"Von Lang, Viktor",1,1876,1876,1,1
+"Parker, Thomas Jeffery",1,1886,1886,1,1
+"Parker, John",1,1752,1752,1,1
+"Miller, William Hallowes",1,1856,1856,1,1
+"Vossius, Isaacus",1,1686,1686,1,1
+Milles,1,1757,1757,1,1
+"de Martel, ",1,1670,1670,1,1
+"Mills, Abraham",1,1790,1790,1,1
+"Parker, ",1,1755,1755,1,1
+"Mills, Henry",1,1755,1755,1,1
+"Milne, John",1,1882,1882,1,1
+Zolman,1,1733,1733,1,1
+"Niven, William Davidson",1,1879,1879,1,1
+"Zimmerman, I. Iac",1,1686,1686,1,1
+"Morland, Joseph",1,1703,1703,1,1
+"Willard, Joseph",1,1781,1781,1,1
+"Woodward, John",1,1699,1699,1,1
+"Williams, Anthony",1,1771,1771,1,1
+"Morley, Charles",1,1697,1697,1,1
+"Morley, Christopher Love",1,1694,1694,1,1
+"Musgrave, Samuel",1,1778,1778,1,1
+"Mornay, Aristides Franklin",1,1816,1816,1,1
+"Muschenbroek, P.",1,1725,1725,1,1
+"Murray, Mungo",1,1764,1764,1,1
+"Wood, James",1,1798,1798,1,1
+"Morris, S.",1,1678,1678,1,1
+"Wood, Charles",1,1836,1836,1,1
+"Williamson, Alexander William",1,1882,1882,1,1
+"Murdoch, William",1,1808,1808,1,1
+"Williamson, Hugh",1,1775,1775,1,1
+"Wilkinson, John",1,1765,1765,1,1
+"Mushet, David",1,1805,1805,1,1
+"Monginor, Francis",1,1701,1701,1,1
+"Woodward, Thomas",1,1784,1784,1,1
+"Naish, Edward",1,1721,1721,1,1
+"White, William",1,1782,1782,1,1
+"Morgan, Rev. Mr.",1,1785,1785,1,1
+"Whitehurst, John",1,1767,1767,1,1
+"Woolcomb, Thomas",1,1771,1771,1,1
+"Whitfeld, Anne",1,1759,1759,1,1
+"Müller, John",1,1833,1833,1,1
+"Wilbraham, Thomas",1,1752,1752,1,1
+"Wilcox, Joseph",1,1763,1763,1,1
+"Wildbore, Charles",1,1790,1790,1,1
+"Muysson, ",1,1755,1755,1,1
+"Wilde, Henry",1,1867,1867,1,1
+"Muys, Weijer Willem",1,1714,1714,1,1
+"Mustel, Mr.",1,1773,1773,1,1
+"Morison, ",1,1675,1675,1,1
+"Williamson, Joseph",1,1719,1719,1,1
+"Mortimer, ",1,1731,1731,1,1
+"Willis, ",1,1759,1759,1,1
+"Wilmer, B.",1,1774,1774,1,1
+"Morton, John",1,1706,1706,1,1
+"Winkler, John Henry",1,1746,1746,1,1
+"Winn, J. L.",1,1771,1771,1,1
+"Winn, J. S.",1,1774,1774,1,1
+"Wintler, John Henry",1,1744,1744,1,1
+"Moult, J.",1,1769,1769,1,1
+"Wolfio, Christiano",1,1737,1737,1,1
+"Wolfe, Dno",1,1769,1769,1,1
+Wolfe,1,1766,1766,1,1
+"Wolfall, Mr.",1,1755,1755,1,1
+"Wolf, ",1,1763,1763,1,1
+"Moulen, Allen",1,1693,1693,1,1
+"Mostyn, Tho.",1,1742,1742,1,1
+"Wittembergœ., ",1,1750,1750,1,1
+"Wittie, D.",1,1694,1694,1,1
+"Wincler, ",1,1683,1683,1,1
+"Morton, D. C.",1,1761,1761,1,1
+"Wilson, Giffin",1,1799,1799,1,1
+"Mortimer, John",1,1734,1734,1,1
+"Wilmot, Edward",1,1744,1744,1,1
+"Wilson, ",1,1701,1701,1,1
+"Muller, Mr",1,1771,1771,1,1
+"Wood, Basil",1,1694,1694,1,1
+"Muller, Hermann Joseph",1,1878,1878,1,1
+"Muller, Gerhard Friedrich",1,1733,1733,1,1
+"Mullen, ",1,1685,1685,1,1
+"Wilson, G.",1,1784,1784,1,1
+"Woller, ",1,1757,1757,1,1
+"Wilson, Christopher",1,1769,1769,1,1
+"Wilson, Dr.",1,1769,1769,1,1
+"Wilson, Edmund Beecher",1,1883,1883,1,1
+"Wilson, Erasmus",1,1844,1844,1,1
+"Moxon, Joseph",1,1678,1678,1,1
+"Nata, Tommagon Porbo",1,1700,1700,1,1
+"Woollcombe, Thomas",1,1765,1765,1,1
+"Neale, Thomas",1,1666,1666,1,1
+"Wright, Richard",1,1723,1723,1,1
+"Nicolson, David",1,1740,1740,1,1
+"Monro, John",1,1700,1700,1,1
+"Nicolini, Marchese Di Ponsacco",1,1747,1747,1,1
+"Young, Charles",1,1759,1759,1,1
+"Wasmuth, ",1,1674,1674,1,1
+"Yorke, Philip James",1,1857,1857,1,1
+"Nicola, L",1,1755,1755,1,1
+"Nickson, Edward",1,1778,1778,1,1
+"Wastall, Mr.",1,1780,1780,1,1
+"Nicholson, ",1,1774,1774,1,1
+"Yeo, Gerald Francis",1,1884,1884,1,1
+"Waterston, John James",1,1852,1852,1,1
+"Yarrell, William",1,1827,1827,1,1
+"Nich, Mr.",1,1685,1685,1,1
+"Wrottesley, John",1,1851,1851,1,1
+"Nicolson, William",1,1685,1685,1,1
+"Niemeyer, J",1,1720,1720,1,1
+"Monnier, Louis Guillaume Le",1,1746,1746,1,1
+"Nooth, ",1,1773,1773,1,1
+"Oliver, Andrew",1,1764,1764,1,1
+"Waring, Richard Hill",1,1771,1771,1,1
+"O'Brien, Matthew",1,1852,1852,1,1
+"Wark, David",1,1761,1761,1,1
+"Monmort, Pierre Raymond De",1,1717,1717,1,1
+"Nooth, John Mervin",1,1775,1775,1,1
+"Warren, Charles",1,1744,1744,1,1
+"Warwick, C.",1,1742,1742,1,1
+"Monnier, Le",1,1748,1748,1,1
+"Warren, John",1,1829,1829,1,1
+"Noad, Henry Minchin",1,1854,1854,1,1
+"Warren, Rev. John",1,1829,1829,1,1
+"Warren, Samuel",1,1755,1755,1,1
+"Younghusband, Charles Wright",1,1853,1853,1,1
+"Newton, James",1,1698,1698,1,1
+"Wathen, Jonathan",1,1755,1755,1,1
+"Nedham, John",1,1755,1755,1,1
+"Watkins, Francis",1,1833,1833,1,1
+"Wray, John",1,1671,1671,1,1
+"Neumanni, D.",1,1734,1734,1,1
+"Moreland, William",1,1766,1766,1,1
+"Whiston, George",1,1727,1727,1,1
+"Nettleton, Dr.",1,1722,1722,1,1
+"Nettis, John",1,1755,1755,1,1
+"Nesbitt, Robert",1,1727,1727,1,1
+"Whiston, William",1,1721,1721,1,1
+"Morgagni, Giambattista",1,1724,1724,1,1
+"White, Taylor",1,1757,1757,1,1
+"Nelson, Jos",1,1708,1708,1,1
+"Nelson, Henry",1,1852,1852,1,1
+"Vassenio, Birgero",1,1733,1733,1,1
+"Needham, Turbervill",1,1747,1747,1,1
+"White, W.",1,1778,1778,1,1
+"Wheeler, Maurice",1,1684,1684,1,1
+"Weymarn, W. W.",1,1763,1763,1,1
+"Neumayer, G.",1,1867,1867,1,1
+"Wright, John",1,1703,1703,1,1
+"Watkins, Thomas",1,1714,1714,1,1
+"Newton, Alfred",1,1869,1869,1,1
+"Watson, Dr",1,1757,1757,1,1
+"Watt, Gregory",1,1804,1804,1,1
+"Weaver, Thomas",1,1825,1825,1,1
+"Newland, ",1,1772,1772,1,1
+"Newcome, Peter",1,1750,1750,1,1
+"Westwood, John Obadiah",1,1835,1835,1,1
+"More, Henry",1,1761,1761,1,1
+"Neville, Francis Henry",1,1715,1715,1,1
+"Wright, Charles Romley Alder",1,1869,1869,1,1
+"Wendlingen, Joanne",1,1757,1757,1,1
+"Neve, Peter Le",1,1718,1718,1,1
+"Wray, Mr.",1,1671,1671,1,1
+"Needham, Walter",1,1672,1672,1,1
+"Troughton, Edward",1,1809,1809,1,1
+"Varley, Cromwell Fleetwood",1,1871,1871,1,1
+"Smith, Caleb",1,1740,1740,1,1
+"Robie, ",1,1720,1720,1,1
+"Robertson, William",1,1831,1831,1,1
+"Smith, Frederick",1,1879,1879,1,1
+"Smith, James Edward",1,1788,1788,1,1
+"Robertson, Charles",1,1862,1862,1,1
+"Smith, Mr.",1,1749,1749,1,1
+"Robertson, Abram",1,1807,1807,1,1
+"Smith, Pierce",1,1795,1795,1,1
+"Smith, Robert",1,1766,1766,1,1
+"Smith, S.",1,1693,1693,1,1
+"Roberts-Austen, William Chandler",1,1874,1874,1,1
+"Roberts, William",1,1874,1874,1,1
+"Smithson, Richard",1,1669,1669,1,1
+"Smyth, Charles Piazzi",1,1858,1858,1,1
+"Smyth, Edward",1,1685,1685,1,1
+"Smyth, William Henry",1,1832,1832,1,1
+"Rixtel, John Van",1,1743,1743,1,1
+"Sneyd, Thomas",1,1792,1792,1,1
+"Rive, Auguste Arthur De La",1,1847,1847,1,1
+"Robie, Thomas",1,1724,1724,1,1
+"Smethurst, Gamaliel",1,1749,1749,1,1
+"Reading, Robert",1,1693,1693,1,1
+"Smeathman, Henry",1,1781,1781,1,1
+"Ronalds, Edmund",1,1846,1846,1,1
+"Romanese, R.",1,1882,1882,1,1
+Simson,1,1753,1753,1,1
+"Simson, Rob",1,1723,1723,1,1
+"Sinarum, Pekini",1,1746,1746,1,1
+"Rolli, Paolo Antonio",1,1745,1745,1,1
+"Rolleston, George",1,1862,1862,1,1
+"Sisley, John",1,1740,1740,1,1
+"Rogers, Woods",1,1721,1721,1,1
+"Rogers, ",1,1721,1721,1,1
+"Roebuck, John",1,1775,1775,1,1
+"Rodwell, G. F.",1,1882,1882,1,1
+"Rodriguez, Don Joseph",1,1812,1812,1,1
+"Skelton, Philip",1,1748,1748,1,1
+"Skey, Frederic Carpenter",1,1837,1837,1,1
+"Roche, Robert",1,1748,1748,1,1
+"Skippon, Philip",1,1705,1705,1,1
+"Sloane, William",1,1740,1740,1,1
+"Slusius, Renatus Franciscus",1,1673,1673,1,1
+"Solander, Daniel Charles",1,1761,1761,1,1
+"Solly, Samuel",1,1836,1836,1,1
+"Rinaldini, Carolo",1,1671,1671,1,1
+"Somner's, John",1,1701,1701,1,1
+"Reneaulme de Lagaranne, Michel-Louis",1,1701,1701,1,1
+"Stark, James",1,1833,1833,1,1
+"Reiselius, Salomon",1,1685,1685,1,1
+"Reisel, Salomon",1,1686,1686,1,1
+"Reid, Alex",1,1744,1744,1,1
+"Reid, ",1,1748,1748,1,1
+"Reichel, Baron",1,1789,1789,1,1
+"Stehelin, Jacob De",1,1774,1774,1,1
+"Steno, ",1,1667,1667,1,1
+"Stephens, John",1,1761,1761,1,1
+"Regnart, N.",1,1705,1705,1,1
+"Reeve, Henry",1,1808,1808,1,1
+"Rees, George Owen",1,1842,1842,1,1
+"Reed, Richard",1,1671,1671,1,1
+"Stephens, William",1,1779,1779,1,1
+"Steplin, Joseph",1,1755,1755,1,1
+"Stevens, William",1,1835,1835,1,1
+"Redi, Sen. Francisco",1,1698,1698,1,1
+"Stevenson, John",1,1755,1755,1,1
+"Stannyan, ",1,1704,1704,1,1
+"Stanhope, Philip",1,1781,1781,1,1
+"Standert, Hugh Chudleigh",1,1805,1805,1,1
+"Rich, ",1,1705,1705,1,1
+"Southwell, Edward",1,1705,1705,1,1
+"Sparrman, Andreas",1,1777,1777,1,1
+"Ridley, H",1,1703,1703,1,1
+"Richmond, ",1,1745,1745,1,1
+"Spence, Joseph",1,1753,1753,1,1
+"Richer, Jean",1,1676,1676,1,1
+"Spener, Christian Maximilain",1,1705,1705,1,1
+"Spon, ",1,1683,1683,1,1
+"Rice, William",1,1719,1719,1,1
+"Stackhouse, Hugh",1,1724,1724,1,1
+"Spottswood, ",1,1696,1696,1,1
+"Rhæti, Waltheri Curieusi",1,1727,1727,1,1
+"Sproule, George",1,1774,1774,1,1
+"Reynell, Richard",1,1735,1735,1,1
+"St John, Oliver",1,1732,1732,1,1
+"St. Clair, Robert",1,1698,1698,1,1
+"Stackhouse, ",1,1742,1742,1,1
+"Reynardson, Samuel",1,1749,1749,1,1
+"Ronalds, Francis",1,1847,1847,1,1
+"Simpson, Maxwell",1,1861,1861,1,1
+"Simons, ",1,1830,1830,1,1
+"Sharpe, Daniel",1,1852,1852,1,1
+"Saunderson, William",1,1727,1727,1,1
+"Saunders, Robert",1,1789,1789,1,1
+"Sellers, John",1,1769,1769,1,1
+"Saunders, Howard",1,1879,1879,1,1
+"Senckenberg, Conrdus-hieronymus",1,1741,1741,1,1
+"Sault, Richard",1,1698,1698,1,1
+"Senex, John",1,1738,1738,1,1
+"Sartorius, ",1,1737,1737,1,1
+"Sargant, E. B.",1,1883,1883,1,1
+"Sensex, Mary",1,1749,1749,1,1
+"Sandys, Fr",1,1738,1738,1,1
+"Sandy, Edwin",1,1697,1697,1,1
+"Seymour, George",1,1741,1741,1,1
+"Sandius, Christophorus",1,1674,1674,1,1
+"Sanderson, William",1,1720,1720,1,1
+"Seytres, Joseph de",1,1738,1738,1,1
+"Sanderson, J. Burdon",1,1867,1867,1,1
+"Shadwell, Charles Frederick Alexander",1,1877,1877,1,1
+"Samuel, Holland",1,1774,1774,1,1
+"Saussure, Nicolas Theodore De",1,1819,1819,1,1
+"Segner, Johann Andreas Von",1,1741,1741,1,1
+"Seehl, Ephraim Rinhold",1,1744,1744,1,1
+"Schelhammeri, G. Ch.",1,1712,1712,1,1
+"Schreibers, Charles",1,1801,1801,1,1
+"Schläfli, Ludwig",1,1863,1863,1,1
+"Schroter, Johann Hieronymus",1,1807,1807,1,1
+"Schlichting, John Daniel",1,1742,1742,1,1
+"Schwediawer, Franz Xavier",1,1783,1783,1,1
+"Schevchzeris, Johanne",1,1707,1707,1,1
+"Scheuchzer, John James",1,1728,1728,1,1
+"Schönbein, Christian Friedrich",1,1846,1846,1,1
+"Scarburgh, ",1,1697,1697,1,1
+"Savard, ",1,1696,1696,1,1
+"Savory, William Scovell",1,1855,1855,1,1
+"Savile, Ann",1,1696,1696,1,1
+"Scott, J.",1,1778,1778,1,1
+"Savery, Thomas",1,1699,1699,1,1
+"Scott, William",1,1776,1776,1,1
+"Seabrook, R. N.",1,1875,1875,1,1
+"Sedileau, ",1,1684,1684,1,1
+"Savery, Servington",1,1730,1730,1,1
+"Sharp, William",1,1767,1767,1,1
+"Samuda, Isaacus",1,1724,1724,1,1
+"Rooke, Lawrence",1,1667,1667,1,1
+"Sharpe, R. Bowdler",1,1879,1879,1,1
+"Russell, Richard",1,1713,1713,1,1
+"Shirley, Thomas",1,1667,1667,1,1
+"Russel, Michael",1,1750,1750,1,1
+"Rumovski, M.",1,1787,1787,1,1
+"Shuldham, Molyneux",1,1775,1775,1,1
+"Sibbaldo, Roberto",1,1684,1684,1,1
+"Rubin de Celis, Michael",1,1788,1788,1,1
+"Royston-Pigott, George West",1,1870,1870,1,1
+"Silvabelle, De St. Jaques",1,1753,1753,1,1
+"Rowning, John",1,1733,1733,1,1
+"Rowning, J.",1,1771,1771,1,1
+"Rowlands, ",1,1721,1721,1,1
+"Rowe, R. C.",1,1881,1881,1,1
+"Simmons, Samuel Foart",1,1774,1774,1,1
+"Roswell, Benj.",1,1729,1729,1,1
+"Simon, John",1,1844,1844,1,1
+"Ross, David",1,1766,1766,1,1
+"Rosewarne, Henry",1,1769,1769,1,1
+"Simon, Stuckey",1,1774,1774,1,1
+"Rutherford, Thomas",1,1755,1755,1,1
+"Rutherford, William",1,1841,1841,1,1
+"Sherwood, Noah",1,1741,1741,1,1
+"Salmon, William",1,1693,1693,1,1
+"Samuda, Isaaco Sequeyra",1,1726,1726,1,1
+"Sharpe, Richard Bowdler",1,1879,1879,1,1
+"Sampson, ",1,1674,1674,1,1
+"Shenstone, William Ashwell",1,1884,1884,1,1
+"Samber, ",1,1727,1727,1,1
+"Shepheard, Sam.",1,1739,1739,1,1
+"Salter, Samuel James Augustus",1,1861,1861,1,1
+"Salter, Samuel",1,1746,1746,1,1
+"Salmon, Thomas",1,1705,1705,1,1
+"Sherwood, James",1,1746,1746,1,1
+"Sherard, William",1,1721,1721,1,1
+"Salien, ",1,1738,1738,1,1
+"Sackette, John",1,1716,1716,1,1
+"Sacchetti, Giulio",1,1755,1755,1,1
+"Sabine, Joseph",1,1853,1853,1,1
+"Sherman, B.",1,1705,1705,1,1
+"S., R. S.",1,1684,1684,1,1
+"S, R",1,1684,1684,1,1
+"Stevenson, William",1,1730,1730,1,1
+"Steward, ",1,1750,1750,1,1
+"Varelaz, Joseph",1,1774,1774,1,1
+"Tonge, Morris",1,1869,1869,1,1
+"Topping, Michael",1,1792,1792,1,1
+"Pictet, Marc-auguste",1,1791,1791,1,1
+"Torkos, Justus Johann",1,1757,1757,1,1
+"Picquigny, Marie Joseph Louis D'albert D'ailly",1,1783,1783,1,1
+"Picolo, Francis Maria",1,1708,1708,1,1
+"Pickersgill, Richard",1,1778,1778,1,1
+"Torres, Joseph Ignacio De",1,1741,1741,1,1
+"Picart, M.",1,1669,1669,1,1
+"Picart, ",1,1675,1675,1,1
+"Picard, M. M.",1,1697,1697,1,1
+"Piazzi, Giuseppe",1,1789,1789,1,1
+"Travers, Peter",1,1757,1757,1,1
+"Phillips, John",1,1868,1868,1,1
+"Tredgold, Thomas",1,1824,1824,1,1
+"Tredwey, Robert",1,1697,1697,1,1
+"Philips, Richard",1,1755,1755,1,1
+"Philips, Henry",1,1668,1668,1,1
+"Philips, ",1,1666,1666,1,1
+"Peyssonel, John Andrew",1,1759,1759,1,1
+"Pigot, Thomas",1,1683,1683,1,1
+"Pinelli, Michele",1,1728,1728,1,1
+"Steward, J.",1,1765,1765,1,1
+"Tonge, Israel",1,1671,1671,1,1
+"Plukenet, Leonard",1,1691,1691,1,1
+"Pluche, Abbe",1,1740,1740,1,1
+"Tillard, S.",1,1812,1812,1,1
+"Tilli, Michaelangelo",1,1709,1709,1,1
+"Plot, Rob",1,1685,1685,1,1
+"Plot, ",1,1685,1685,1,1
+"Playfair, Lyon",1,1849,1849,1,1
+"Platt, Thomas",1,1672,1672,1,1
+"Timonius, Emanuel",1,1714,1714,1,1
+"Tissot, A.",1,1765,1765,1,1
+"Platt, Joseph",1,1750,1750,1,1
+"Plant, Matthias",1,1742,1742,1,1
+"Planman, Andrew",1,1768,1768,1,1
+"Pitt, Edmund",1,1678,1678,1,1
+"Tong, ",1,1669,1669,1,1
+"Pitfeild, Alexander",1,1687,1687,1,1
+"Pitcairn, Robert",1,1773,1773,1,1
+"Tonge, ",1,1669,1669,1,1
+"Pingré, M.",1,1771,1771,1,1
+"Trimmer, William Kirby",1,1813,1813,1,1
+"Trithemii, Johannis",1,1677,1677,1,1
+"Tucker, Josiah",1,1764,1764,1,1
+"Tull’s, Samuel",1,1753,1753,1,1
+"Vallemont, De",1,1697,1697,1,1
+"Perks, J",1,1715,1715,1,1
+"Perks, ",1,1706,1706,1,1
+"Pereyra, Andrea",1,1731,1731,1,1
+"Vallettæ, Josephi",1,1713,1713,1,1
+"Pereira, Andrea",1,1732,1732,1,1
+"Percival, Philip",1,1720,1720,1,1
+"Van Beek, Albert",1,1824,1824,1,1
+"Pepys, Samuel",1,1691,1691,1,1
+"Pepusch, John Christopher",1,1746,1746,1,1
+"Penny, Frederick",1,1839,1839,1,1
+"Van Hazen, Willem",1,1752,1752,1,1
+"Van Leeuwenhoek, Antoni",1,1704,1704,1,1
+"Van Swinden, J. H.",1,1773,1773,1,1
+"Pennant, Mr.",1,1750,1750,1,1
+"Vanbrugh, G. R.",1,1737,1737,1,1
+"Pengelly, William",1,1862,1862,1,1
+"Vans, Robert",1,1696,1696,1,1
+"Peirce, Robert",1,1685,1685,1,1
+"Underwood, Michael",1,1767,1767,1,1
+"Underhill, ",1,1698,1698,1,1
+"Perrault, Claude",1,1675,1675,1,1
+"Turner, J.",1,1694,1694,1,1
+"Petty Knight, Sir William",1,1684,1684,1,1
+"Pettus, John",1,1683,1683,1,1
+"Petto, ",1,1699,1699,1,1
+"Tulpius, ",1,1674,1674,1,1
+"Petre, Robert James",1,1742,1742,1,1
+"Tunstall, Marmaduke",1,1783,1783,1,1
+"Turner, Daniel",1,1725,1725,1,1
+"Petiver, Jacobus",1,1711,1711,1,1
+"Turnor, Charles",1,1845,1845,1,1
+"Perry, ",1,1757,1757,1,1
+"Turnor, Edmund",1,1792,1792,1,1
+"Petiver, Jacobo",1,1703,1703,1,1
+"Petiver, D. Jacobum",1,1705,1705,1,1
+"Peters, Nich",1,1744,1744,1,1
+"Peters, Charles",1,1745,1745,1,1
+"Tyson, Michael",1,1771,1771,1,1
+"Perry, John",1,1880,1880,1,1
+"Perry, Charles",1,1742,1742,1,1
+"Plücker, J.",1,1866,1866,1,1
+"Tilden, William Augustus",1,1884,1884,1,1
+"Pole, William",1,1859,1859,1,1
+"Pritchard, Urban",1,1881,1881,1,1
+"Sturmy, Samuel",1,1668,1668,1,1
+"Raffles, Thomas Stamford Bingley",1,1820,1820,1,1
+"R., J. F. M.",1,1684,1684,1,1
+"Quintiny, Dela",1,1669,1669,1,1
+"Quincy, John",1,1720,1720,1,1
+"Pylarini, Giacomo",1,1716,1716,1,1
+"Suarez, D",1,1749,1749,1,1
+"Pyke, Isaac",1,1732,1732,1,1
+"Pye, William",1,1755,1755,1,1
+"Pye, Walter",1,1877,1877,1,1
+"Purcell, John",1,1774,1774,1,1
+"Suarez, P. P",1,1749,1749,1,1
+"Superville, Daniel De",1,1740,1740,1,1
+"Supple, Richard",1,1752,1752,1,1
+"Pulleyn, Octavian",1,1697,1697,1,1
+"Swartz, Olof",1,1787,1787,1,1
+"Pugh, Evan",1,1861,1861,1,1
+"Symmer, Robert",1,1759,1759,1,1
+"Sympson, T",1,1741,1741,1,1
+"Sturges, ",1,1793,1793,1,1
+"Struijck, Nicolaum",1,1749,1749,1,1
+"Rajo, Joanne",1,1687,1687,1,1
+"Rastell, Tho.",1,1679,1679,1,1
+"Steward, Tho.",1,1738,1738,1,1
+"Stewart, John",1,1777,1777,1,1
+"Ray, Benjamin",1,1752,1752,1,1
+"Stocke, Leonard",1,1742,1742,1,1
+"Ray, ",1,1675,1675,1,1
+"Stodart, James",1,1822,1822,1,1
+"Rawlinson, Christopher",1,1727,1727,1,1
+"Rastrick, William Cl",1,1727,1727,1,1
+"Stone, Edward",1,1763,1763,1,1
+"Ramazzini, Bernardino",1,1714,1714,1,1
+"Stone, Edward James",1,1872,1872,1,1
+"Stoqueler, Mr.",1,1755,1755,1,1
+"Ransom, William Henry",1,1867,1867,1,1
+"Storer, John",1,1815,1815,1,1
+"Stovin, G.",1,1747,1747,1,1
+"Strachey, Henry, Sir",1,1782,1782,1,1
+"Stretton, Thomas",1,1794,1794,1,1
+"Ramsay, Allan",1,1740,1740,1,1
+"Proby, Thomas",1,1700,1700,1,1
+"T., M.",1,1739,1739,1,1
+"Tiarks, John Lewis",1,1824,1824,1,1
+"Prinsep, Isaac François Macaire",1,1848,1848,1,1
+"Pott, Percivall",1,1764,1764,1,1
+"Pott, ",1,1741,1741,1,1
+"Pothenot, ",1,1684,1684,1,1
+"Portuga, Benito De Moura",1,1752,1752,1,1
+"Thomas, David",1,1665,1665,1,1
+"Thomas, Honoratus Leigh",1,1801,1801,1,1
+"Thomlinson, ",1,1755,1755,1,1
+"Pooley, Giles",1,1693,1693,1,1
+"Thomlinson, Thomas",1,1757,1757,1,1
+"Pond, Arthur",1,1755,1755,1,1
+"Thompson Lowne, B.",1,1878,1878,1,1
+"Thomson, Charles Thomas Wyville",1,1865,1865,1,1
+"Thoresby, ",1,1697,1697,1,1
+"Polhill, Nathaniel",1,1778,1778,1,1
+"Thornhill, William",1,1755,1755,1,1
+"Thornycroft, Edward",1,1705,1705,1,1
+"Thruston, Malachy",1,1670,1670,1,1
+"Thunberg, Carl Peter",1,1779,1779,1,1
+"Poleni, Giovanni",1,1724,1724,1,1
+"Thomas Molyneux, ",1,1694,1694,1,1
+"Thom, Frederic De",1,1731,1731,1,1
+"Teske, John Godsrey",1,1759,1759,1,1
+"Teidemann, Friedrich",1,1836,1836,1,1
+"Prince, ",1,1755,1755,1,1
+"Tailor, Robert",1,1697,1697,1,1
+"Tait, Peter Guthrie",1,1860,1860,1,1
+"Taube, H. W.",1,1744,1744,1,1
+"Priestley, John",1,1876,1876,1,1
+"Taylor, ",1,1750,1750,1,1
+"Price, Charles",1,1728,1728,1,1
+"Taylor, Robert",1,1706,1706,1,1
+"Temple, Henry",1,1740,1740,1,1
+"Tentzelii, Wilhelmi Ernesti",1,1697,1697,1,1
+"Templeman, Peter",1,1746,1746,1,1
+"Poynting, John Henry",1,1885,1885,1,1
+"Poynting, J. H.",1,1884,1884,1,1
+"Power, Joseph",1,1854,1854,1,1
+"Powell, John",1,1741,1741,1,1
+"Templers, John",1,1672,1672,1,1
+"Tenison, Edward",1,1713,1713,1,1
+"Tenon, W",1,1685,1685,1,1
+", Blondel",1,1702,1702,1,1
+"Jones, Thomas Rupert",1,1865,1865,1,1
+"Middleton, ",1,1685,1685,1,1
+"Conny, Rob.",1,1698,1698,1,1
+"Corke, Robert",1,1739,1739,1,1
+"Copping, John",1,1741,1741,1,1
+"Cooper, William",1,1784,1784,1,1
+"Cooper, Samuel",1,1759,1759,1,1
+"Cooper, John Thomas",1,1839,1839,1,1
+"Cooper, Edward",1,1753,1753,1,1
+"Cooper, Bransby Blake",1,1829,1829,1,1
+"Cooper, Allen",1,1779,1779,1,1
+"Cookson, J",1,1745,1745,1,1
+"Cook, Colonel William",1,1745,1745,1,1
+"Cook, Benjamin",1,1745,1745,1,1
+"Conti, M. L Abbé",1,1719,1719,1,1
+"Consett, Thomas",1,1733,1733,1,1
+"Connor, Bernard",1,1695,1695,1,1
+"Cornish, James",1,1775,1775,1,1
+"Conduitt, John",1,1719,1719,1,1
+"Combes, Thomas",1,1757,1757,1,1
+"Combe, Charles",1,1801,1801,1,1
+"Colquhoun, James Nisbet",1,1755,1755,1,1
+"Colman, Benjamin",1,1729,1729,1,1
+"Collins, ",1,1684,1684,1,1
+"Collignon, Charles",1,1772,1772,1,1
+"Coles, Edward",1,1697,1697,1,1
+"Cole, Gulielmo",1,1685,1685,1,1
+"Cole, ",1,1685,1685,1,1
+"Colden, Cadwallader",1,1755,1755,1,1
+"Cohen, A.",1,1862,1862,1,1
+"Coe, T.",1,1752,1752,1,1
+"Cornelio, Thomas",1,1672,1672,1,1
+"Cornwall, ",1,1722,1722,1,1
+"Cockin, William",1,1780,1780,1,1
+"Cruickshank, William",1,1797,1797,1,1
+"Cyrillo, Nicolao",1,1733,1733,1,1
+"Cyprianus, Abraham",1,1696,1696,1,1
+"Cutting, Margaret",1,1742,1742,1,1
+"Custodis, D. Bickley",1,1757,1757,1,1
+"Curtis, William",1,1774,1774,1,1
+"Curtis, Roger",1,1774,1774,1,1
+"Curteis, William",1,1734,1734,1,1
+"Currie, James",1,1792,1792,1,1
+"Currey, Frederick",1,1857,1857,1,1
+"Cullum, Dudley",1,1694,1694,1,1
+"Cruwys, Samuel",1,1721,1721,1,1
+"Cruquius, Nicolaus",1,1724,1724,1,1
+"Cruikshank, William Cumberland",1,1795,1795,1,1
+"Crocker, ",1,1740,1740,1,1
+"Costard, G.",1,1747,1747,1,1
+"Crispe, ",1,1740,1740,1,1
+"Cressener, Henry",1,1710,1710,1,1
+"Creak, Ettrick William",1,1883,1883,1,1
+"Cranbrook, ",1,1755,1755,1,1
+"Craig, D. Johannis",1,1701,1701,1,1
+"Cradock, Zach",1,1744,1744,1,1
+"Coxe, Thomas",1,1667,1667,1,1
+"Cox, Dan",1,1675,1675,1,1
+"Cox, ",1,1739,1739,1,1
+"Cowper, Spencer",1,1755,1755,1,1
+"Couzier, ",1,1722,1722,1,1
+"Courten, William",1,1712,1712,1,1
+"Count, Benjamin",1,1804,1804,1,1
+"Cocks, Charles",1,1778,1778,1,1
+"Cock, Wm.",1,1746,1746,1,1
+"Dale, T. P.",1,1863,1863,1,1
+"Castles, John",1,1790,1790,1,1
+"Cerati, Gasparo",1,1755,1755,1,1
+"Celsium, Andream",1,1736,1736,1,1
+"Cecil, William",1,1699,1699,1,1
+"Cazaud, Mr.",1,1779,1779,1,1
+"Cazaud, Monsieur",1,1780,1780,1,1
+"Cay, Robert",1,1699,1699,1,1
+"Cawley, James",1,1764,1764,1,1
+"Caverhill, John",1,1767,1767,1,1
+"Cavendish, Charles",1,1757,1757,1,1
+"Cave, Thomas",1,1750,1750,1,1
+"Catlyn, John",1,1742,1742,1,1
+"Catlin, John",1,1750,1750,1,1
+"Caswell, F. R. S.",1,1704,1704,1,1
+"Cassini, Messieurs",1,1684,1684,1,1
+"Challis, James",1,1856,1856,1,1
+"Cassini, D",1,1698,1698,1,1
+"Cassini, ",1,1675,1675,1,1
+"Cassegrain, M.",1,1672,1672,1,1
+"Cash, John Theodore",1,1884,1884,1,1
+"Carter, Henry John",1,1879,1879,1,1
+"Carte, Samuel",1,1711,1711,1,1
+"Carte, Alexander",1,1868,1868,1,1
+"Carson, James",1,1820,1820,1,1
+"Carpenter, Philip Herbert",1,1883,1883,1,1
+"Carne, Joseph",1,1807,1807,1,1
+"Carnabè, Petri Isaaci",1,1743,1743,1,1
+"Carlyle, G.",1,1768,1768,1,1
+"Carlisle, George",1,1766,1766,1,1
+"Chais, ",1,1768,1768,1,1
+"Chalmers, ",1,1750,1750,1,1
+"Clow, James",1,1781,1781,1,1
+"Clarck, Timothy",1,1668,1668,1,1
+"Clerk, William",1,1699,1699,1,1
+"Clerk, Henry",1,1846,1846,1,1
+"Clephane, John",1,1752,1752,1,1
+"Clayton, William",1,1776,1776,1,1
+"Claudet, Antoine Jean Francois",1,1847,1847,1,1
+"Clarke, Samuel",1,1728,1728,1,1
+"Clarke, Joseph",1,1786,1786,1,1
+"Clarke, J.",1,1701,1701,1,1
+"Clarke, George Sydenham",1,1880,1880,1,1
+"Clarke, Charles",1,1767,1767,1,1
+"Clark, Josiah Latimer",1,1874,1874,1,1
+"Clark, John Willis",1,1879,1879,1,1
+"Clare, Martin",1,1750,1750,1,1
+"Clanny, William Reid",1,1813,1813,1,1
+"Chambers, Robert",1,1759,1759,1,1
+"Clain, Paul",1,1708,1708,1,1
+"Cirillo, Dominico",1,1771,1771,1,1
+"Churchman, Walter",1,1734,1734,1,1
+"Church, Arthur Herbert",1,1869,1869,1,1
+"Christie, James Robert",1,1846,1846,1,1
+"Christie, Charles C.",1,1836,1836,1,1
+"Christie, ",1,1826,1826,1,1
+"Child, William",1,1755,1755,1,1
+"Cheston, Richard Brown",1,1780,1780,1,1
+"Charras, Moses",1,1678,1678,1,1
+"Charas, Moise",1,1669,1669,1,1
+"Chappe, M.",1,1761,1761,1,1
+"Channing, John",1,1767,1767,1,1
+"Dack, B.",1,1753,1753,1,1
+"Dale, Thomas Pelham",1,1858,1858,1,1
+"Carbone, Joanni Baptistæ",1,1724,1724,1,1
+"Drake, James",1,1702,1702,1,1
+"Dymond, Joseph",1,1771,1771,1,1
+Dyer,1,1757,1757,1,1
+"Dutton, William",1,1759,1759,1,1
+"Durant, J",1,1746,1746,1,1
+"Dupre, M.",1,1699,1699,1,1
+"Dupin, Charles",1,1817,1817,1,1
+"Dunlop, James",1,1828,1828,1,1
+"Duhamel du Monceau, Henri Louis",1,1740,1740,1,1
+"Dudley, Matthew",1,1705,1705,1,1
+"Du Son, ",1,1665,1665,1,1
+"Du Quet, ",1,1721,1721,1,1
+"Du Pont, Andrew Peter",1,1763,1763,1,1
+"Dryander, Jonas",1,1787,1787,1,1
+"Dr, Sam",1,1685,1685,1,1
+"Earnshaw, ",1,1685,1685,1,1
+"Downe, Nath",1,1750,1750,1,1
+"Douglass, Sylvester",1,1773,1773,1,1
+"Douglas, Sylvester",1,1768,1768,1,1
+"Douglas, Robert",1,1776,1776,1,1
+"Douglas, George",1,1821,1821,1,1
+"Douglas, Charles",1,1771,1771,1,1
+"Doody, Samuel",1,1697,1697,1,1
+"Dontati, Vitaliano",1,1755,1755,1,1
+"Donovan, M.",1,1815,1815,1,1
+"Donius, Jo. Battista",1,1670,1670,1,1
+"Dodd, James Munro",1,1883,1883,1,1
+"Dod, J.",1,1729,1729,1,1
+"Dobyns, John",1,1728,1728,1,1
+"Earle, James",1,1809,1809,1,1
+"Earnshaw, Samuel",1,1860,1860,1,1
+"Dobson, Dr.",1,1777,1777,1,1
+"Entio, Georgio",1,1679,1679,1,1
+"Farey, John",1,1811,1811,1,1
+"Fantoni, Pius",1,1767,1767,1,1
+"Fairchild, Thomas",1,1724,1724,1,1
+"Faget, Jean Baptiste",1,1752,1752,1,1
+"Fabritius, ",1,1667,1667,1,1
+"Eximeno, Antonio P.",1,1761,1761,1,1
+"Ewart, James Cossar",1,1881,1881,1,1
+"Evatt, ",1,1761,1761,1,1
+"Evans, John",1,1873,1873,1,1
+"Euler, ",1,1750,1750,1,1
+"Ettrick, Henry",1,1741,1741,1,1
+"Estance, P. Valentin",1,1674,1674,1,1
+"Epinasse, Charles L",1,1767,1767,1,1
+"Ent, George",1,1691,1691,1,1
+"Edens, J.",1,1715,1715,1,1
+"Englefield, Henry Charles",1,1781,1781,1,1
+"Embleton, Dennis",1,1852,1852,1,1
+"Elton, John",1,1732,1732,1,1
+"Elstobb, Wm.",1,1749,1749,1,1
+"Ellis, William",1,1880,1880,1,1
+"Ellis, George Viner",1,1859,1859,1,1
+"Ellis, Charles",1,1703,1703,1,1
+"Elliot, John",1,1786,1786,1,1
+"Eliot, L.",1,1773,1773,1,1
+"Eimmart, Georg Christoph",1,1686,1686,1,1
+"Ehrhart, Balthasar",1,1740,1740,1,1
+"Ehm, ",1,1706,1706,1,1
+"Egedius, Hans",1,1743,1743,1,1
+"Dobson, George Edward",1,1879,1879,1,1
+"Dobs, Arthur",1,1729,1729,1,1
+"Dalrymple, John",1,1849,1849,1,1
+"Davis, Evan",1,1733,1733,1,1
+"De Mayerne, Theodore",1,1694,1694,1,1
+"De Gennes, ",1,1678,1678,1,1
+"De Billy, P.",1,1666,1666,1,1
+"De Bills, Monsieur Louys",1,1668,1668,1,1
+"Day, R. E.",1,1877,1877,1,1
+"Day, Mark",1,1759,1759,1,1
+"Dawson, John William",1,1882,1882,1,1
+"Dawson, Ambrose",1,1759,1759,1,1
+"Dawkes, Thomas",1,1745,1745,1,1
+"Dawes, Thomas",1,1763,1763,1,1
+"Davis, Mr. John",1,1685,1685,1,1
+"Davis, Joseph Barnard",1,1868,1868,1,1
+"Davis, John Francis",1,1823,1823,1,1
+"Davis, Edward",1,1747,1747,1,1
+"De Schlagintweit, Hermann",1,1863,1863,1,1
+"Davies, Thomas",1,1771,1771,1,1
+"Davies, Richard",1,1748,1748,1,1
+"Davies, Evan",1,1730,1730,1,1
+"Davies, David",1,1693,1693,1,1
+"Daviel, Jacques",1,1755,1755,1,1
+"Davidson, George",1,1784,1784,1,1
+"Davenport, Francis",1,1684,1684,1,1
+"Darwin, Robert Waring",1,1786,1786,1,1
+"Darwin, D.",1,1774,1774,1,1
+"Darwin, Charles Robert",1,1839,1839,1,1
+"Darston, William",1,1669,1669,1,1
+"Dantzick, ",1,1668,1668,1,1
+"Dampler, George",1,1698,1698,1,1
+"De Morgan, Augustus",1,1846,1846,1,1
+"De Sigorgne, M.",1,1740,1740,1,1
+"Dixon, William",1,1752,1752,1,1
+"Derante, Peter",1,1722,1722,1,1
+"Dixon, Harold Baily",1,1884,1884,1,1
+"Dixon, ",1,1761,1761,1,1
+"Divers, Edward",1,1873,1873,1,1
+"Dionysius, ",1,1678,1678,1,1
+"Diodati, Roelof",1,1698,1698,1,1
+"Dingley, Robert",1,1747,1747,1,1
+"Digges, Edward",1,1665,1665,1,1
+"Dicquemare, Jacques-François",1,1777,1777,1,1
+"Dewar, James",1,1883,1883,1,1
+"Devert, D.",1,1729,1729,1,1
+"Deverel, Mr.",1,1720,1720,1,1
+"Derham, Mr.",1,1700,1700,1,1
+"Derby, J.",1,1739,1739,1,1
+"Denys, Monsieur",1,1673,1673,1,1
+"De Toledo, Alvarez",1,1694,1694,1,1
+"Denys, M.",1,1673,1673,1,1
+"Dent, Thomas",1,1694,1694,1,1
+"Denis, M. Jean",1,1668,1668,1,1
+"Denis, Jean-Baptiste",1,1667,1667,1,1
+"Dela Roque, M. I'abbe",1,1683,1683,1,1
+"Degli Aromatari, Giuseppe",1,1694,1694,1,1
+"Degge, Simon",1,1727,1727,1,1
+"Dee, John",1,1699,1699,1,1
+"Debraw, John",1,1777,1777,1,1
+"Debenham, Thomas",1,1752,1752,1,1
+"DeBill, ",1,1667,1667,1,1
+"De la Voye, M.",1,1666,1666,1,1
+"De Zulechem, M. Hugens",1,1670,1670,1,1
+"Carilos, ",1,1763,1763,1,1
+"Capasso, Dominico",1,1724,1724,1,1
+"Farley, James",1,1768,1768,1,1
+"Barlow, John",1,1856,1856,1,1
+"Bastian, Henry Charlton",1,1866,1866,1,1
+"Bastard, William",1,1777,1777,1,1
+"Bashforth, F",1,1868,1868,1,1
+"Bartholin, Thomas",1,1684,1684,1,1
+"Bartholin, Erasmus",1,1671,1671,1,1
+"Barry, Alexander",1,1831,1831,1,1
+"Barrow, Isaaco",1,1687,1687,1,1
+"Barrow, ",1,1735,1735,1,1
+"Barrington, S.",1,1769,1769,1,1
+"Barrigton, Hon. Daines",1,1771,1771,1,1
+"Barnard, William",1,1780,1780,1,1
+"Barnard, W.",1,1773,1773,1,1
+"Barlow, William Frederick",1,1855,1855,1,1
+"Barker, T.",1,1772,1772,1,1
+"Bate, James",1,1759,1759,1,1
+"Barclay, Thomas",1,1871,1871,1,1
+"Barbosa, Joanne Mendesio Sachetto",1,1755,1755,1,1
+"Barber, Thomas",1,1755,1755,1,1
+"Ballard, ",1,1698,1698,1,1
+"Ball, William",1,1666,1666,1,1
+"Ball, Robert Stawell",1,1874,1874,1,1
+"Balguy, Charles",1,1734,1734,1,1
+"Balfour, Bayley",1,1879,1879,1,1
+"Balduin, Christian Adolph",1,1677,1677,1,1
+"Baker, Thomas",1,1739,1739,1,1
+"Baker, ",1,1745,1745,1,1
+"Bailly, ",1,1773,1773,1,1
+"Bailey, Edward",1,1746,1746,1,1
+"Bate, Charles Spence",1,1858,1858,1,1
+"Baxter, Alexander",1,1787,1787,1,1
+"Badenach, James",1,1772,1772,1,1
+"Belcher, Louise",1,1755,1755,1,1
+"Berkeley, Edward",1,1717,1717,1,1
+"Bentinck, William",1,1743,1743,1,1
+"Bent, Thomas",1,1698,1698,1,1
+"Bent, James",1,1774,1774,1,1
+"Benevuti, Joseph",1,1768,1768,1,1
+"Benevoli, Antonio",1,1722,1722,1,1
+"Bembo, Pietro",1,1724,1724,1,1
+"Bellini, Lorenzo",1,1683,1683,1,1
+"Bellers, Fettiplace",1,1712,1712,1,1
+"Bellati, Manfredo",1,1882,1882,1,1
+"Bell, Thomas",1,1827,1827,1,1
+"Bell, George",1,1742,1742,1,1
+"Bell, Chichester A.",1,1886,1886,1,1
+"Behm, Michael",1,1668,1668,1,1
+"Baxter, William",1,1706,1706,1,1
+"Beeston, William",1,1696,1696,1,1
+"Becmann, Johann Christoph",1,1668,1668,1,1
+"Becke, David Von Der",1,1673,1673,1,1
+"Beck, Thomas Snow",1,1846,1846,1,1
+"Beaufort, Francis",1,1836,1836,1,1
+"Beals, John",1,1669,1669,1,1
+"Beale, ",1,1666,1666,1,1
+"Beal, John",1,1675,1675,1,1
+"Baynard, Edward",1,1695,1695,1,1
+"Bayly, George",1,1752,1752,1,1
+"Bayley, Edward",1,1736,1736,1,1
+"Bayley, ",1,1769,1769,1,1
+"Bayle, ",1,1678,1678,1,1
+"Badily, Will.",1,1667,1667,1,1
+"Badcock, ",1,1746,1746,1,1
+"Bernard, Charles",1,1696,1696,1,1
+"Alestry, James",1,1665,1665,1,1
+"Anderson, Alexander",1,1789,1789,1,1
+"Amyand, Claudius",1,1745,1745,1,1
+"Amijand, Claud",1,1708,1708,1,1
+"Amherst, Jeffrey Amherst, Baron",1,1782,1782,1,1
+"Ames, Joseph",1,1747,1747,1,1
+"Alston, Charles",1,1752,1752,1,1
+"Almond, Edmund",1,1745,1745,1,1
+"Allman, William",1,1814,1814,1,1
+"Allman, ",1,1879,1879,1,1
+"Allen, Thomas",1,1668,1668,1,1
+"Allemand, Monsieur",1,1755,1755,1,1
+"Alexander, J.",1,1740,1740,1,1
+"Alexander, ",1,1767,1767,1,1
+"Airy, Hubert",1,1870,1870,1,1
+"Andre, St.",1,1717,1717,1,1
+"Aikin, John",1,1774,1774,1,1
+"Aglionby, William",1,1699,1699,1,1
+"Affleck, ",1,1755,1755,1,1
+"Aery, Thomas",1,1748,1748,1,1
+"Adeney, W. E.",1,1884,1884,1,1
+"Addison, William",1,1842,1842,1,1
+"Adams, William Grylls",1,1877,1877,1,1
+"Adams, John Couch",1,1853,1853,1,1
+"Achituv, Y.",1,1763,1763,1,1
+"Abercromby, Davide",1,1684,1684,1,1
+"Abbs, Cooper",1,1792,1792,1,1
+"A., R.",1,1685,1685,1,1
+", Joannes a Jesu",1,1699,1699,1,1
+"Anderson, Mr.",1,1778,1778,1,1
+"Andre, William",1,1784,1784,1,1
+"Baccaria, John",1,1761,1761,1,1
+"Atkinson, Joseph",1,1725,1725,1,1
+"Babin, F. Jaques Paul",1,1671,1671,1,1
+"B., D.",1,1668,1668,1,1
+"B. R, ",1,1676,1676,1,1
+"B, Sr. R.",1,1685,1685,1,1
+"B r, B",1,1745,1745,1,1
+"Ayrton, William Edward",1,1880,1880,1,1
+"Aylett, George",1,1744,1744,1,1
+"Auzout, M. Adrian",1,1670,1670,1,1
+"Auzout, M.",1,1666,1666,1,1
+"Austin, Gilbert",1,1813,1813,1,1
+"Augusta, Georgia",1,1745,1745,1,1
+"Aubrey, John",1,1697,1697,1,1
+"Attfield, John",1,1862,1862,1,1
+"Atkinson, ",1,1722,1722,1,1
+"André, William",1,1782,1782,1,1
+"Atkins, John",1,1784,1784,1,1
+"Astron, J. F.",1,1683,1683,1,1
+"Astron, I. F.",1,1684,1684,1,1
+"Ashe, St. George",1,1687,1687,1,1
+"Ashe, St George",1,1698,1698,1,1
+"Ash, Mr.",1,1684,1684,1,1
+"Ash, Georg",1,1685,1685,1,1
+"Ash, ",1,1684,1684,1,1
+"Ascanius, Peter",1,1755,1755,1,1
+"Arthur Bayly, ",1,1685,1685,1,1
+"Arbuthnot, John",1,1710,1710,1,1
+"Aragona, Nicolo Alerbo D",1,1739,1739,1,1
+"Angestein, ",1,1713,1713,1,1
+"Berkeley, George",1,1746,1746,1,1
+"Bernoulli, D. Jo.",1,1704,1704,1,1
+"Cane, Henry",1,1720,1720,1,1
+"Broussonet, Peter Maria Augustus",1,1781,1781,1,1
+"Bullar, J. F.",1,1878,1878,1,1
+"Buffon, Monsieur",1,1748,1748,1,1
+"Budgen, John",1,1729,1729,1,1
+"Buckly, ",1,1698,1698,1,1
+"Buckland, William",1,1822,1822,1,1
+"Brüggemann, F.",1,1879,1879,1,1
+"Bruni, Joseph",1,1755,1755,1,1
+"Bruckman, Franz Ernest",1,1730,1730,1,1
+"Bruce, James",1,1775,1775,1,1
+"Brown, Thomas",1,1778,1778,1,1
+"Brown, Littleton",1,1738,1738,1,1
+"Brown, Charles",1,1720,1720,1,1
+"Brown, ",1,1752,1752,1,1
+"Broun, John Allan",1,1876,1876,1,1
+"Bullock, ",1,1755,1755,1,1
+"Brougham, Henry",1,1797,1797,1,1
+"Brotherton, Thomas",1,1687,1687,1,1
+"Brooks, W. K.",1,1882,1882,1,1
+"Brooke, Rich.",1,1752,1752,1,1
+"Brooke, Henry James",1,1857,1857,1,1
+"Brook, Abraham",1,1782,1782,1,1
+"Bronwin, Brice",1,1851,1851,1,1
+"Bromhead, Edward Thomas Ffrench",1,1816,1816,1,1
+"Bromfield, William",1,1741,1741,1,1
+"Brodie, James",1,1697,1697,1,1
+"Bristol, Thomas",1,1769,1769,1,1
+"Briggs, Domino Doetore",1,1684,1684,1,1
+"Bridgeman, Orlando",1,1708,1708,1,1
+"Bullivant, Benjamin",1,1698,1698,1,1
+"Bulteel, John",1,1674,1674,1,1
+"Brewer, James",1,1700,1700,1,1
+"Cadogan, Charles",1,1761,1761,1,1
+"Campbell, Robert",1,1742,1742,1,1
+"Campbell, George",1,1728,1728,1,1
+"Campbell, Colin",1,1734,1734,1,1
+"Campani, Josephi",1,1726,1726,1,1
+"Cameron, Tho.",1,1747,1747,1,1
+"Camello, Reverendo D. D. G. J.",1,1704,1704,1,1
+"Cameli, Georgij Josephi",1,1703,1703,1,1
+"Cambridge, O. P.",1,1879,1879,1,1
+"Call, John",1,1772,1772,1,1
+"Calep, Ra.",1,1708,1708,1,1
+"Calandrini, M.",1,1764,1764,1,1
+"Calandrini, Johannis Ludovici",1,1726,1726,1,1
+"Cagua, John",1,1740,1740,1,1
+"C., J.",1,1694,1694,1,1
+"Buonanni, P. Filippo",1,1684,1684,1,1
+"Byres, James",1,1768,1768,1,1
+"Byrd, William",1,1697,1697,1,1
+"Byam, Francis",1,1755,1755,1,1
+"Buée, M.",1,1806,1806,1,1
+"Bury, Arthur",1,1708,1708,1,1
+"Burroughs, John",1,1726,1726,1,1
+"Burrough, James",1,1700,1700,1,1
+"Burrat, Tho.",1,1750,1750,1,1
+"Burney, James",1,1818,1818,1,1
+"Burney, Charles",1,1779,1779,1,1
+"Burman, E. J.",1,1724,1724,1,1
+"Burgos, Alessandro P.",1,1693,1693,1,1
+"Burdon-Sanderson, John Scott",1,1882,1882,1,1
+"Bridge, Thomas William",1,1878,1878,1,1
+"Brereton, Owen Salusbury",1,1781,1781,1,1
+"Bernoulli, Jean",1,1697,1697,1,1
+"Birch, Sampson",1,1683,1683,1,1
+"Boccone, Paul",1,1673,1673,1,1
+"Bobart, Jacob",1,1684,1684,1,1
+"Blumenbach, Johann Friedrich",1,1794,1794,1,1
+"Blondeau, ",1,1749,1749,1,1
+"Blizard, William",1,1780,1780,1,1
+"Blanford, Henry Francis",1,1874,1874,1,1
+"Blane, William",1,1787,1787,1,1
+"Blane, Gilbert",1,1790,1790,1,1
+"Bland, Robert",1,1781,1781,1,1
+"Blanchino, D. Francisco",1,1714,1714,1,1
+"Blackburn, John",1,1828,1828,1,1
+"Bishop, John",1,1846,1846,1,1
+"Bird, Golding",1,1837,1837,1,1
+"Birbeck, Christopher",1,1701,1701,1,1
+"Boddington, Mr.",1,1778,1778,1,1
+"Biornonius, Paulus",1,1675,1675,1,1
+"Bigland, Ralph",1,1750,1750,1,1
+"Biggin, George",1,1799,1799,1,1
+"Biddle, Owen",1,1771,1771,1,1
+"Bianchini, Francesco",1,1746,1746,1,1
+"Bewick, Benjamin",1,1755,1755,1,1
+"Bevis, J",1,1738,1738,1,1
+"Bevis, ",1,1750,1750,1,1
+"Betts, Joseph",1,1744,1744,1,1
+"Berzelius, Jons Jakob",1,1813,1813,1,1
+"Berol, R. A.",1,1759,1759,1,1
+"Bernoullium, V. C. J.",1,1719,1719,1,1
+"Bernoulli, Nicholas",1,1714,1714,1,1
+"Boddington, John",1,1771,1771,1,1
+"Boerhaave, Herman",1,1733,1733,1,1
+"Bremond, Francois De",1,1741,1741,1,1
+"Bourriot, M.",1,1771,1771,1,1
+"Breintnall, Joseph",1,1740,1740,1,1
+"Breintal, J.",1,1746,1746,1,1
+"Branker, Thomas",1,1668,1668,1,1
+"Brady, Samuel",1,1705,1705,1,1
+"Brady, Henry Bowman",1,1869,1869,1,1
+"Brady, George Stewardson",1,1879,1879,1,1
+"Bradley, John",1,1752,1752,1,1
+"Bradley, ",1,1772,1772,1,1
+"Boyle, John",1,1748,1748,1,1
+"Boyd, Robert",1,1861,1861,1,1
+"Bowman, Walter",1,1750,1750,1,1
+"Bowles, William",1,1766,1766,1,1
+"Bowdich, Samuel",1,1713,1713,1,1
+"Bourguignon, ",1,1708,1708,1,1
+"Bolton, George Buckley",1,1830,1830,1,1
+"Bottomley, James Thomson",1,1881,1881,1,1
+"Botrario, Joanne",1,1733,1733,1,1
+"Bostock, John",1,1829,1829,1,1
+"Borelli, Giovanni Alfonso",1,1678,1678,1,1
+"Bonomo, Dr",1,1703,1703,1,1
+"Bonney, Thomas George",1,1883,1883,1,1
+"Bonnet, John",1,1724,1724,1,1
+"Bonglarus, Vauclius Dathirius",1,1668,1668,1,1
+"Bonfa, R. P.",1,1686,1686,1,1
+"Bond, Henry",1,1673,1673,1,1
+"Bonavert, ",1,1698,1698,1,1
+"Bonajutus, Vincentius",1,1694,1694,1,1
+"Bon, Francois Xavier",1,1710,1710,1,1
+"Farish, ",1,1774,1774,1,1
+"Farr, W.",1,1769,1769,1,1
+"Michelotti, Pietro Antonio",1,1731,1731,1,1
+"Keill, D. J.",1,1713,1713,1,1
+"Kinneir, David",1,1727,1727,1,1
+"King, Charles",1,1700,1700,1,1
+"Kinck, Peter",1,1727,1727,1,1
+"Kilpatrick, Thomas",1,1755,1755,1,1
+"Kies, M.",1,1750,1750,1,1
+"Kiernan, Francis",1,1833,1833,1,1
+"Kerr, James",1,1781,1781,1,1
+"Kerkringius, Dr.",1,1672,1672,1,1
+"Kenrick, J.",1,1782,1782,1,1
+"Kempe, Alfred Bray",1,1886,1886,1,1
+"Keill, Joannis",1,1714,1714,1,1
+"Keill, James",1,1706,1706,1,1
+"Keill, Jacobi",1,1719,1719,1,1
+"Keill, A Johanne",1,1714,1714,1,1
+"Kirchii, D. Gothofredi",1,1715,1715,1,1
+"Kegler, P. P. Ignatio",1,1731,1731,1,1
+"Kegler, Ignatio P. P.",1,1732,1732,1,1
+"Keen, John",1,1699,1699,1,1
+"Keely, George W.",1,1848,1848,1,1
+"Kearsly, ",1,1737,1737,1,1
+"Kay, Jonathan",1,1702,1702,1,1
+"Justel, Henry",1,1686,1686,1,1
+"Jurin, D. Jacobo",1,1718,1718,1,1
+"Jurin, A Jacobo",1,1723,1723,1,1
+", Chief Inspector of the Cinnamon Trade and Manufacture in Ceylon",1,1729,1729,1,1
+"Jones, Tho.",1,1726,1726,1,1
+"Jones, Maurice",1,1694,1694,1,1
+"Jones, Jezreel",1,1699,1699,1,1
+"Kirch, Gottfried",1,1715,1715,1,1
+"Klein, Edward Emanuel",1,1875,1875,1,1
+"Johnstons, ",1,1674,1674,1,1
+"Lachlan, R.",1,1886,1886,1,1
+"Lasage, ",1,1700,1700,1,1
+"Larsen, J.",1,1675,1675,1,1
+"Langwith, ",1,1723,1723,1,1
+"Langrish, Browne",1,1745,1745,1,1
+"Langley, John Newport",1,1881,1881,1,1
+"Langelot, Joel",1,1672,1672,1,1
+"Lande, Monsieur De La",1,1761,1761,1,1
+"Lancisi, Jean Marie",1,1697,1697,1,1
+"Lancisi, Giovanni Maria",1,1700,1700,1,1
+"Lana, P. Francesco",1,1672,1672,1,1
+"Lana, Francisco P.",1,1672,1672,1,1
+"Lamb, Horace",1,1883,1883,1,1
+"Lafage, John",1,1705,1705,1,1
+"Köhler, M.",1,1787,1787,1,1
+"Klinkenberg, D",1,1757,1757,1,1
+"Kuckahn, Tesser Samuel",1,1771,1771,1,1
+"Krieg, David",1,1704,1704,1,1
+"Krashennicoff, ",1,1759,1759,1,1
+"Krahe, Christopher",1,1684,1684,1,1
+"Kowalevsky, W",1,1873,1873,1,1
+"Konig, Sigismond",1,1686,1686,1,1
+"Konig, Charles Dietrich Eberhard",1,1814,1814,1,1
+"Knox, John",1,1815,1815,1,1
+"Knowler, ",1,1755,1755,1,1
+"Knight, Jonas Moor",1,1676,1676,1,1
+"Knight, Gowan",1,1744,1744,1,1
+"Knight, ",1,1750,1750,1,1
+"Knapton, George",1,1740,1740,1,1
+"Jones, Gulielmo",1,1738,1738,1,1
+"Johnston, James",1,1767,1767,1,1
+"Latham, J.",1,1755,1755,1,1
+"Howman, ",1,1723,1723,1,1
+"Humphreys, David",1,1813,1813,1,1
+"Humfries, Isaac",1,1794,1794,1,1
+"Hume, Francis",1,1753,1753,1,1
+"Huilier, Simon Antoine Jean L'",1,1796,1796,1,1
+"Hugone, D. Antonio",1,1699,1699,1,1
+"Hughes, Griffith",1,1743,1743,1,1
+"Hugens, Monsieur",1,1665,1665,1,1
+"Hudson, James",1,1832,1832,1,1
+"Hudson, ",1,1724,1724,1,1
+"Huddart, Joseph",1,1797,1797,1,1
+"Hubner, Martin",1,1759,1759,1,1
+"Hubero, Joh. Jacobo",1,1749,1749,1,1
+"Howman, Roger",1,1685,1685,1,1
+"Howell, Wm. H.",1,1884,1884,1,1
+"Hunauld, Francis Joseph",1,1735,1735,1,1
+"Howell, Mary",1,1741,1741,1,1
+"Howard, Edward Charles",1,1802,1802,1,1
+"Howard, Edward",1,1800,1800,1,1
+"Houghton, John",1,1699,1699,1,1
+"Hotton, Pieter",1,1701,1701,1,1
+"Hotton, ",1,1699,1699,1,1
+"Hosty, Ambrose",1,1753,1753,1,1
+"Hoskins, Samuel Elliott",1,1843,1843,1,1
+"Hosack, David",1,1794,1794,1,1
+"Horner, William George",1,1819,1819,1,1
+"Horne, Henry",1,1763,1763,1,1
+"Hopton, Richard",1,1712,1712,1,1
+"Hopkinson, E.",1,1886,1886,1,1
+"Humpidge, T. S.",1,1883,1883,1,1
+"Hunt, Robert",1,1840,1840,1,1
+"Johnson, William",1,1773,1773,1,1
+"Jacobs, Mr.",1,1684,1684,1,1
+"Johnson, Richard",1,1858,1858,1,1
+"Johnson, Edward John",1,1836,1836,1,1
+"Jevons, William Stanley",1,1870,1870,1,1
+"Jesu Maria, Bernard Joseph",1,1701,1701,1,1
+"Jenty, Charles Nicholas",1,1757,1757,1,1
+"Jenkins, Samuel",1,1741,1741,1,1
+"Jenkins, H. M.",1,1869,1869,1,1
+"Jeaurat, ",1,1779,1779,1,1
+"Jartoux, Pierre",1,1713,1713,1,1
+"Jardine, Alexander",1,1769,1769,1,1
+"Jamineau, Isaac",1,1755,1755,1,1
+"James, Robert",1,1736,1736,1,1
+"James, King",1,1705,1705,1,1
+"Jacobo, Joh.",1,1707,1707,1,1
+"Hunter, ",1,1777,1777,1,1
+"Jacob, Arthur",1,1819,1819,1,1
+Jacob,1,1753,1753,1,1
+"Jackson, Humphry",1,1773,1773,1,1
+"Jackman, J",1,1705,1705,1,1
+"J. F., M. R.",1,1684,1684,1,1
+"J, S",1,1749,1749,1,1
+"Ironside, Lieutenant Colonel",1,1774,1774,1,1
+"Ippolito, Francesco",1,1783,1783,1,1
+"Huxham, ",1,1725,1725,1,1
+"Hutchinson, Benjamin - Na3303",1,1789,1789,1,1
+"Hutchinson, Benjamin",1,1790,1790,1,1
+"Huntington, A. K.",1,1879,1879,1,1
+"Hunter, Christopher Alexander",1,1702,1702,1,1
+"Lassell, William",1,1875,1875,1,1
+"Latham, William",1,1798,1798,1,1
+"Hope, Thomas",1,1752,1752,1,1
+"Mallet, ",1,1767,1767,1,1
+"Martin, Edward",1,1806,1806,1,1
+"Marshall, William",1,1783,1783,1,1
+"Marshall, Humphry",1,1774,1774,1,1
+"Marshal, John",1,1701,1701,1,1
+"Marsh, Narcissus",1,1684,1684,1,1
+"Margrave, ",1,1700,1700,1,1
+"Margee, William",1,1761,1761,1,1
+"Marcel, Arnold",1,1732,1732,1,1
+"Manning, Thomas",1,1806,1806,1,1
+"Mann, Theodore Augustin",1,1779,1779,1,1
+"Mangold, Matthias",1,1676,1676,1,1
+"Mallet, John William",1,1880,1880,1,1
+"Mallet, J. A",1,1771,1771,1,1
+"Malfalguerat, Mizael",1,1740,1740,1,1
+"Martin, Henry Newell",1,1883,1883,1,1
+"Maleverer, ",1,1699,1699,1,1
+"Malet, John Christian",1,1882,1882,1,1
+"Makenzie, George",1,1675,1675,1,1
+"Maire, Christopher",1,1750,1750,1,1
+"Maguire, Rochfort",1,1863,1863,1,1
+"Magni, D. Antonii",1,1727,1727,1,1
+"Madden, T.",1,1731,1731,1,1
+Madden,1,1736,1736,1,1
+"Macky, ",1,1743,1743,1,1
+"Mackinlay, Robert",1,1761,1761,1,1
+"Mackenzie, Murdoch",1,1749,1749,1,1
+"Mackenzie, Mordach",1,1750,1750,1,1
+"Mackenzie, Alexander",1,1777,1777,1,1
+"Martin, George",1,1730,1730,1,1
+"Martindale, Adam",1,1670,1670,1,1
+"Mackarness, J.",1,1740,1740,1,1
+"Mayer, Andrew",1,1769,1769,1,1
+"Mesaporiti, Antonii D",1,1705,1705,1,1
+"Mertens, Charles De",1,1778,1778,1,1
+"Merrit, Christopher",1,1679,1679,1,1
+"Menzies, Archibald",1,1796,1796,1,1
+"Melvil, T.",1,1753,1753,1,1
+"Mead, Richardo",1,1719,1719,1,1
+"McIntosh, William Carmichael",1,1879,1879,1,1
+"McGouan, John",1,1778,1778,1,1
+"McConnel, James C.",1,1886,1886,1,1
+"McClintock, Francis Leopold",1,1863,1863,1,1
+"McCausland, Richard",1,1786,1786,1,1
+"Mayne, Zachary",1,1695,1695,1,1
+"Mayern, Sr. Theodore",1,1687,1687,1,1
+"Maxwell, John",1,1707,1707,1,1
+"Martineau, David",1,1723,1723,1,1
+"Mawgridge, Robert",1,1697,1697,1,1
+"Maurice, Sandrine",1,1683,1683,1,1
+"Maupertuis, Pierre Louis Moreau De",1,1732,1732,1,1
+"Mauduit, Israel",1,1755,1755,1,1
+"Matthews, Edward",1,1755,1755,1,1
+"Mather, Cotton",1,1714,1714,1,1
+"Masters, Maxwell Tylden",1,1882,1882,1,1
+"Masson, Francis",1,1778,1778,1,1
+"Mason, Christopher",1,1742,1742,1,1
+"Mason, Abraham",1,1761,1761,1,1
+"Martyr, D. Georgii",1,1748,1748,1,1
+"Martyn, Joh.",1,1670,1670,1,1
+"Martineau, Philip Meadows",1,1784,1784,1,1
+"Mackenzie, ",1,1752,1752,1,1
+"Machel, Thomas",1,1684,1684,1,1
+"Latterman, James",1,1755,1755,1,1
+"Leibmtius, ",1,1671,1671,1,1
+"Leyel, Adam",1,1724,1724,1,1
+"Lexell, J. A.",1,1779,1779,1,1
+"Lexell, Anders Johan",1,1775,1775,1,1
+"Lewis, Mark",1,1694,1694,1,1
+"Lewis, John",1,1729,1729,1,1
+"Lewis, George",1,1698,1698,1,1
+"Lewis, ",1,1728,1728,1,1
+Lewis,1,1673,1673,1,1
+"Lettsom, John Coakley",1,1786,1786,1,1
+"Lethieullier, Smart",1,1750,1750,1,1
+"Letheby, Henry",1,1852,1852,1,1
+"Leprotti, Antonio",1,1743,1743,1,1
+"Leibniz, Gottfried Wilhelm",1,1717,1717,1,1
+"Legge, Edward",1,1742,1742,1,1
+"Liesganig, Joseph",1,1768,1768,1,1
+"Leewnenhoek Van, Antony",1,1677,1677,1,1
+"Leewenhoeck, Mr.",1,1685,1685,1,1
+"Leewenhoeck, Anthony",1,1684,1684,1,1
+"Leeds, John",1,1769,1769,1,1
+"Lee, Arthur",1,1766,1766,1,1
+"Leclerc, Georges Louis",1,1747,1747,1,1
+"Leach, William Elford",1,1817,1817,1,1
+"Le Gobien, Charles",1,1708,1708,1,1
+"Le Cerf, ",1,1778,1778,1,1
+"Layard, Charles Peter",1,1750,1750,1,1
+"Lawrence, Thomas",1,1764,1764,1,1
+"Lavington, ",1,1765,1765,1,1
+"Laurin, Colin Mac",1,1739,1739,1,1
+"Lich. & Cov., J.",1,1769,1769,1,1
+"Limbird, James",1,1787,1787,1,1
+"M., C.",1,1737,1737,1,1
+"Lovell, Thomas",1,1742,1742,1,1
+"M'Leod, Herbert",1,1880,1880,1,1
+"M'Kichan, Dugald",1,1873,1873,1,1
+"Lyster, John",1,1706,1706,1,1
+"Lyster, ",1,1671,1671,1,1
+"Lyon, John",1,1786,1786,1,1
+"Lynn, Geo",1,1736,1736,1,1
+"Luffkin, John",1,1701,1701,1,1
+Ludlam,1,1778,1778,1,1
+"Lucas, Robert",1,1747,1747,1,1
+"Lucas, Charles",1,1740,1740,1,1
+"Lucas, Anthony",1,1676,1676,1,1
+"Lowthorp, John",1,1699,1699,1,1
+"Lowther, James",1,1733,1733,1,1
+"Lorimer, J.",1,1775,1775,1,1
+"Limbourg, John Philip De",1,1766,1766,1,1
+"Lord, Thomas",1,1743,1743,1,1
+"Longfield, John",1,1779,1779,1,1
+"Logan, J.",1,1734,1734,1,1
+"Lodwik, Francis",1,1686,1686,1,1
+"Lock, John",1,1750,1750,1,1
+"Lluyd, Edw.",1,1701,1701,1,1
+"Lloyd, Philippo",1,1699,1699,1,1
+"Lloyd, J.",1,1771,1771,1,1
+"Lloyd, Edward",1,1684,1684,1,1
+"Liveing, George Downing",1,1883,1883,1,1
+"Lindo, Moses",1,1763,1763,1,1
+"Lindestolpe, Johanne",1,1724,1724,1,1
+"Linck, Johann Heinrich",1,1726,1726,1,1
+"Hopkins, ",1,1732,1732,1,1
+"Hooke, ",1,1666,1666,1,1
+"Farrington, ",1,1755,1755,1,1
+"Gaskell, Walter Holbrook",1,1882,1882,1,1
+"Giffard, William",1,1726,1726,1,1
+"Giebel, C.",1,1879,1879,1,1
+"Gibson, Mr. Benj",1,1810,1810,1,1
+"Gibson, John C",1,1871,1871,1,1
+"George, St.",1,1697,1697,1,1
+"George, Plaxton",1,1707,1707,1,1
+"George Joseph, Camel",1,1703,1703,1,1
+"Georg, R. P.",1,1704,1704,1,1
+"Geddes, Michael",1,1694,1694,1,1
+"Geach, Francis",1,1763,1763,1,1
+"Gaze, John",1,1757,1757,1,1
+"Gaubil, P. P. Antonio",1,1750,1750,1,1
+"Gaubil, ",1,1757,1757,1,1
+"Gascoigne, ",1,1717,1717,1,1
+"Gilkes, Moreton",1,1740,1740,1,1
+"Garthshore, Maxwell",1,1787,1787,1,1
+"Garrard, Mr. William",1,1808,1808,1,1
+"Gardiner, Walter",1,1883,1883,1,1
+"Garden, Alexander",1,1775,1775,1,1
+"Garden, ",1,1685,1685,1,1
+"Gandolphe, ",1,1709,1709,1,1
+"Gamgee, Arthur",1,1868,1868,1,1
+"Galloway, Thomas",1,1847,1847,1,1
+"Gallet, ",1,1678,1678,1,1
+"Gale, Thomas",1,1697,1697,1,1
+"Gaillard, ",1,1697,1697,1,1
+"Gaertner, Joseph",1,1761,1761,1,1
+"G., W.",1,1684,1684,1,1
+"Giles, Daniel",1,1821,1821,1,1
+"Glanvill, Joseph",1,1668,1668,1,1
+"Fuller, Rose",1,1737,1737,1,1
+"Graves, John",1,1678,1678,1,1
+"Gregorie, James",1,1668,1668,1,1
+"Greenhill, ",1,1700,1700,1,1
+"Green, Henry",1,1750,1750,1,1
+"Green, Charles",1,1771,1771,1,1
+"Greaves, ",1,1685,1685,1,1
+"Greatrakes, Valentine",1,1699,1699,1,1
+"Greatorex, Thomas",1,1818,1818,1,1
+"Gray, Trevor",1,1882,1882,1,1
+"Gray, Mr.",1,1700,1700,1,1
+"Gray, John",1,1737,1737,1,1
+"Gray, James",1,1753,1753,1,1
+"Gray, Charles",1,1755,1755,1,1
+"Graves, John Thomas",1,1829,1829,1,1
+"Grandi, Jacomo",1,1670,1670,1,1
+"Glass, Samuel",1,1747,1747,1,1
+"Gramont, ",1,1771,1771,1,1
+"Graham, Richard",1,1734,1734,1,1
+"Gould, William",1,1684,1684,1,1
+"Goree, ",1,1711,1711,1,1
+"Gordon, William",1,1742,1742,1,1
+"Goodyear, Aaron",1,1698,1698,1,1
+"Goodsir, John",1,1846,1846,1,1
+"Goodall, Charles",1,1678,1678,1,1
+"Gooch, B.",1,1753,1753,1,1
+"Gmelin, Philip Friedrich",1,1745,1745,1,1
+"Gmelin, Johann Georg",1,1748,1748,1,1
+"Gmelin, ",1,1753,1753,1,1
+"Glover, Thomas",1,1676,1676,1,1
+"Fynney, Fielding Best",1,1777,1777,1,1
+"Fuller, Esq, John",1,1704,1704,1,1
+"Gregory, ",1,1793,1793,1,1
+"Fielding, Robert",1,1709,1709,1,1
+"Forchhammer, Georg",1,1865,1865,1,1
+"Foot, Daniel",1,1669,1669,1,1
+"Fontenay, R. P.",1,1684,1684,1,1
+"Folkes, William",1,1750,1750,1,1
+"Foley, Sam",1,1694,1694,1,1
+"Fogelius, ",1,1671,1671,1,1
+"Floyd, Edward",1,1694,1694,1,1
+"Flowers, S.",1,1693,1693,1,1
+"Flowers, ",1,1693,1693,1,1
+"Flight, Walter",1,1882,1882,1,1
+"Fleming, Malcolm",1,1755,1755,1,1
+"Fitzgerald, George Francis",1,1880,1880,1,1
+"Finch, Charles",1,1729,1729,1,1
+"Field, James",1,1722,1722,1,1
+"Forster, John",1,1748,1748,1,1
+"Fidge, William",1,1747,1747,1,1
+"Fevry, ",1,1723,1723,1,1
+"Feuillèe, Pere",1,1722,1722,1,1
+"Festing, Lieut.-colonel",1,1881,1881,1,1
+"Festing, Edward Robert",1,1886,1886,1,1
+"Ferrers, Norman Macleod",1,1870,1870,1,1
+"Fern, ",1,1699,1699,1,1
+"Ferguson, John",1,1738,1738,1,1
+"Felton, Samuel",1,1764,1764,1,1
+"Fawler, John",1,1707,1707,1,1
+"Fawkener, William",1,1791,1791,1,1
+"Fatio, Jean Christophe",1,1706,1706,1,1
+"Fatio de Duillier, Nicolas",1,1713,1713,1,1
+"Ford, James",1,1755,1755,1,1
+"Forster, Mr.",1,1757,1757,1,1
+"Fryer, John",1,1698,1698,1,1
+"Frederick, Charles",1,1782,1782,1,1
+"Frost, Richard",1,1729,1729,1,1
+"Froidour, Monsieur De",1,1753,1753,1,1
+"Frobenius, Sigismond Augustus",1,1741,1741,1,1
+"Friend, John",1,1699,1699,1,1
+"Friend, D. Johannis",1,1701,1701,1,1
+"Friend, ",1,1675,1675,1,1
+"Fried, J.",1,1739,1739,1,1
+"Frewen, T.",1,1731,1731,1,1
+"Frere, John",1,1778,1778,1,1
+"Freman, William",1,1749,1749,1,1
+"Freind, John",1,1711,1711,1,1
+"Freeman-Mitford, John",1,1750,1750,1,1
+"Freeman, ",1,1752,1752,1,1
+"Fred, Frederici Hossmanni",1,1685,1685,1,1
+"Forster, Thomas",1,1722,1722,1,1
+"Fraser, James",1,1699,1699,1,1
+"Fraser, Alex.",1,1882,1882,1,1
+"Franz, J. C. August",1,1841,1841,1,1
+"Frantz, R. P.",1,1743,1743,1,1
+"Franklin, J.",1,1790,1790,1,1
+"Frankland, Thomas",1,1795,1795,1,1
+"Fox, Wilson",1,1866,1866,1,1
+"Fowke, ",1,1755,1755,1,1
+"Foucquet, Johannes Franciseus",1,1730,1730,1,1
+"Fouchy, Jean Paul Grandjean De",1,1739,1739,1,1
+"Fothergill S, Johannes",1,1746,1746,1,1
+"Foster, George Carey",1,1863,1863,1,1
+"Foster, G. C.",1,1867,1867,1,1
+"Gregories, ",1,1668,1668,1,1
+"Gregory, Edward",1,1793,1793,1,1
+"Hooke's, Dr.",1,1711,1711,1,1
+"Henry, Thomas Hetherington",1,1845,1845,1,1
+"Higgins, Bryant",1,1778,1778,1,1
+"Higgins, B.",1,1773,1773,1,1
+"Higginbottom, John",1,1850,1850,1,1
+"Hieronym, Abbat",1,1736,1736,1,1
+"Hickson, Sydney John",1,1883,1883,1,1
+"Hicks, John",1,1701,1701,1,1
+"Hey, William",1,1790,1790,1,1
+"Hey, Richard",1,1814,1814,1,1
+"Hewnden, Anthony",1,1706,1706,1,1
+"Hevelius, Monsieur",1,1665,1665,1,1
+"Hevelio, Johanne",1,1685,1685,1,1
+"Herissant, Francois David",1,1752,1752,1,1
+"Henry, Wm.",1,1753,1753,1,1
+"Henry, Thomas",1,1778,1778,1,1
+"Hill, ",1,1697,1697,1,1
+"Henry, Forth",1,1736,1736,1,1
+"Hennessey, John Baboneau Nickterlien",1,1875,1875,1,1
+"Hemmer, V. D. Christophorum",1,1693,1693,1,1
+"Helvetius, Jean Claude Adrian",1,1715,1715,1,1
+"Hele-Shaw, Henry Selby",1,1885,1885,1,1
+"Heistero, Laurentio",1,1731,1731,1,1
+"Heinsius, M. Godofridus",1,1742,1742,1,1
+"Heinsio, Godosredo",1,1743,1743,1,1
+"Heidel, Wolfgango Ernesto",1,1677,1677,1,1
+"Hee, Christianus",1,1755,1755,1,1
+"Heathcott, Mr",1,1684,1684,1,1
+"Heathcot, Tho.",1,1683,1683,1,1
+"Heath, R. S.",1,1884,1884,1,1
+"Highmore, Dr.",1,1670,1670,1,1
+"Hill, Micaiah John Muller",1,1884,1884,1,1
+"Hearne, Thomas",1,1719,1719,1,1
+"Hogg, William",1,1729,1729,1,1
+"Honohane, John",1,1697,1697,1,1
+"Hondt, De",1,1755,1755,1,1
+"Home, Robert",1,1757,1757,1,1
+"Holzmann, M",1,1860,1860,1,1
+"Holwell, John Zephaniah",1,1772,1772,1,1
+"Holt, Charles",1,1701,1701,1,1
+"Holloway, Benjamin",1,1723,1723,1,1
+"Hollmanno, Christiano",1,1749,1749,1,1
+"Hollings, ",1,1716,1716,1,1
+"Holland, Henry",1,1816,1816,1,1
+"Holdsworth, Henry",1,1755,1755,1,1
+"Holder, William",1,1668,1668,1,1
+"Holbrooke, W",1,1710,1710,1,1
+"Hody, Edward",1,1736,1736,1,1
+"Hillier, J.",1,1697,1697,1,1
+"Hodgson, Jacobo",1,1743,1743,1,1
+"Hodgson, D. Lucas",1,1676,1676,1,1
+"Hobson, Joseph",1,1743,1743,1,1
+"Hobs, ",1,1671,1671,1,1
+"Hoare, M. R.",1,1747,1747,1,1
+"Hoadly, Benjamin",1,1735,1735,1,1
+"Hittorf, Johann Wilhelm",1,1865,1865,1,1
+"Hitchins, Malachy",1,1801,1801,1,1
+"Hirst, Thomas Archer",1,1863,1863,1,1
+"Hindley, Henry",1,1786,1786,1,1
+"Hinde, George Jennings",1,1885,1885,1,1
+"Himsel, Nicolaus De",1,1757,1757,1,1
+Himsel,1,1759,1759,1,1
+"Heath, Benjamin",1,1749,1749,1,1
+"Hearne, Tho.",1,1709,1709,1,1
+"Greschow Nathaniel, Augustine",1,1748,1748,1,1
+"Gálvez, Bernardo De",1,1784,1784,1,1
+"Hallet, ",1,1726,1726,1,1
+"Hallero, Alberto",1,1744,1744,1,1
+"Halleri, D. Alberti",1,1750,1750,1,1
+"Halleri, Alberti",1,1749,1749,1,1
+"Haller, Alberti D.",1,1744,1744,1,1
+"Haller, Alberti",1,1747,1747,1,1
+"Hall, Basil",1,1823,1823,1,1
+"Hall, ",1,1727,1727,1,1
+"Halifax, William",1,1695,1695,1,1
+"Hales, ",1,1727,1727,1,1
+"Haines, Ed",1,1687,1687,1,1
+"Haig, Robert Wolseley",1,1864,1864,1,1
+"H., R.",1,1684,1684,1,1
+"Gwither, ",1,1694,1694,1,1
+"Hamilton, Charles",1,1746,1746,1,1
+"Guy, Richard",1,1755,1755,1,1
+"Guthrie, Frederick",1,1869,1869,1,1
+"Gunther, Albert",1,1867,1867,1,1
+"Gullet, Christopher",1,1772,1772,1,1
+"Guglielmini, Domenico",1,1693,1693,1,1
+"Grube, Ed.",1,1879,1879,1,1
+"Grubb, Thomas",1,1869,1869,1,1
+"Grischow, M.",1,1750,1750,1,1
+"Grindall, Richard",1,1757,1757,1,1
+"Griffiths, John",1,1806,1806,1,1
+"Griffith, ",1,1765,1765,1,1
+"Griess, John Peter",1,1864,1864,1,1
+"Grey Egerton, Philip De Malpas",1,1858,1858,1,1
+"Hallett, William",1,1744,1744,1,1
+"Hamilton, James",1,1724,1724,1,1
+"Hearne, ",1,1705,1705,1,1
+"Harvey, Dr.",1,1669,1669,1,1
+"Hayward, J.",1,1729,1729,1,1
+"Hawkesbee, ",1,1715,1715,1,1
+"Havers, Clopton",1,1699,1699,1,1
+"Hauskbee, Fr.",1,1707,1707,1,1
+"Hatley, Griff",1,1684,1684,1,1
+"Hasted, R.",1,1765,1765,1,1
+"Hasted, Edward",1,1771,1771,1,1
+"Hassenfratz, Monsieur",1,1787,1787,1,1
+"Hasselquist, Dr.",1,1759,1759,1,1
+"Hassell, Richard",1,1748,1748,1,1
+"Hassall, Arthur Hill",1,1854,1854,1,1
+"Harwood, John",1,1706,1706,1,1
+"Harwood, I.",1,1827,1827,1,1
+"Hartop, Martin",1,1693,1693,1,1
+"Hamilton, James Augustus",1,1783,1783,1,1
+"Harrison, J.",1,1755,1755,1,1
+"Harris, Walter",1,1685,1685,1,1
+"Harris, Daniel",1,1769,1769,1,1
+"Harmer, Thomas",1,1767,1767,1,1
+"Harley, Robert",1,1861,1861,1,1
+"Harley, George",1,1865,1865,1,1
+"Hardisway, Petro",1,1727,1727,1,1
+"Hardisway, P",1,1723,1723,1,1
+"Hannay, J. B.",1,1879,1879,1,1
+"Hanly, P.",1,1771,1771,1,1
+"Hankewitz, Ambrose Godfrey",1,1741,1741,1,1
+"Hanbury, William",1,1741,1741,1,1
+"Hamilton, Thomas",1,1771,1771,1,1
+"von Bose, Moritz",1,1862,1862,1,1

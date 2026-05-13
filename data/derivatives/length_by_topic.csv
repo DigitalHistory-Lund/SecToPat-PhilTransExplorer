@@ -1,0 +1,76 @@
+topic,pages_bin,count
+Advertisement,1,15
+Advertisement,2,4
+Advertisement,4,1
+Article,1,131
+Article,2,335
+Article,3,359
+Article,4,293
+Article,5,252
+Article,6–10,846
+Article,11–20,820
+Article,21–50,670
+Article,51–100,162
+Article,101+,36
+Astronomical Observation,1,41
+Astronomical Observation,2,80
+Astronomical Observation,3,77
+Astronomical Observation,4,44
+Astronomical Observation,5,27
+Astronomical Observation,6–10,94
+Astronomical Observation,11–20,63
+Astronomical Observation,21–50,37
+Astronomical Observation,51–100,10
+Astronomical Observation,101+,4
+Book-review,1,6
+Book-review,2,13
+Book-review,3,22
+Book-review,4,30
+Book-review,5,26
+Book-review,6–10,105
+Book-review,11–20,58
+Book-review,21–50,7
+Book-review,51–100,1
+Book-review,101+,1
+Errata,1,234
+Errata,2,1
+Experiment,1,10
+Experiment,2,34
+Experiment,3,32
+Experiment,4,23
+Experiment,5,28
+Experiment,6–10,98
+Experiment,11–20,98
+Experiment,21–50,99
+Experiment,51–100,26
+Experiment,101+,6
+Illustration,1,12
+Illustration,3,1
+Illustration,6–10,1
+Illustration,11–20,1
+Lecture,5,1
+Lecture,6–10,9
+Lecture,11–20,30
+Lecture,21–50,39
+Lecture,51–100,15
+Lecture,101+,1
+Letter,1,125
+Letter,2,370
+Letter,3,359
+Letter,4,225
+Letter,5,181
+Letter,6–10,501
+Letter,11–20,277
+Letter,21–50,89
+Letter,51–100,12
+Letter,101+,2
+Meteorological-observation,1,4
+Meteorological-observation,2,12
+Meteorological-observation,3,22
+Meteorological-observation,4,21
+Meteorological-observation,5,15
+Meteorological-observation,6–10,23
+Meteorological-observation,11–20,25
+Meteorological-observation,21–50,63
+Meteorological-observation,51–100,2
+Meteorological-observation,101+,1
