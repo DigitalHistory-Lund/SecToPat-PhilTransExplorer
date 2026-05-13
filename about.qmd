@@ -48,6 +48,13 @@ The crawl, database build, derivative pipeline, and Quarto site were
 assembled by Mathias Johansson using Python, SQLite, Quarto, Plotly,
 GitHub Pages, and Claude.
 
+## Citation
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20162091.svg)](https://doi.org/10.5281/zenodo.20162091)
+
+If you use this site or its derivative data in your work, please cite the
+Zenodo deposit: [10.5281/zenodo.20162091](https://doi.org/10.5281/zenodo.20162091).
+
 ## License
 
 [![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
